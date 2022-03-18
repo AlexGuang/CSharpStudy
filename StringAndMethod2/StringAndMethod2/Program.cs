@@ -25,9 +25,9 @@ namespace StringAndMethod2
             Console.WriteLine(" Please enter a string here: ");// Client guide
             enterString = Console.ReadLine();// input the string
             Console.WriteLine("Please enter a character to search in the string you entered");//Client guide 2
-            string enterCharacter = Console.ReadLine();//Enter a character, readline returns a string
+            char enterCharacter = Console.ReadLine()[0];//Enter a character, readline returns a string
             int indexCharacter = enterString.IndexOf(enterCharacter); // find the index
-            Console.WriteLine(" The index of the character in the string is :{0}", indexCharacter);//string formating
+            Console.WriteLine(" The index of the character in the string {0} is :{1}",enterCharacter, indexCharacter);//string formating
 
 
 
