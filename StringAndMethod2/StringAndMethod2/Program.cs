@@ -43,6 +43,7 @@ Output can be different in your case. Try to store the full name in a variable, 
             string firstName;
             string lastName;
             string fullName;
+            string fullName1;
 
 
 
@@ -55,8 +56,12 @@ Output can be different in your case. Try to store the full name in a variable, 
             lastName = Console.ReadLine();
             
             fullName = String.Format("{0} {1}",firstName,lastName);
+
+            fullName1 = string.Concat(firstName,"",lastName);  
             
             Console.WriteLine(fullName);
+            Console.WriteLine("Your full name is {0}", fullName1);
+
             //test git
 
 

@@ -1,0 +1,15 @@
+E:\Annnew Studio\C#study\github\Gitqiab\Constants\Constants\bin\Debug\net5.0\Constants.exe
+E:\Annnew Studio\C#study\github\Gitqiab\Constants\Constants\bin\Debug\net5.0\Constants.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\Constants\Constants\bin\Debug\net5.0\Constants.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\Constants\Constants\bin\Debug\net5.0\Constants.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\Constants\Constants\bin\Debug\net5.0\Constants.dll
+E:\Annnew Studio\C#study\github\Gitqiab\Constants\Constants\bin\Debug\net5.0\ref\Constants.dll
+E:\Annnew Studio\C#study\github\Gitqiab\Constants\Constants\bin\Debug\net5.0\Constants.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\Constants\Constants\obj\Debug\net5.0\Constants.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\Constants\Constants\obj\Debug\net5.0\Constants.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\Constants\Constants\obj\Debug\net5.0\Constants.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\Constants\Constants\obj\Debug\net5.0\Constants.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\Constants\Constants\obj\Debug\net5.0\Constants.dll
+E:\Annnew Studio\C#study\github\Gitqiab\Constants\Constants\obj\Debug\net5.0\ref\Constants.dll
+E:\Annnew Studio\C#study\github\Gitqiab\Constants\Constants\obj\Debug\net5.0\Constants.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\Constants\Constants\obj\Debug\net5.0\Constants.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\DatatypeVariable\DatatypeVariable\bin\Debug\net5.0\DatatypeVariable.exe
+E:\Annnew Studio\C#study\github\Gitqiab\DatatypeVariable\DatatypeVariable\bin\Debug\net5.0\DatatypeVariable.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\DatatypeVariable\DatatypeVariable\bin\Debug\net5.0\DatatypeVariable.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\DatatypeVariable\DatatypeVariable\bin\Debug\net5.0\DatatypeVariable.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\DatatypeVariable\DatatypeVariable\bin\Debug\net5.0\DatatypeVariable.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DatatypeVariable\DatatypeVariable\bin\Debug\net5.0\ref\DatatypeVariable.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DatatypeVariable\DatatypeVariable\bin\Debug\net5.0\DatatypeVariable.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\DatatypeVariable\DatatypeVariable\obj\Debug\net5.0\DatatypeVariable.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\DatatypeVariable\DatatypeVariable\obj\Debug\net5.0\DatatypeVariable.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\DatatypeVariable\DatatypeVariable\obj\Debug\net5.0\DatatypeVariable.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\DatatypeVariable\DatatypeVariable\obj\Debug\net5.0\DatatypeVariable.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\DatatypeVariable\DatatypeVariable\obj\Debug\net5.0\DatatypeVariable.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\DatatypeVariable\DatatypeVariable\obj\Debug\net5.0\DatatypeVariable.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DatatypeVariable\DatatypeVariable\obj\Debug\net5.0\ref\DatatypeVariable.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DatatypeVariable\DatatypeVariable\obj\Debug\net5.0\DatatypeVariable.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\DatatypeVariable\DatatypeVariable\obj\Debug\net5.0\DatatypeVariable.genruntimeconfig.cache
