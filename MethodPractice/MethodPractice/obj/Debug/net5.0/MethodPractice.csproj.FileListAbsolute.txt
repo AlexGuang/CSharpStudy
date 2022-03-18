@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\MethodPractice\MethodPractice\bin\Debug\net5.0\MethodPractice.exe
+E:\Annnew Studio\C#study\github\Gitqiab\MethodPractice\MethodPractice\bin\Debug\net5.0\MethodPractice.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\MethodPractice\MethodPractice\bin\Debug\net5.0\MethodPractice.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\MethodPractice\MethodPractice\bin\Debug\net5.0\MethodPractice.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\MethodPractice\MethodPractice\bin\Debug\net5.0\MethodPractice.dll
+E:\Annnew Studio\C#study\github\Gitqiab\MethodPractice\MethodPractice\bin\Debug\net5.0\ref\MethodPractice.dll
+E:\Annnew Studio\C#study\github\Gitqiab\MethodPractice\MethodPractice\bin\Debug\net5.0\MethodPractice.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\MethodPractice\MethodPractice\obj\Debug\net5.0\MethodPractice.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\MethodPractice\MethodPractice\obj\Debug\net5.0\MethodPractice.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\MethodPractice\MethodPractice\obj\Debug\net5.0\MethodPractice.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\MethodPractice\MethodPractice\obj\Debug\net5.0\MethodPractice.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\MethodPractice\MethodPractice\obj\Debug\net5.0\MethodPractice.dll
+E:\Annnew Studio\C#study\github\Gitqiab\MethodPractice\MethodPractice\obj\Debug\net5.0\ref\MethodPractice.dll
+E:\Annnew Studio\C#study\github\Gitqiab\MethodPractice\MethodPractice\obj\Debug\net5.0\MethodPractice.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\MethodPractice\MethodPractice\obj\Debug\net5.0\MethodPractice.genruntimeconfig.cache
+E:\Annnew Studio\C#study\github\Gitqiab\MethodPractice\MethodPractice\obj\Debug\net5.0\MethodPractice.csproj.AssemblyReference.cache

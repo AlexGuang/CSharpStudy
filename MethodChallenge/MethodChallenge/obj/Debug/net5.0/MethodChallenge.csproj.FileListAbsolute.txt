@@ -1,0 +1,15 @@
+E:\Annnew Studio\C#study\github\Gitqiab\MethodChallenge\MethodChallenge\bin\Debug\net5.0\MethodChallenge.exe
+E:\Annnew Studio\C#study\github\Gitqiab\MethodChallenge\MethodChallenge\bin\Debug\net5.0\MethodChallenge.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\MethodChallenge\MethodChallenge\bin\Debug\net5.0\MethodChallenge.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\MethodChallenge\MethodChallenge\bin\Debug\net5.0\MethodChallenge.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\MethodChallenge\MethodChallenge\bin\Debug\net5.0\MethodChallenge.dll
+E:\Annnew Studio\C#study\github\Gitqiab\MethodChallenge\MethodChallenge\bin\Debug\net5.0\ref\MethodChallenge.dll
+E:\Annnew Studio\C#study\github\Gitqiab\MethodChallenge\MethodChallenge\bin\Debug\net5.0\MethodChallenge.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\MethodChallenge\MethodChallenge\obj\Debug\net5.0\MethodChallenge.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\MethodChallenge\MethodChallenge\obj\Debug\net5.0\MethodChallenge.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\MethodChallenge\MethodChallenge\obj\Debug\net5.0\MethodChallenge.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\MethodChallenge\MethodChallenge\obj\Debug\net5.0\MethodChallenge.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\MethodChallenge\MethodChallenge\obj\Debug\net5.0\MethodChallenge.dll
+E:\Annnew Studio\C#study\github\Gitqiab\MethodChallenge\MethodChallenge\obj\Debug\net5.0\ref\MethodChallenge.dll
+E:\Annnew Studio\C#study\github\Gitqiab\MethodChallenge\MethodChallenge\obj\Debug\net5.0\MethodChallenge.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\MethodChallenge\MethodChallenge\obj\Debug\net5.0\MethodChallenge.genruntimeconfig.cache

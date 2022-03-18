@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\UserInput\UserInput\bin\Debug\net5.0\UserInput.exe
+E:\Annnew Studio\C#study\github\Gitqiab\UserInput\UserInput\bin\Debug\net5.0\UserInput.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\UserInput\UserInput\bin\Debug\net5.0\UserInput.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\UserInput\UserInput\bin\Debug\net5.0\UserInput.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\UserInput\UserInput\bin\Debug\net5.0\UserInput.dll
+E:\Annnew Studio\C#study\github\Gitqiab\UserInput\UserInput\bin\Debug\net5.0\ref\UserInput.dll
+E:\Annnew Studio\C#study\github\Gitqiab\UserInput\UserInput\bin\Debug\net5.0\UserInput.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\UserInput\UserInput\obj\Debug\net5.0\UserInput.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\UserInput\UserInput\obj\Debug\net5.0\UserInput.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\UserInput\UserInput\obj\Debug\net5.0\UserInput.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\UserInput\UserInput\obj\Debug\net5.0\UserInput.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\UserInput\UserInput\obj\Debug\net5.0\UserInput.dll
+E:\Annnew Studio\C#study\github\Gitqiab\UserInput\UserInput\obj\Debug\net5.0\ref\UserInput.dll
+E:\Annnew Studio\C#study\github\Gitqiab\UserInput\UserInput\obj\Debug\net5.0\UserInput.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\UserInput\UserInput\obj\Debug\net5.0\UserInput.genruntimeconfig.cache
+E:\Annnew Studio\C#study\github\Gitqiab\UserInput\UserInput\obj\Debug\net5.0\UserInput.csproj.AssemblyReference.cache
