@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\Code\HelloWorldSring\HelloWorldSring\bin\Debug\net5.0\HelloWorldSring.exe
+E:\Annnew Studio\C#study\Code\HelloWorldSring\HelloWorldSring\bin\Debug\net5.0\HelloWorldSring.deps.json
+E:\Annnew Studio\C#study\Code\HelloWorldSring\HelloWorldSring\bin\Debug\net5.0\HelloWorldSring.runtimeconfig.json
+E:\Annnew Studio\C#study\Code\HelloWorldSring\HelloWorldSring\bin\Debug\net5.0\HelloWorldSring.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\Code\HelloWorldSring\HelloWorldSring\bin\Debug\net5.0\HelloWorldSring.dll
+E:\Annnew Studio\C#study\Code\HelloWorldSring\HelloWorldSring\bin\Debug\net5.0\ref\HelloWorldSring.dll
+E:\Annnew Studio\C#study\Code\HelloWorldSring\HelloWorldSring\bin\Debug\net5.0\HelloWorldSring.pdb
+E:\Annnew Studio\C#study\Code\HelloWorldSring\HelloWorldSring\obj\Debug\net5.0\HelloWorldSring.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\Code\HelloWorldSring\HelloWorldSring\obj\Debug\net5.0\HelloWorldSring.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\Code\HelloWorldSring\HelloWorldSring\obj\Debug\net5.0\HelloWorldSring.AssemblyInfo.cs
+E:\Annnew Studio\C#study\Code\HelloWorldSring\HelloWorldSring\obj\Debug\net5.0\HelloWorldSring.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\Code\HelloWorldSring\HelloWorldSring\obj\Debug\net5.0\HelloWorldSring.dll
+E:\Annnew Studio\C#study\Code\HelloWorldSring\HelloWorldSring\obj\Debug\net5.0\ref\HelloWorldSring.dll
+E:\Annnew Studio\C#study\Code\HelloWorldSring\HelloWorldSring\obj\Debug\net5.0\HelloWorldSring.pdb
+E:\Annnew Studio\C#study\Code\HelloWorldSring\HelloWorldSring\obj\Debug\net5.0\HelloWorldSring.genruntimeconfig.cache
+E:\Annnew Studio\C#study\Code\HelloWorldSring\HelloWorldSring\obj\Debug\net5.0\HelloWorldSring.csproj.AssemblyReference.cache

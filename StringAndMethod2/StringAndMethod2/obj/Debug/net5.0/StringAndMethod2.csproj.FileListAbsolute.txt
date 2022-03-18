@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\Code\StringAndMethod2\StringAndMethod2\bin\Debug\net5.0\StringAndMethod2.exe
+E:\Annnew Studio\C#study\Code\StringAndMethod2\StringAndMethod2\bin\Debug\net5.0\StringAndMethod2.deps.json
+E:\Annnew Studio\C#study\Code\StringAndMethod2\StringAndMethod2\bin\Debug\net5.0\StringAndMethod2.runtimeconfig.json
+E:\Annnew Studio\C#study\Code\StringAndMethod2\StringAndMethod2\bin\Debug\net5.0\StringAndMethod2.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\Code\StringAndMethod2\StringAndMethod2\bin\Debug\net5.0\StringAndMethod2.dll
+E:\Annnew Studio\C#study\Code\StringAndMethod2\StringAndMethod2\bin\Debug\net5.0\ref\StringAndMethod2.dll
+E:\Annnew Studio\C#study\Code\StringAndMethod2\StringAndMethod2\bin\Debug\net5.0\StringAndMethod2.pdb
+E:\Annnew Studio\C#study\Code\StringAndMethod2\StringAndMethod2\obj\Debug\net5.0\StringAndMethod2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\Code\StringAndMethod2\StringAndMethod2\obj\Debug\net5.0\StringAndMethod2.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\Code\StringAndMethod2\StringAndMethod2\obj\Debug\net5.0\StringAndMethod2.AssemblyInfo.cs
+E:\Annnew Studio\C#study\Code\StringAndMethod2\StringAndMethod2\obj\Debug\net5.0\StringAndMethod2.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\Code\StringAndMethod2\StringAndMethod2\obj\Debug\net5.0\StringAndMethod2.dll
+E:\Annnew Studio\C#study\Code\StringAndMethod2\StringAndMethod2\obj\Debug\net5.0\ref\StringAndMethod2.dll
+E:\Annnew Studio\C#study\Code\StringAndMethod2\StringAndMethod2\obj\Debug\net5.0\StringAndMethod2.pdb
+E:\Annnew Studio\C#study\Code\StringAndMethod2\StringAndMethod2\obj\Debug\net5.0\StringAndMethod2.genruntimeconfig.cache
+E:\Annnew Studio\C#study\Code\StringAndMethod2\StringAndMethod2\obj\Debug\net5.0\StringAndMethod2.csproj.AssemblyReference.cache

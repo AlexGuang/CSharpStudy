@@ -1,0 +1,15 @@
+E:\Annnew Studio\C#study\net5n\net5n\bin\Debug\net6.0\net5n.exe
+E:\Annnew Studio\C#study\net5n\net5n\bin\Debug\net6.0\net5n.deps.json
+E:\Annnew Studio\C#study\net5n\net5n\bin\Debug\net6.0\net5n.runtimeconfig.json
+E:\Annnew Studio\C#study\net5n\net5n\bin\Debug\net6.0\net5n.dll
+E:\Annnew Studio\C#study\net5n\net5n\bin\Debug\net6.0\ref\net5n.dll
+E:\Annnew Studio\C#study\net5n\net5n\bin\Debug\net6.0\net5n.pdb
+E:\Annnew Studio\C#study\net5n\net5n\obj\Debug\net6.0\net5n.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\net5n\net5n\obj\Debug\net6.0\net5n.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\net5n\net5n\obj\Debug\net6.0\net5n.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\net5n\net5n\obj\Debug\net6.0\net5n.AssemblyInfo.cs
+E:\Annnew Studio\C#study\net5n\net5n\obj\Debug\net6.0\net5n.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\net5n\net5n\obj\Debug\net6.0\net5n.dll
+E:\Annnew Studio\C#study\net5n\net5n\obj\Debug\net6.0\ref\net5n.dll
+E:\Annnew Studio\C#study\net5n\net5n\obj\Debug\net6.0\net5n.pdb
+E:\Annnew Studio\C#study\net5n\net5n\obj\Debug\net6.0\net5n.genruntimeconfig.cache

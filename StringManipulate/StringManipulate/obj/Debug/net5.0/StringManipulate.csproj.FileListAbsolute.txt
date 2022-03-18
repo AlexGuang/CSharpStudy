@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\Code\StringManipulate\StringManipulate\bin\Debug\net5.0\StringManipulate.exe
+E:\Annnew Studio\C#study\Code\StringManipulate\StringManipulate\bin\Debug\net5.0\StringManipulate.deps.json
+E:\Annnew Studio\C#study\Code\StringManipulate\StringManipulate\bin\Debug\net5.0\StringManipulate.runtimeconfig.json
+E:\Annnew Studio\C#study\Code\StringManipulate\StringManipulate\bin\Debug\net5.0\StringManipulate.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\Code\StringManipulate\StringManipulate\bin\Debug\net5.0\StringManipulate.dll
+E:\Annnew Studio\C#study\Code\StringManipulate\StringManipulate\bin\Debug\net5.0\ref\StringManipulate.dll
+E:\Annnew Studio\C#study\Code\StringManipulate\StringManipulate\bin\Debug\net5.0\StringManipulate.pdb
+E:\Annnew Studio\C#study\Code\StringManipulate\StringManipulate\obj\Debug\net5.0\StringManipulate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\Code\StringManipulate\StringManipulate\obj\Debug\net5.0\StringManipulate.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\Code\StringManipulate\StringManipulate\obj\Debug\net5.0\StringManipulate.AssemblyInfo.cs
+E:\Annnew Studio\C#study\Code\StringManipulate\StringManipulate\obj\Debug\net5.0\StringManipulate.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\Code\StringManipulate\StringManipulate\obj\Debug\net5.0\StringManipulate.dll
+E:\Annnew Studio\C#study\Code\StringManipulate\StringManipulate\obj\Debug\net5.0\ref\StringManipulate.dll
+E:\Annnew Studio\C#study\Code\StringManipulate\StringManipulate\obj\Debug\net5.0\StringManipulate.pdb
+E:\Annnew Studio\C#study\Code\StringManipulate\StringManipulate\obj\Debug\net5.0\StringManipulate.genruntimeconfig.cache
+E:\Annnew Studio\C#study\Code\StringManipulate\StringManipulate\obj\Debug\net5.0\StringManipulate.csproj.AssemblyReference.cache

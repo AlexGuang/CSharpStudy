@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\Code\StringAndItsMethod\StringAndItsMethod\bin\Debug\net5.0\StringAndItsMethod.exe
+E:\Annnew Studio\C#study\Code\StringAndItsMethod\StringAndItsMethod\bin\Debug\net5.0\StringAndItsMethod.deps.json
+E:\Annnew Studio\C#study\Code\StringAndItsMethod\StringAndItsMethod\bin\Debug\net5.0\StringAndItsMethod.runtimeconfig.json
+E:\Annnew Studio\C#study\Code\StringAndItsMethod\StringAndItsMethod\bin\Debug\net5.0\StringAndItsMethod.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\Code\StringAndItsMethod\StringAndItsMethod\bin\Debug\net5.0\StringAndItsMethod.dll
+E:\Annnew Studio\C#study\Code\StringAndItsMethod\StringAndItsMethod\bin\Debug\net5.0\ref\StringAndItsMethod.dll
+E:\Annnew Studio\C#study\Code\StringAndItsMethod\StringAndItsMethod\bin\Debug\net5.0\StringAndItsMethod.pdb
+E:\Annnew Studio\C#study\Code\StringAndItsMethod\StringAndItsMethod\obj\Debug\net5.0\StringAndItsMethod.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\Code\StringAndItsMethod\StringAndItsMethod\obj\Debug\net5.0\StringAndItsMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\Code\StringAndItsMethod\StringAndItsMethod\obj\Debug\net5.0\StringAndItsMethod.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\Code\StringAndItsMethod\StringAndItsMethod\obj\Debug\net5.0\StringAndItsMethod.AssemblyInfo.cs
+E:\Annnew Studio\C#study\Code\StringAndItsMethod\StringAndItsMethod\obj\Debug\net5.0\StringAndItsMethod.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\Code\StringAndItsMethod\StringAndItsMethod\obj\Debug\net5.0\StringAndItsMethod.dll
+E:\Annnew Studio\C#study\Code\StringAndItsMethod\StringAndItsMethod\obj\Debug\net5.0\ref\StringAndItsMethod.dll
+E:\Annnew Studio\C#study\Code\StringAndItsMethod\StringAndItsMethod\obj\Debug\net5.0\StringAndItsMethod.pdb
+E:\Annnew Studio\C#study\Code\StringAndItsMethod\StringAndItsMethod\obj\Debug\net5.0\StringAndItsMethod.genruntimeconfig.cache

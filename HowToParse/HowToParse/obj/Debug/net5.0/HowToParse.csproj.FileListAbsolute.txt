@@ -1,0 +1,15 @@
+E:\Annnew Studio\C#study\Code\HowToParse\HowToParse\bin\Debug\net5.0\HowToParse.exe
+E:\Annnew Studio\C#study\Code\HowToParse\HowToParse\bin\Debug\net5.0\HowToParse.deps.json
+E:\Annnew Studio\C#study\Code\HowToParse\HowToParse\bin\Debug\net5.0\HowToParse.runtimeconfig.json
+E:\Annnew Studio\C#study\Code\HowToParse\HowToParse\bin\Debug\net5.0\HowToParse.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\Code\HowToParse\HowToParse\bin\Debug\net5.0\HowToParse.dll
+E:\Annnew Studio\C#study\Code\HowToParse\HowToParse\bin\Debug\net5.0\ref\HowToParse.dll
+E:\Annnew Studio\C#study\Code\HowToParse\HowToParse\bin\Debug\net5.0\HowToParse.pdb
+E:\Annnew Studio\C#study\Code\HowToParse\HowToParse\obj\Debug\net5.0\HowToParse.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\Code\HowToParse\HowToParse\obj\Debug\net5.0\HowToParse.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\Code\HowToParse\HowToParse\obj\Debug\net5.0\HowToParse.AssemblyInfo.cs
+E:\Annnew Studio\C#study\Code\HowToParse\HowToParse\obj\Debug\net5.0\HowToParse.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\Code\HowToParse\HowToParse\obj\Debug\net5.0\HowToParse.dll
+E:\Annnew Studio\C#study\Code\HowToParse\HowToParse\obj\Debug\net5.0\ref\HowToParse.dll
+E:\Annnew Studio\C#study\Code\HowToParse\HowToParse\obj\Debug\net5.0\HowToParse.pdb
+E:\Annnew Studio\C#study\Code\HowToParse\HowToParse\obj\Debug\net5.0\HowToParse.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\Code\ExplicitCoversionImplicitConversion\ExplicitCoversionImplicitConversion\bin\Debug\net5.0\ExplicitCoversionImplicitConversion.exe
+E:\Annnew Studio\C#study\Code\ExplicitCoversionImplicitConversion\ExplicitCoversionImplicitConversion\bin\Debug\net5.0\ExplicitCoversionImplicitConversion.deps.json
+E:\Annnew Studio\C#study\Code\ExplicitCoversionImplicitConversion\ExplicitCoversionImplicitConversion\bin\Debug\net5.0\ExplicitCoversionImplicitConversion.runtimeconfig.json
+E:\Annnew Studio\C#study\Code\ExplicitCoversionImplicitConversion\ExplicitCoversionImplicitConversion\bin\Debug\net5.0\ExplicitCoversionImplicitConversion.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\Code\ExplicitCoversionImplicitConversion\ExplicitCoversionImplicitConversion\bin\Debug\net5.0\ExplicitCoversionImplicitConversion.dll
+E:\Annnew Studio\C#study\Code\ExplicitCoversionImplicitConversion\ExplicitCoversionImplicitConversion\bin\Debug\net5.0\ref\ExplicitCoversionImplicitConversion.dll
+E:\Annnew Studio\C#study\Code\ExplicitCoversionImplicitConversion\ExplicitCoversionImplicitConversion\bin\Debug\net5.0\ExplicitCoversionImplicitConversion.pdb
+E:\Annnew Studio\C#study\Code\ExplicitCoversionImplicitConversion\ExplicitCoversionImplicitConversion\obj\Debug\net5.0\ExplicitCoversionImplicitConversion.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\Code\ExplicitCoversionImplicitConversion\ExplicitCoversionImplicitConversion\obj\Debug\net5.0\ExplicitCoversionImplicitConversion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\Code\ExplicitCoversionImplicitConversion\ExplicitCoversionImplicitConversion\obj\Debug\net5.0\ExplicitCoversionImplicitConversion.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\Code\ExplicitCoversionImplicitConversion\ExplicitCoversionImplicitConversion\obj\Debug\net5.0\ExplicitCoversionImplicitConversion.AssemblyInfo.cs
+E:\Annnew Studio\C#study\Code\ExplicitCoversionImplicitConversion\ExplicitCoversionImplicitConversion\obj\Debug\net5.0\ExplicitCoversionImplicitConversion.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\Code\ExplicitCoversionImplicitConversion\ExplicitCoversionImplicitConversion\obj\Debug\net5.0\ExplicitCoversionImplicitConversion.dll
+E:\Annnew Studio\C#study\Code\ExplicitCoversionImplicitConversion\ExplicitCoversionImplicitConversion\obj\Debug\net5.0\ref\ExplicitCoversionImplicitConversion.dll
+E:\Annnew Studio\C#study\Code\ExplicitCoversionImplicitConversion\ExplicitCoversionImplicitConversion\obj\Debug\net5.0\ExplicitCoversionImplicitConversion.pdb
+E:\Annnew Studio\C#study\Code\ExplicitCoversionImplicitConversion\ExplicitCoversionImplicitConversion\obj\Debug\net5.0\ExplicitCoversionImplicitConversion.genruntimeconfig.cache

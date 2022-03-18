@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+E:\Annnew Studio\C#study\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+E:\Annnew Studio\C#study\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+E:\Annnew Studio\C#study\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+E:\Annnew Studio\C#study\HelloWorld\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+E:\Annnew Studio\C#study\HelloWorld\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+E:\Annnew Studio\C#study\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+E:\Annnew Studio\C#study\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+E:\Annnew Studio\C#study\HelloWorld\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+E:\Annnew Studio\C#study\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+E:\Annnew Studio\C#study\HelloWorld\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
