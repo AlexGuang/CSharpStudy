@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\TryCatchFinally\TryCatchFinally\bin\Debug\net5.0\TryCatchFinally.exe
+E:\Annnew Studio\C#study\github\Gitqiab\TryCatchFinally\TryCatchFinally\bin\Debug\net5.0\TryCatchFinally.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\TryCatchFinally\TryCatchFinally\bin\Debug\net5.0\TryCatchFinally.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\TryCatchFinally\TryCatchFinally\bin\Debug\net5.0\TryCatchFinally.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\TryCatchFinally\TryCatchFinally\bin\Debug\net5.0\TryCatchFinally.dll
+E:\Annnew Studio\C#study\github\Gitqiab\TryCatchFinally\TryCatchFinally\bin\Debug\net5.0\ref\TryCatchFinally.dll
+E:\Annnew Studio\C#study\github\Gitqiab\TryCatchFinally\TryCatchFinally\bin\Debug\net5.0\TryCatchFinally.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\TryCatchFinally\TryCatchFinally\obj\Debug\net5.0\TryCatchFinally.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\TryCatchFinally\TryCatchFinally\obj\Debug\net5.0\TryCatchFinally.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\TryCatchFinally\TryCatchFinally\obj\Debug\net5.0\TryCatchFinally.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\TryCatchFinally\TryCatchFinally\obj\Debug\net5.0\TryCatchFinally.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\TryCatchFinally\TryCatchFinally\obj\Debug\net5.0\TryCatchFinally.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\TryCatchFinally\TryCatchFinally\obj\Debug\net5.0\TryCatchFinally.dll
+E:\Annnew Studio\C#study\github\Gitqiab\TryCatchFinally\TryCatchFinally\obj\Debug\net5.0\ref\TryCatchFinally.dll
+E:\Annnew Studio\C#study\github\Gitqiab\TryCatchFinally\TryCatchFinally\obj\Debug\net5.0\TryCatchFinally.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\TryCatchFinally\TryCatchFinally\obj\Debug\net5.0\TryCatchFinally.genruntimeconfig.cache

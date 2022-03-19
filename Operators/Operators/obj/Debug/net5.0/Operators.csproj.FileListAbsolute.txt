@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\Operators\Operators\bin\Debug\net5.0\Operators.exe
+E:\Annnew Studio\C#study\github\Gitqiab\Operators\Operators\bin\Debug\net5.0\Operators.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\Operators\Operators\bin\Debug\net5.0\Operators.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\Operators\Operators\bin\Debug\net5.0\Operators.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\Operators\Operators\bin\Debug\net5.0\Operators.dll
+E:\Annnew Studio\C#study\github\Gitqiab\Operators\Operators\bin\Debug\net5.0\ref\Operators.dll
+E:\Annnew Studio\C#study\github\Gitqiab\Operators\Operators\bin\Debug\net5.0\Operators.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\Operators\Operators\obj\Debug\net5.0\Operators.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\Operators\Operators\obj\Debug\net5.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\Operators\Operators\obj\Debug\net5.0\Operators.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\Operators\Operators\obj\Debug\net5.0\Operators.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\Operators\Operators\obj\Debug\net5.0\Operators.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\Operators\Operators\obj\Debug\net5.0\Operators.dll
+E:\Annnew Studio\C#study\github\Gitqiab\Operators\Operators\obj\Debug\net5.0\ref\Operators.dll
+E:\Annnew Studio\C#study\github\Gitqiab\Operators\Operators\obj\Debug\net5.0\Operators.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\Operators\Operators\obj\Debug\net5.0\Operators.genruntimeconfig.cache
