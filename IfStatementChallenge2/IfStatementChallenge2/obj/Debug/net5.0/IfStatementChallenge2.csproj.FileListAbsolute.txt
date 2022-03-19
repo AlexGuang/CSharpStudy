@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementChallenge2\IfStatementChallenge2\bin\Debug\net5.0\IfStatementChallenge2.exe
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementChallenge2\IfStatementChallenge2\bin\Debug\net5.0\IfStatementChallenge2.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementChallenge2\IfStatementChallenge2\bin\Debug\net5.0\IfStatementChallenge2.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementChallenge2\IfStatementChallenge2\bin\Debug\net5.0\IfStatementChallenge2.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementChallenge2\IfStatementChallenge2\bin\Debug\net5.0\IfStatementChallenge2.dll
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementChallenge2\IfStatementChallenge2\bin\Debug\net5.0\ref\IfStatementChallenge2.dll
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementChallenge2\IfStatementChallenge2\bin\Debug\net5.0\IfStatementChallenge2.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementChallenge2\IfStatementChallenge2\obj\Debug\net5.0\IfStatementChallenge2.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementChallenge2\IfStatementChallenge2\obj\Debug\net5.0\IfStatementChallenge2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementChallenge2\IfStatementChallenge2\obj\Debug\net5.0\IfStatementChallenge2.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementChallenge2\IfStatementChallenge2\obj\Debug\net5.0\IfStatementChallenge2.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementChallenge2\IfStatementChallenge2\obj\Debug\net5.0\IfStatementChallenge2.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementChallenge2\IfStatementChallenge2\obj\Debug\net5.0\IfStatementChallenge2.dll
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementChallenge2\IfStatementChallenge2\obj\Debug\net5.0\ref\IfStatementChallenge2.dll
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementChallenge2\IfStatementChallenge2\obj\Debug\net5.0\IfStatementChallenge2.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementChallenge2\IfStatementChallenge2\obj\Debug\net5.0\IfStatementChallenge2.genruntimeconfig.cache

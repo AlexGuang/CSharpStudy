@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SwitchStatement/1.0.0": {
+        "runtime": {
+          "SwitchStatement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SwitchStatement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

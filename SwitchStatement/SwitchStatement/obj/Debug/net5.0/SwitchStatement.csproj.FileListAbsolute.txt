@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\SwitchStatement\SwitchStatement\bin\Debug\net5.0\SwitchStatement.exe
+E:\Annnew Studio\C#study\github\Gitqiab\SwitchStatement\SwitchStatement\bin\Debug\net5.0\SwitchStatement.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\SwitchStatement\SwitchStatement\bin\Debug\net5.0\SwitchStatement.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\SwitchStatement\SwitchStatement\bin\Debug\net5.0\SwitchStatement.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\SwitchStatement\SwitchStatement\bin\Debug\net5.0\SwitchStatement.dll
+E:\Annnew Studio\C#study\github\Gitqiab\SwitchStatement\SwitchStatement\bin\Debug\net5.0\ref\SwitchStatement.dll
+E:\Annnew Studio\C#study\github\Gitqiab\SwitchStatement\SwitchStatement\bin\Debug\net5.0\SwitchStatement.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\SwitchStatement\SwitchStatement\obj\Debug\net5.0\SwitchStatement.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\SwitchStatement\SwitchStatement\obj\Debug\net5.0\SwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\SwitchStatement\SwitchStatement\obj\Debug\net5.0\SwitchStatement.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\SwitchStatement\SwitchStatement\obj\Debug\net5.0\SwitchStatement.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\SwitchStatement\SwitchStatement\obj\Debug\net5.0\SwitchStatement.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\SwitchStatement\SwitchStatement\obj\Debug\net5.0\SwitchStatement.dll
+E:\Annnew Studio\C#study\github\Gitqiab\SwitchStatement\SwitchStatement\obj\Debug\net5.0\ref\SwitchStatement.dll
+E:\Annnew Studio\C#study\github\Gitqiab\SwitchStatement\SwitchStatement\obj\Debug\net5.0\SwitchStatement.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\SwitchStatement\SwitchStatement\obj\Debug\net5.0\SwitchStatement.genruntimeconfig.cache
