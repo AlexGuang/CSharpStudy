@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\IfElseIfTryParse\IfElseIfTryParse\obj\Debug\net5.0\IfElseIfTryParse.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\IfElseIfTryParse\IfElseIfTryParse\obj\Debug\net5.0\IfElseIfTryParse.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\IfElseIfTryParse\IfElseIfTryParse\obj\Debug\net5.0\IfElseIfTryParse.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\IfElseIfTryParse\IfElseIfTryParse\obj\Debug\net5.0\IfElseIfTryParse.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\IfElseIfTryParse\IfElseIfTryParse\obj\Debug\net5.0\IfElseIfTryParse.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\IfElseIfTryParse\IfElseIfTryParse\bin\Debug\net5.0\IfElseIfTryParse.exe
+E:\Annnew Studio\C#study\github\Gitqiab\IfElseIfTryParse\IfElseIfTryParse\bin\Debug\net5.0\IfElseIfTryParse.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\IfElseIfTryParse\IfElseIfTryParse\bin\Debug\net5.0\IfElseIfTryParse.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\IfElseIfTryParse\IfElseIfTryParse\bin\Debug\net5.0\IfElseIfTryParse.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\IfElseIfTryParse\IfElseIfTryParse\bin\Debug\net5.0\IfElseIfTryParse.dll
+E:\Annnew Studio\C#study\github\Gitqiab\IfElseIfTryParse\IfElseIfTryParse\bin\Debug\net5.0\ref\IfElseIfTryParse.dll
+E:\Annnew Studio\C#study\github\Gitqiab\IfElseIfTryParse\IfElseIfTryParse\bin\Debug\net5.0\IfElseIfTryParse.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\IfElseIfTryParse\IfElseIfTryParse\obj\Debug\net5.0\IfElseIfTryParse.dll
+E:\Annnew Studio\C#study\github\Gitqiab\IfElseIfTryParse\IfElseIfTryParse\obj\Debug\net5.0\ref\IfElseIfTryParse.dll
+E:\Annnew Studio\C#study\github\Gitqiab\IfElseIfTryParse\IfElseIfTryParse\obj\Debug\net5.0\IfElseIfTryParse.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\IfElseIfTryParse\IfElseIfTryParse\obj\Debug\net5.0\IfElseIfTryParse.genruntimeconfig.cache

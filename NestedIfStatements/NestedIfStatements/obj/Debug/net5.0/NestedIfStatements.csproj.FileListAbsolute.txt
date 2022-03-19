@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\NestedIfStatements\NestedIfStatements\bin\Debug\net5.0\NestedIfStatements.exe
+E:\Annnew Studio\C#study\github\Gitqiab\NestedIfStatements\NestedIfStatements\bin\Debug\net5.0\NestedIfStatements.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\NestedIfStatements\NestedIfStatements\bin\Debug\net5.0\NestedIfStatements.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\NestedIfStatements\NestedIfStatements\bin\Debug\net5.0\NestedIfStatements.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\NestedIfStatements\NestedIfStatements\bin\Debug\net5.0\NestedIfStatements.dll
+E:\Annnew Studio\C#study\github\Gitqiab\NestedIfStatements\NestedIfStatements\bin\Debug\net5.0\ref\NestedIfStatements.dll
+E:\Annnew Studio\C#study\github\Gitqiab\NestedIfStatements\NestedIfStatements\bin\Debug\net5.0\NestedIfStatements.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\NestedIfStatements\NestedIfStatements\obj\Debug\net5.0\NestedIfStatements.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\NestedIfStatements\NestedIfStatements\obj\Debug\net5.0\NestedIfStatements.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\NestedIfStatements\NestedIfStatements\obj\Debug\net5.0\NestedIfStatements.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\NestedIfStatements\NestedIfStatements\obj\Debug\net5.0\NestedIfStatements.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\NestedIfStatements\NestedIfStatements\obj\Debug\net5.0\NestedIfStatements.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\NestedIfStatements\NestedIfStatements\obj\Debug\net5.0\NestedIfStatements.dll
+E:\Annnew Studio\C#study\github\Gitqiab\NestedIfStatements\NestedIfStatements\obj\Debug\net5.0\ref\NestedIfStatements.dll
+E:\Annnew Studio\C#study\github\Gitqiab\NestedIfStatements\NestedIfStatements\obj\Debug\net5.0\NestedIfStatements.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\NestedIfStatements\NestedIfStatements\obj\Debug\net5.0\NestedIfStatements.genruntimeconfig.cache

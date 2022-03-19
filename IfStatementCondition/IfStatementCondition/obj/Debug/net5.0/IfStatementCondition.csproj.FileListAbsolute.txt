@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementCondition\IfStatementCondition\bin\Debug\net5.0\IfStatementCondition.exe
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementCondition\IfStatementCondition\bin\Debug\net5.0\IfStatementCondition.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementCondition\IfStatementCondition\bin\Debug\net5.0\IfStatementCondition.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementCondition\IfStatementCondition\bin\Debug\net5.0\IfStatementCondition.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementCondition\IfStatementCondition\bin\Debug\net5.0\IfStatementCondition.dll
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementCondition\IfStatementCondition\bin\Debug\net5.0\ref\IfStatementCondition.dll
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementCondition\IfStatementCondition\bin\Debug\net5.0\IfStatementCondition.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementCondition\IfStatementCondition\obj\Debug\net5.0\IfStatementCondition.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementCondition\IfStatementCondition\obj\Debug\net5.0\IfStatementCondition.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementCondition\IfStatementCondition\obj\Debug\net5.0\IfStatementCondition.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementCondition\IfStatementCondition\obj\Debug\net5.0\IfStatementCondition.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementCondition\IfStatementCondition\obj\Debug\net5.0\IfStatementCondition.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementCondition\IfStatementCondition\obj\Debug\net5.0\IfStatementCondition.dll
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementCondition\IfStatementCondition\obj\Debug\net5.0\ref\IfStatementCondition.dll
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementCondition\IfStatementCondition\obj\Debug\net5.0\IfStatementCondition.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\IfStatementCondition\IfStatementCondition\obj\Debug\net5.0\IfStatementCondition.genruntimeconfig.cache
