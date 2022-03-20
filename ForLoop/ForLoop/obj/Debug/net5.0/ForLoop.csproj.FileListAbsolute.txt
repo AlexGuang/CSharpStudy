@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\ForLoop\ForLoop\bin\Debug\net5.0\ForLoop.exe
+E:\Annnew Studio\C#study\github\Gitqiab\ForLoop\ForLoop\bin\Debug\net5.0\ForLoop.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\ForLoop\ForLoop\bin\Debug\net5.0\ForLoop.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\ForLoop\ForLoop\bin\Debug\net5.0\ForLoop.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\ForLoop\ForLoop\bin\Debug\net5.0\ForLoop.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ForLoop\ForLoop\bin\Debug\net5.0\ref\ForLoop.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ForLoop\ForLoop\bin\Debug\net5.0\ForLoop.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\ForLoop\ForLoop\obj\Debug\net5.0\ForLoop.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ForLoop\ForLoop\obj\Debug\net5.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\ForLoop\ForLoop\obj\Debug\net5.0\ForLoop.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ForLoop\ForLoop\obj\Debug\net5.0\ForLoop.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\ForLoop\ForLoop\obj\Debug\net5.0\ForLoop.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ForLoop\ForLoop\obj\Debug\net5.0\ForLoop.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ForLoop\ForLoop\obj\Debug\net5.0\ref\ForLoop.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ForLoop\ForLoop\obj\Debug\net5.0\ForLoop.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\ForLoop\ForLoop\obj\Debug\net5.0\ForLoop.genruntimeconfig.cache

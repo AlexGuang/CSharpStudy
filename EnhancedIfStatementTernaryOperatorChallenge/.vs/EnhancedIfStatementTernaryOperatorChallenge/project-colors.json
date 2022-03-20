@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "df1d25ef-4dd1-41c7-97c7-d46f89061ffe": {
+      "ProjectGuid": "df1d25ef-4dd1-41c7-97c7-d46f89061ffe",
+      "DisplayName": "EnhancedIfStatementTernaryOperatorChallenge",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
