@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\LoopChallengeAverage\LoopChallengeAverage\bin\Debug\net5.0\LoopChallengeAverage.exe
+E:\Annnew Studio\C#study\github\Gitqiab\LoopChallengeAverage\LoopChallengeAverage\bin\Debug\net5.0\LoopChallengeAverage.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\LoopChallengeAverage\LoopChallengeAverage\bin\Debug\net5.0\LoopChallengeAverage.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\LoopChallengeAverage\LoopChallengeAverage\bin\Debug\net5.0\LoopChallengeAverage.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\LoopChallengeAverage\LoopChallengeAverage\bin\Debug\net5.0\LoopChallengeAverage.dll
+E:\Annnew Studio\C#study\github\Gitqiab\LoopChallengeAverage\LoopChallengeAverage\bin\Debug\net5.0\ref\LoopChallengeAverage.dll
+E:\Annnew Studio\C#study\github\Gitqiab\LoopChallengeAverage\LoopChallengeAverage\bin\Debug\net5.0\LoopChallengeAverage.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\LoopChallengeAverage\LoopChallengeAverage\obj\Debug\net5.0\LoopChallengeAverage.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\LoopChallengeAverage\LoopChallengeAverage\obj\Debug\net5.0\LoopChallengeAverage.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\LoopChallengeAverage\LoopChallengeAverage\obj\Debug\net5.0\LoopChallengeAverage.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\LoopChallengeAverage\LoopChallengeAverage\obj\Debug\net5.0\LoopChallengeAverage.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\LoopChallengeAverage\LoopChallengeAverage\obj\Debug\net5.0\LoopChallengeAverage.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\LoopChallengeAverage\LoopChallengeAverage\obj\Debug\net5.0\LoopChallengeAverage.dll
+E:\Annnew Studio\C#study\github\Gitqiab\LoopChallengeAverage\LoopChallengeAverage\obj\Debug\net5.0\ref\LoopChallengeAverage.dll
+E:\Annnew Studio\C#study\github\Gitqiab\LoopChallengeAverage\LoopChallengeAverage\obj\Debug\net5.0\LoopChallengeAverage.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\LoopChallengeAverage\LoopChallengeAverage\obj\Debug\net5.0\LoopChallengeAverage.genruntimeconfig.cache
