@@ -1,0 +1,15 @@
+E:\Annnew Studio\C#study\github\Gitqiab\WhileLoop\WhileLoop\bin\Debug\net5.0\WhileLoop.exe
+E:\Annnew Studio\C#study\github\Gitqiab\WhileLoop\WhileLoop\bin\Debug\net5.0\WhileLoop.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\WhileLoop\WhileLoop\bin\Debug\net5.0\WhileLoop.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\WhileLoop\WhileLoop\bin\Debug\net5.0\WhileLoop.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\WhileLoop\WhileLoop\bin\Debug\net5.0\WhileLoop.dll
+E:\Annnew Studio\C#study\github\Gitqiab\WhileLoop\WhileLoop\bin\Debug\net5.0\ref\WhileLoop.dll
+E:\Annnew Studio\C#study\github\Gitqiab\WhileLoop\WhileLoop\bin\Debug\net5.0\WhileLoop.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\WhileLoop\WhileLoop\obj\Debug\net5.0\WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\WhileLoop\WhileLoop\obj\Debug\net5.0\WhileLoop.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\WhileLoop\WhileLoop\obj\Debug\net5.0\WhileLoop.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\WhileLoop\WhileLoop\obj\Debug\net5.0\WhileLoop.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\WhileLoop\WhileLoop\obj\Debug\net5.0\WhileLoop.dll
+E:\Annnew Studio\C#study\github\Gitqiab\WhileLoop\WhileLoop\obj\Debug\net5.0\ref\WhileLoop.dll
+E:\Annnew Studio\C#study\github\Gitqiab\WhileLoop\WhileLoop\obj\Debug\net5.0\WhileLoop.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\WhileLoop\WhileLoop\obj\Debug\net5.0\WhileLoop.genruntimeconfig.cache
