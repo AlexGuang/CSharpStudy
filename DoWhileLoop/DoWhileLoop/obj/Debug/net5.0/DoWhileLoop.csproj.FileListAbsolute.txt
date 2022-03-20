@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\DoWhileLoop\DoWhileLoop\bin\Debug\net5.0\DoWhileLoop.exe
+E:\Annnew Studio\C#study\github\Gitqiab\DoWhileLoop\DoWhileLoop\bin\Debug\net5.0\DoWhileLoop.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\DoWhileLoop\DoWhileLoop\bin\Debug\net5.0\DoWhileLoop.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\DoWhileLoop\DoWhileLoop\bin\Debug\net5.0\DoWhileLoop.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\DoWhileLoop\DoWhileLoop\bin\Debug\net5.0\DoWhileLoop.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DoWhileLoop\DoWhileLoop\bin\Debug\net5.0\ref\DoWhileLoop.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DoWhileLoop\DoWhileLoop\bin\Debug\net5.0\DoWhileLoop.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\DoWhileLoop\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\DoWhileLoop\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\DoWhileLoop\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\DoWhileLoop\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\DoWhileLoop\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\DoWhileLoop\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DoWhileLoop\DoWhileLoop\obj\Debug\net5.0\ref\DoWhileLoop.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DoWhileLoop\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\DoWhileLoop\DoWhileLoop\obj\Debug\net5.0\DoWhileLoop.genruntimeconfig.cache
