@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\ObjectOrientedProgramLearning\ObjectOrientedProgramLearning\bin\Debug\net5.0\ObjectOrientedProgramLearning.exe
+E:\Annnew Studio\C#study\github\Gitqiab\ObjectOrientedProgramLearning\ObjectOrientedProgramLearning\bin\Debug\net5.0\ObjectOrientedProgramLearning.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\ObjectOrientedProgramLearning\ObjectOrientedProgramLearning\bin\Debug\net5.0\ObjectOrientedProgramLearning.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\ObjectOrientedProgramLearning\ObjectOrientedProgramLearning\bin\Debug\net5.0\ObjectOrientedProgramLearning.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\ObjectOrientedProgramLearning\ObjectOrientedProgramLearning\bin\Debug\net5.0\ObjectOrientedProgramLearning.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ObjectOrientedProgramLearning\ObjectOrientedProgramLearning\bin\Debug\net5.0\ref\ObjectOrientedProgramLearning.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ObjectOrientedProgramLearning\ObjectOrientedProgramLearning\bin\Debug\net5.0\ObjectOrientedProgramLearning.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\ObjectOrientedProgramLearning\ObjectOrientedProgramLearning\obj\Debug\net5.0\ObjectOrientedProgramLearning.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ObjectOrientedProgramLearning\ObjectOrientedProgramLearning\obj\Debug\net5.0\ObjectOrientedProgramLearning.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\ObjectOrientedProgramLearning\ObjectOrientedProgramLearning\obj\Debug\net5.0\ObjectOrientedProgramLearning.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ObjectOrientedProgramLearning\ObjectOrientedProgramLearning\obj\Debug\net5.0\ObjectOrientedProgramLearning.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\ObjectOrientedProgramLearning\ObjectOrientedProgramLearning\obj\Debug\net5.0\ObjectOrientedProgramLearning.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ObjectOrientedProgramLearning\ObjectOrientedProgramLearning\obj\Debug\net5.0\ObjectOrientedProgramLearning.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ObjectOrientedProgramLearning\ObjectOrientedProgramLearning\obj\Debug\net5.0\ref\ObjectOrientedProgramLearning.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ObjectOrientedProgramLearning\ObjectOrientedProgramLearning\obj\Debug\net5.0\ObjectOrientedProgramLearning.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\ObjectOrientedProgramLearning\ObjectOrientedProgramLearning\obj\Debug\net5.0\ObjectOrientedProgramLearning.genruntimeconfig.cache
