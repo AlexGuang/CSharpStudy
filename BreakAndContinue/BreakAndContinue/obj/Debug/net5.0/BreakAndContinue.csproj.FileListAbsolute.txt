@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\BreakAndContinue\BreakAndContinue\bin\Debug\net5.0\BreakAndContinue.exe
+E:\Annnew Studio\C#study\github\Gitqiab\BreakAndContinue\BreakAndContinue\bin\Debug\net5.0\BreakAndContinue.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\BreakAndContinue\BreakAndContinue\bin\Debug\net5.0\BreakAndContinue.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\BreakAndContinue\BreakAndContinue\bin\Debug\net5.0\BreakAndContinue.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\BreakAndContinue\BreakAndContinue\bin\Debug\net5.0\BreakAndContinue.dll
+E:\Annnew Studio\C#study\github\Gitqiab\BreakAndContinue\BreakAndContinue\bin\Debug\net5.0\ref\BreakAndContinue.dll
+E:\Annnew Studio\C#study\github\Gitqiab\BreakAndContinue\BreakAndContinue\bin\Debug\net5.0\BreakAndContinue.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\BreakAndContinue\BreakAndContinue\obj\Debug\net5.0\BreakAndContinue.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\BreakAndContinue\BreakAndContinue\obj\Debug\net5.0\BreakAndContinue.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\BreakAndContinue\BreakAndContinue\obj\Debug\net5.0\BreakAndContinue.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\BreakAndContinue\BreakAndContinue\obj\Debug\net5.0\BreakAndContinue.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\BreakAndContinue\BreakAndContinue\obj\Debug\net5.0\BreakAndContinue.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\BreakAndContinue\BreakAndContinue\obj\Debug\net5.0\BreakAndContinue.dll
+E:\Annnew Studio\C#study\github\Gitqiab\BreakAndContinue\BreakAndContinue\obj\Debug\net5.0\ref\BreakAndContinue.dll
+E:\Annnew Studio\C#study\github\Gitqiab\BreakAndContinue\BreakAndContinue\obj\Debug\net5.0\BreakAndContinue.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\BreakAndContinue\BreakAndContinue\obj\Debug\net5.0\BreakAndContinue.genruntimeconfig.cache
