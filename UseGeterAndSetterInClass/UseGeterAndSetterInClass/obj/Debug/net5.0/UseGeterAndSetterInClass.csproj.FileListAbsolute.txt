@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\UseGeterAndSetterInClass\UseGeterAndSetterInClass\bin\Debug\net5.0\UseGeterAndSetterInClass.exe
+E:\Annnew Studio\C#study\github\Gitqiab\UseGeterAndSetterInClass\UseGeterAndSetterInClass\bin\Debug\net5.0\UseGeterAndSetterInClass.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\UseGeterAndSetterInClass\UseGeterAndSetterInClass\bin\Debug\net5.0\UseGeterAndSetterInClass.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\UseGeterAndSetterInClass\UseGeterAndSetterInClass\bin\Debug\net5.0\UseGeterAndSetterInClass.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\UseGeterAndSetterInClass\UseGeterAndSetterInClass\bin\Debug\net5.0\UseGeterAndSetterInClass.dll
+E:\Annnew Studio\C#study\github\Gitqiab\UseGeterAndSetterInClass\UseGeterAndSetterInClass\bin\Debug\net5.0\ref\UseGeterAndSetterInClass.dll
+E:\Annnew Studio\C#study\github\Gitqiab\UseGeterAndSetterInClass\UseGeterAndSetterInClass\bin\Debug\net5.0\UseGeterAndSetterInClass.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\UseGeterAndSetterInClass\UseGeterAndSetterInClass\obj\Debug\net5.0\UseGeterAndSetterInClass.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\UseGeterAndSetterInClass\UseGeterAndSetterInClass\obj\Debug\net5.0\UseGeterAndSetterInClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\UseGeterAndSetterInClass\UseGeterAndSetterInClass\obj\Debug\net5.0\UseGeterAndSetterInClass.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\UseGeterAndSetterInClass\UseGeterAndSetterInClass\obj\Debug\net5.0\UseGeterAndSetterInClass.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\UseGeterAndSetterInClass\UseGeterAndSetterInClass\obj\Debug\net5.0\UseGeterAndSetterInClass.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\UseGeterAndSetterInClass\UseGeterAndSetterInClass\obj\Debug\net5.0\UseGeterAndSetterInClass.dll
+E:\Annnew Studio\C#study\github\Gitqiab\UseGeterAndSetterInClass\UseGeterAndSetterInClass\obj\Debug\net5.0\ref\UseGeterAndSetterInClass.dll
+E:\Annnew Studio\C#study\github\Gitqiab\UseGeterAndSetterInClass\UseGeterAndSetterInClass\obj\Debug\net5.0\UseGeterAndSetterInClass.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\UseGeterAndSetterInClass\UseGeterAndSetterInClass\obj\Debug\net5.0\UseGeterAndSetterInClass.genruntimeconfig.cache
