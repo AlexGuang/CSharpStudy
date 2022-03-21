@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\MembersFinalizerDestructor\MembersFinalizerDestructor\bin\Debug\net5.0\MembersFinalizerDestructor.exe
+E:\Annnew Studio\C#study\github\Gitqiab\MembersFinalizerDestructor\MembersFinalizerDestructor\bin\Debug\net5.0\MembersFinalizerDestructor.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\MembersFinalizerDestructor\MembersFinalizerDestructor\bin\Debug\net5.0\MembersFinalizerDestructor.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\MembersFinalizerDestructor\MembersFinalizerDestructor\bin\Debug\net5.0\MembersFinalizerDestructor.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\MembersFinalizerDestructor\MembersFinalizerDestructor\bin\Debug\net5.0\MembersFinalizerDestructor.dll
+E:\Annnew Studio\C#study\github\Gitqiab\MembersFinalizerDestructor\MembersFinalizerDestructor\bin\Debug\net5.0\ref\MembersFinalizerDestructor.dll
+E:\Annnew Studio\C#study\github\Gitqiab\MembersFinalizerDestructor\MembersFinalizerDestructor\bin\Debug\net5.0\MembersFinalizerDestructor.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\MembersFinalizerDestructor\MembersFinalizerDestructor\obj\Debug\net5.0\MembersFinalizerDestructor.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\MembersFinalizerDestructor\MembersFinalizerDestructor\obj\Debug\net5.0\MembersFinalizerDestructor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\MembersFinalizerDestructor\MembersFinalizerDestructor\obj\Debug\net5.0\MembersFinalizerDestructor.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\MembersFinalizerDestructor\MembersFinalizerDestructor\obj\Debug\net5.0\MembersFinalizerDestructor.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\MembersFinalizerDestructor\MembersFinalizerDestructor\obj\Debug\net5.0\MembersFinalizerDestructor.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\MembersFinalizerDestructor\MembersFinalizerDestructor\obj\Debug\net5.0\MembersFinalizerDestructor.dll
+E:\Annnew Studio\C#study\github\Gitqiab\MembersFinalizerDestructor\MembersFinalizerDestructor\obj\Debug\net5.0\ref\MembersFinalizerDestructor.dll
+E:\Annnew Studio\C#study\github\Gitqiab\MembersFinalizerDestructor\MembersFinalizerDestructor\obj\Debug\net5.0\MembersFinalizerDestructor.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\MembersFinalizerDestructor\MembersFinalizerDestructor\obj\Debug\net5.0\MembersFinalizerDestructor.genruntimeconfig.cache
