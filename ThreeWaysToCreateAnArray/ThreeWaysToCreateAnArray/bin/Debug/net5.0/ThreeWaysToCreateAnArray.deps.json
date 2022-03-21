@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ThreeWaysToCreateAnArray/1.0.0": {
+        "runtime": {
+          "ThreeWaysToCreateAnArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThreeWaysToCreateAnArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

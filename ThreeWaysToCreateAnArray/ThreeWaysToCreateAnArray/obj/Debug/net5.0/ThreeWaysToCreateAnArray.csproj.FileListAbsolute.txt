@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\ThreeWaysToCreateAnArray\ThreeWaysToCreateAnArray\bin\Debug\net5.0\ThreeWaysToCreateAnArray.exe
+E:\Annnew Studio\C#study\github\Gitqiab\ThreeWaysToCreateAnArray\ThreeWaysToCreateAnArray\bin\Debug\net5.0\ThreeWaysToCreateAnArray.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\ThreeWaysToCreateAnArray\ThreeWaysToCreateAnArray\bin\Debug\net5.0\ThreeWaysToCreateAnArray.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\ThreeWaysToCreateAnArray\ThreeWaysToCreateAnArray\bin\Debug\net5.0\ThreeWaysToCreateAnArray.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\ThreeWaysToCreateAnArray\ThreeWaysToCreateAnArray\bin\Debug\net5.0\ThreeWaysToCreateAnArray.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ThreeWaysToCreateAnArray\ThreeWaysToCreateAnArray\bin\Debug\net5.0\ref\ThreeWaysToCreateAnArray.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ThreeWaysToCreateAnArray\ThreeWaysToCreateAnArray\bin\Debug\net5.0\ThreeWaysToCreateAnArray.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\ThreeWaysToCreateAnArray\ThreeWaysToCreateAnArray\obj\Debug\net5.0\ThreeWaysToCreateAnArray.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ThreeWaysToCreateAnArray\ThreeWaysToCreateAnArray\obj\Debug\net5.0\ThreeWaysToCreateAnArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\ThreeWaysToCreateAnArray\ThreeWaysToCreateAnArray\obj\Debug\net5.0\ThreeWaysToCreateAnArray.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ThreeWaysToCreateAnArray\ThreeWaysToCreateAnArray\obj\Debug\net5.0\ThreeWaysToCreateAnArray.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\ThreeWaysToCreateAnArray\ThreeWaysToCreateAnArray\obj\Debug\net5.0\ThreeWaysToCreateAnArray.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ThreeWaysToCreateAnArray\ThreeWaysToCreateAnArray\obj\Debug\net5.0\ThreeWaysToCreateAnArray.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ThreeWaysToCreateAnArray\ThreeWaysToCreateAnArray\obj\Debug\net5.0\ref\ThreeWaysToCreateAnArray.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ThreeWaysToCreateAnArray\ThreeWaysToCreateAnArray\obj\Debug\net5.0\ThreeWaysToCreateAnArray.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\ThreeWaysToCreateAnArray\ThreeWaysToCreateAnArray\obj\Debug\net5.0\ThreeWaysToCreateAnArray.genruntimeconfig.cache
