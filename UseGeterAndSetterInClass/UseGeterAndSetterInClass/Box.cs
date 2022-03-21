@@ -12,7 +12,28 @@ namespace UseGeterAndSetterInClass
         private int height;
         private int width;
         private int volume;
+        private int weight;
+        //private int distance;
+        public int Distance { get; set; }
 
+        public int FrontSurface { get
+            { return height * length; } }//read only property
+        public int Width
+        {
+            get
+            {
+                return width;
+            }
+            set
+            {
+                width = value;
+            }
+        }
+        public int Weight
+        {
+            get { return weight; }
+            set { weight = value; }
+        }
 
         public Box(int length, int height, int width)
         {
@@ -42,6 +63,7 @@ namespace UseGeterAndSetterInClass
                 this.height=height;
             }
         }
+       
 
         public void DescribeBox()
         {
