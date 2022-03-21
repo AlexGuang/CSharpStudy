@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "329e82b2-46bf-46e1-b448-e84acff1310f": {
+      "ProjectGuid": "329e82b2-46bf-46e1-b448-e84acff1310f",
+      "DisplayName": "BasicArrayIndexForeach",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
