@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\BasicArrayIndexForeach\BasicArrayIndexForeach\bin\Debug\net5.0\BasicArrayIndexForeach.exe
+E:\Annnew Studio\C#study\github\Gitqiab\BasicArrayIndexForeach\BasicArrayIndexForeach\bin\Debug\net5.0\BasicArrayIndexForeach.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\BasicArrayIndexForeach\BasicArrayIndexForeach\bin\Debug\net5.0\BasicArrayIndexForeach.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\BasicArrayIndexForeach\BasicArrayIndexForeach\bin\Debug\net5.0\BasicArrayIndexForeach.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\BasicArrayIndexForeach\BasicArrayIndexForeach\bin\Debug\net5.0\BasicArrayIndexForeach.dll
+E:\Annnew Studio\C#study\github\Gitqiab\BasicArrayIndexForeach\BasicArrayIndexForeach\bin\Debug\net5.0\ref\BasicArrayIndexForeach.dll
+E:\Annnew Studio\C#study\github\Gitqiab\BasicArrayIndexForeach\BasicArrayIndexForeach\bin\Debug\net5.0\BasicArrayIndexForeach.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\BasicArrayIndexForeach\BasicArrayIndexForeach\obj\Debug\net5.0\BasicArrayIndexForeach.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\BasicArrayIndexForeach\BasicArrayIndexForeach\obj\Debug\net5.0\BasicArrayIndexForeach.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\BasicArrayIndexForeach\BasicArrayIndexForeach\obj\Debug\net5.0\BasicArrayIndexForeach.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\BasicArrayIndexForeach\BasicArrayIndexForeach\obj\Debug\net5.0\BasicArrayIndexForeach.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\BasicArrayIndexForeach\BasicArrayIndexForeach\obj\Debug\net5.0\BasicArrayIndexForeach.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\BasicArrayIndexForeach\BasicArrayIndexForeach\obj\Debug\net5.0\BasicArrayIndexForeach.dll
+E:\Annnew Studio\C#study\github\Gitqiab\BasicArrayIndexForeach\BasicArrayIndexForeach\obj\Debug\net5.0\ref\BasicArrayIndexForeach.dll
+E:\Annnew Studio\C#study\github\Gitqiab\BasicArrayIndexForeach\BasicArrayIndexForeach\obj\Debug\net5.0\BasicArrayIndexForeach.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\BasicArrayIndexForeach\BasicArrayIndexForeach\obj\Debug\net5.0\BasicArrayIndexForeach.genruntimeconfig.cache

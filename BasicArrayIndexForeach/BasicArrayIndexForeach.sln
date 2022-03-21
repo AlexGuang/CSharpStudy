@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicArrayIndexForeach", "BasicArrayIndexForeach\BasicArrayIndexForeach.csproj", "{329E82B2-46BF-46E1-B448-E84ACFF1310F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{329E82B2-46BF-46E1-B448-E84ACFF1310F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329E82B2-46BF-46E1-B448-E84ACFF1310F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329E82B2-46BF-46E1-B448-E84ACFF1310F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329E82B2-46BF-46E1-B448-E84ACFF1310F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE92B2C7-D570-4214-80DF-3C706B6D4FDD}
+	EndGlobalSection
+EndGlobal
