@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\ConsoleGameTicTacToe\ConsoleGameTicTacToe\bin\Debug\net5.0\ConsoleGameTicTacToe.exe
+E:\Annnew Studio\C#study\github\Gitqiab\ConsoleGameTicTacToe\ConsoleGameTicTacToe\bin\Debug\net5.0\ConsoleGameTicTacToe.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\ConsoleGameTicTacToe\ConsoleGameTicTacToe\bin\Debug\net5.0\ConsoleGameTicTacToe.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\ConsoleGameTicTacToe\ConsoleGameTicTacToe\bin\Debug\net5.0\ConsoleGameTicTacToe.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\ConsoleGameTicTacToe\ConsoleGameTicTacToe\bin\Debug\net5.0\ConsoleGameTicTacToe.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ConsoleGameTicTacToe\ConsoleGameTicTacToe\bin\Debug\net5.0\ref\ConsoleGameTicTacToe.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ConsoleGameTicTacToe\ConsoleGameTicTacToe\bin\Debug\net5.0\ConsoleGameTicTacToe.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\ConsoleGameTicTacToe\ConsoleGameTicTacToe\obj\Debug\net5.0\ConsoleGameTicTacToe.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ConsoleGameTicTacToe\ConsoleGameTicTacToe\obj\Debug\net5.0\ConsoleGameTicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\ConsoleGameTicTacToe\ConsoleGameTicTacToe\obj\Debug\net5.0\ConsoleGameTicTacToe.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ConsoleGameTicTacToe\ConsoleGameTicTacToe\obj\Debug\net5.0\ConsoleGameTicTacToe.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\ConsoleGameTicTacToe\ConsoleGameTicTacToe\obj\Debug\net5.0\ConsoleGameTicTacToe.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ConsoleGameTicTacToe\ConsoleGameTicTacToe\obj\Debug\net5.0\ConsoleGameTicTacToe.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ConsoleGameTicTacToe\ConsoleGameTicTacToe\obj\Debug\net5.0\ref\ConsoleGameTicTacToe.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ConsoleGameTicTacToe\ConsoleGameTicTacToe\obj\Debug\net5.0\ConsoleGameTicTacToe.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\ConsoleGameTicTacToe\ConsoleGameTicTacToe\obj\Debug\net5.0\ConsoleGameTicTacToe.genruntimeconfig.cache
