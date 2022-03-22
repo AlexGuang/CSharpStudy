@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\Basic2DArrayAndNestedForLoop\Basic2DArrayAndNestedForLoop\bin\Debug\net5.0\Basic2DArrayAndNestedForLoop.exe
+E:\Annnew Studio\C#study\github\Gitqiab\Basic2DArrayAndNestedForLoop\Basic2DArrayAndNestedForLoop\bin\Debug\net5.0\Basic2DArrayAndNestedForLoop.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\Basic2DArrayAndNestedForLoop\Basic2DArrayAndNestedForLoop\bin\Debug\net5.0\Basic2DArrayAndNestedForLoop.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\Basic2DArrayAndNestedForLoop\Basic2DArrayAndNestedForLoop\bin\Debug\net5.0\Basic2DArrayAndNestedForLoop.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\Basic2DArrayAndNestedForLoop\Basic2DArrayAndNestedForLoop\bin\Debug\net5.0\Basic2DArrayAndNestedForLoop.dll
+E:\Annnew Studio\C#study\github\Gitqiab\Basic2DArrayAndNestedForLoop\Basic2DArrayAndNestedForLoop\bin\Debug\net5.0\ref\Basic2DArrayAndNestedForLoop.dll
+E:\Annnew Studio\C#study\github\Gitqiab\Basic2DArrayAndNestedForLoop\Basic2DArrayAndNestedForLoop\bin\Debug\net5.0\Basic2DArrayAndNestedForLoop.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\Basic2DArrayAndNestedForLoop\Basic2DArrayAndNestedForLoop\obj\Debug\net5.0\Basic2DArrayAndNestedForLoop.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\Basic2DArrayAndNestedForLoop\Basic2DArrayAndNestedForLoop\obj\Debug\net5.0\Basic2DArrayAndNestedForLoop.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\Basic2DArrayAndNestedForLoop\Basic2DArrayAndNestedForLoop\obj\Debug\net5.0\Basic2DArrayAndNestedForLoop.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\Basic2DArrayAndNestedForLoop\Basic2DArrayAndNestedForLoop\obj\Debug\net5.0\Basic2DArrayAndNestedForLoop.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\Basic2DArrayAndNestedForLoop\Basic2DArrayAndNestedForLoop\obj\Debug\net5.0\Basic2DArrayAndNestedForLoop.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\Basic2DArrayAndNestedForLoop\Basic2DArrayAndNestedForLoop\obj\Debug\net5.0\Basic2DArrayAndNestedForLoop.dll
+E:\Annnew Studio\C#study\github\Gitqiab\Basic2DArrayAndNestedForLoop\Basic2DArrayAndNestedForLoop\obj\Debug\net5.0\ref\Basic2DArrayAndNestedForLoop.dll
+E:\Annnew Studio\C#study\github\Gitqiab\Basic2DArrayAndNestedForLoop\Basic2DArrayAndNestedForLoop\obj\Debug\net5.0\Basic2DArrayAndNestedForLoop.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\Basic2DArrayAndNestedForLoop\Basic2DArrayAndNestedForLoop\obj\Debug\net5.0\Basic2DArrayAndNestedForLoop.genruntimeconfig.cache
