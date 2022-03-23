@@ -6,6 +6,22 @@ namespace ConsoleGameTicTacToe
     internal class Program
     {
         public static string[,] meticGmae = new string[11, 11];
+        public static string[,] meticHeart = new string[,]
+        {   {" "," ","*","*"," "," "," ","*","*"," "," " },
+            {" ","*","*","*"," "," "," ","*","*","*"," " },
+            {" ","*"," "," ","*"," ","*"," "," "," ","*" },
+            {"*"," "," "," "," ","*"," "," "," "," ","*" },
+            {"*"," "," "," "," "," "," "," "," "," "," " },
+            {" ","*"," "," "," "," "," "," "," ","*"," " },
+            {" "," ","*"," "," "," "," "," ","*"," "," " },
+            {" "," ","*"," "," "," "," ","*"," "," "," " },
+            {" "," "," ","*","*","*","*","*"," "," "," " },
+            {" "," "," "," ","*","*","*"," "," "," "," " },
+            {" "," "," "," "," ","*"," "," "," "," "," " }
+
+        };
+        public static string[,] test = new string[,]{{"4","3"},{"6","7"} };
+
         public static int step = 1;
         public static string input = "";
         public static int intInput;
@@ -16,16 +32,15 @@ namespace ConsoleGameTicTacToe
 
         static void Main(string[] args)
         {
+            //DisplayHeart(); test Heart pattern
             while (true)
             {
                 Initialize();
-               
+
                 GameStart();
 
             }
-
-
-
+           
         }
         public static void Initialize()
         {
@@ -38,6 +53,17 @@ namespace ConsoleGameTicTacToe
             IsChange = false;   
 
         }
+        //public static void CreateHeart()
+        //{
+        //    for (int i = 0; i < meticHeart.GetLength(0); i++)
+        //    {
+        //        for (int j = 0; j < meticHeart.GetLength(1); j++)
+        //        {
+        //            meticGmae[i, j] = " ";
+        //        }
+
+        //    }
+        //}
         public static void CreateMetric()
         {
             for (int i = 0; i < meticGmae.GetLength(0); i++)
@@ -71,6 +97,18 @@ namespace ConsoleGameTicTacToe
             meticGmae[9, 5] = "8";
             meticGmae[9, 9] = "9";
         }
+        public static void DisplayHeart()
+        {
+            for (int i = 0; i < meticHeart.GetLength(0); i++)
+            {
+                for (int j = 0; j < meticHeart.GetLength(0); j++)
+                {
+                    Console.Write(" "+ meticHeart[i, j] + "");
+                }
+                Console.Write("\n");
+            }
+
+        }
         public static void DisplayMetric()
         {
             Console.Clear();
@@ -103,16 +141,40 @@ namespace ConsoleGameTicTacToe
             Player player2 = new Player();
             CreateMetric();
             DisplayMetric();
-            DisplayMetric();
-            input = Console.ReadLine();
+            
+          
             while (true)
             {
-                
-                if (!IsInputCheck())
-                {                                       
-                    input = Console.ReadLine();
-                    continue;
-                }                          
+                DisplayMetric();
+                input = Console.ReadLine();
+                while (true)
+                {
+                  
+                    if (!int.TryParse(input, out intInput) || input.Length != 1)
+                    {
+                        Console.WriteLine("Please only enter one number from '1' to '9' ");
+                        Console.WriteLine();
+                        Console.WriteLine("{0} : Choose your field !", isPlay1() ? "Player 1" : "Player 2");
+
+                        input = Console.ReadLine();
+                        
+                    }
+                    else if (IsRecord(input) )
+                    {
+                        Console.WriteLine("放你妈的大臭屁！");
+                        Console.WriteLine("Incorrect input! Please use another field!");
+                        Console.WriteLine();
+                        Console.WriteLine("{0} : Choose your field !", isPlay1() ? "Player 1" : "Player 2");
+
+                        input = Console.ReadLine();
+                    }
+                    else
+                    {
+                        break;
+                    }
+                }
+               
+                                         
                 
                 recordInput += input;
                 if (isPlay1())
@@ -128,6 +190,7 @@ namespace ConsoleGameTicTacToe
                         if (Player1Win(player1))
                         {
                             DisplayMetric();
+                            DisplayHeart();
                             Console.WriteLine("Player 1 has won!\n" +
                                 "Press any Key to Reset the Game");
                             Console.ReadKey();
@@ -151,6 +214,7 @@ namespace ConsoleGameTicTacToe
                         if (Player1Win(player2))
                         {
                             DisplayMetric();
+                            DisplayHeart();
                             Console.WriteLine("Player 2 has won!\n" +
                                 "Press any Key to Reset the Game");
                             Console.ReadKey();
@@ -162,7 +226,18 @@ namespace ConsoleGameTicTacToe
                 }
             }
         }
-    
+        public static bool IsInt(string input, out int intInput)
+        {
+            if (!int.TryParse(input, out intInput))
+            {
+                 return false;
+            }
+            else
+            {
+                return true;
+            }
+        }
+       
         public static bool IsInputCheck()
         {
             
