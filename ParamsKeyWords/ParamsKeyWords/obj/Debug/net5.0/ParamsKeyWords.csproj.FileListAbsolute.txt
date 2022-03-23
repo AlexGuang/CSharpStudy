@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\ParamsKeyWords\ParamsKeyWords\bin\Debug\net5.0\ParamsKeyWords.exe
+E:\Annnew Studio\C#study\github\Gitqiab\ParamsKeyWords\ParamsKeyWords\bin\Debug\net5.0\ParamsKeyWords.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\ParamsKeyWords\ParamsKeyWords\bin\Debug\net5.0\ParamsKeyWords.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\ParamsKeyWords\ParamsKeyWords\bin\Debug\net5.0\ParamsKeyWords.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\ParamsKeyWords\ParamsKeyWords\bin\Debug\net5.0\ParamsKeyWords.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ParamsKeyWords\ParamsKeyWords\bin\Debug\net5.0\ref\ParamsKeyWords.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ParamsKeyWords\ParamsKeyWords\bin\Debug\net5.0\ParamsKeyWords.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\ParamsKeyWords\ParamsKeyWords\obj\Debug\net5.0\ParamsKeyWords.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ParamsKeyWords\ParamsKeyWords\obj\Debug\net5.0\ParamsKeyWords.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\ParamsKeyWords\ParamsKeyWords\obj\Debug\net5.0\ParamsKeyWords.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ParamsKeyWords\ParamsKeyWords\obj\Debug\net5.0\ParamsKeyWords.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\ParamsKeyWords\ParamsKeyWords\obj\Debug\net5.0\ParamsKeyWords.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ParamsKeyWords\ParamsKeyWords\obj\Debug\net5.0\ParamsKeyWords.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ParamsKeyWords\ParamsKeyWords\obj\Debug\net5.0\ref\ParamsKeyWords.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ParamsKeyWords\ParamsKeyWords\obj\Debug\net5.0\ParamsKeyWords.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\ParamsKeyWords\ParamsKeyWords\obj\Debug\net5.0\ParamsKeyWords.genruntimeconfig.cache
