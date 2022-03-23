@@ -147,6 +147,15 @@ namespace ConsoleGameTicTacToe
             {
                 DisplayMetric();
                 input = Console.ReadLine();
+                if (step > 10)
+                {
+                    DisplayHeart();
+                    Console.WriteLine("Nobody has won!\n" +
+                            "Press any Key to Reset the Game");
+                    Console.ReadKey();
+                    Console.Clear();
+                   break;
+                }
                 while (true)
                 {
                   
@@ -161,7 +170,7 @@ namespace ConsoleGameTicTacToe
                     }
                     else if (IsRecord(input) )
                     {
-                        Console.WriteLine("放你妈的大臭屁！");
+                        
                         Console.WriteLine("Incorrect input! Please use another field!");
                         Console.WriteLine();
                         Console.WriteLine("{0} : Choose your field !", isPlay1() ? "Player 1" : "Player 2");
@@ -198,7 +207,17 @@ namespace ConsoleGameTicTacToe
 
                             return;
                         }
+                        else if (step > 10)
+                        {
+                            DisplayHeart();
+                            Console.WriteLine("Nobody has won!\n" +
+                                    "Press any Key to Reset the Game");
+                            Console.ReadKey();
+                            Console.Clear();
+                            return;
+                        }
                     }
+                    
                    // input = "hahahahahahah";
                 }
                 else
@@ -223,6 +242,15 @@ namespace ConsoleGameTicTacToe
                         }
                     }
                     //input = "hahahahahahah";
+                    if (step > 10)
+                    {
+                        DisplayHeart();
+                        Console.WriteLine("Nobody has won!\n" +
+                                "Press any Key to Reset the Game");
+                        Console.ReadKey();
+                        Console.Clear();
+                        return;
+                    }
                 }
             }
         }
@@ -251,7 +279,7 @@ namespace ConsoleGameTicTacToe
             }
             else if (IsRecord(input))
             {
-                Console.WriteLine("放你妈的大臭屁！");
+                
                 Console.WriteLine("Incorrect input! Please use another field!");
                 Console.WriteLine();
                 Console.WriteLine("{0} : Choose your field !", isPlay1() ? "Player 1" : "Player 2");
@@ -280,7 +308,7 @@ namespace ConsoleGameTicTacToe
             {
                 return true;
             }
-            else if (player.sumString.Contains("1") && player.sumString.Contains("3") && player.sumString.Contains("9"))
+            else if (player.sumString.Contains("1") && player.sumString.Contains("5") && player.sumString.Contains("9"))
             {
                 return true;
             }
