@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\ArrayAsParametersChallenge\ArrayAsParametersChallenge\bin\Debug\net5.0\ArrayAsParametersChallenge.exe
+E:\Annnew Studio\C#study\github\Gitqiab\ArrayAsParametersChallenge\ArrayAsParametersChallenge\bin\Debug\net5.0\ArrayAsParametersChallenge.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\ArrayAsParametersChallenge\ArrayAsParametersChallenge\bin\Debug\net5.0\ArrayAsParametersChallenge.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\ArrayAsParametersChallenge\ArrayAsParametersChallenge\bin\Debug\net5.0\ArrayAsParametersChallenge.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\ArrayAsParametersChallenge\ArrayAsParametersChallenge\bin\Debug\net5.0\ArrayAsParametersChallenge.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ArrayAsParametersChallenge\ArrayAsParametersChallenge\bin\Debug\net5.0\ref\ArrayAsParametersChallenge.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ArrayAsParametersChallenge\ArrayAsParametersChallenge\bin\Debug\net5.0\ArrayAsParametersChallenge.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\ArrayAsParametersChallenge\ArrayAsParametersChallenge\obj\Debug\net5.0\ArrayAsParametersChallenge.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ArrayAsParametersChallenge\ArrayAsParametersChallenge\obj\Debug\net5.0\ArrayAsParametersChallenge.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\ArrayAsParametersChallenge\ArrayAsParametersChallenge\obj\Debug\net5.0\ArrayAsParametersChallenge.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ArrayAsParametersChallenge\ArrayAsParametersChallenge\obj\Debug\net5.0\ArrayAsParametersChallenge.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\ArrayAsParametersChallenge\ArrayAsParametersChallenge\obj\Debug\net5.0\ArrayAsParametersChallenge.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ArrayAsParametersChallenge\ArrayAsParametersChallenge\obj\Debug\net5.0\ArrayAsParametersChallenge.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ArrayAsParametersChallenge\ArrayAsParametersChallenge\obj\Debug\net5.0\ref\ArrayAsParametersChallenge.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ArrayAsParametersChallenge\ArrayAsParametersChallenge\obj\Debug\net5.0\ArrayAsParametersChallenge.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\ArrayAsParametersChallenge\ArrayAsParametersChallenge\obj\Debug\net5.0\ArrayAsParametersChallenge.genruntimeconfig.cache

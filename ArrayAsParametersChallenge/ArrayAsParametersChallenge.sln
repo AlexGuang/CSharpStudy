@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayAsParametersChallenge", "ArrayAsParametersChallenge\ArrayAsParametersChallenge.csproj", "{58800128-CDD0-4194-8408-1829C8FFED13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58800128-CDD0-4194-8408-1829C8FFED13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58800128-CDD0-4194-8408-1829C8FFED13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58800128-CDD0-4194-8408-1829C8FFED13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58800128-CDD0-4194-8408-1829C8FFED13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E64CCCDB-1CB6-4679-B340-4E1F19D7FA45}
+	EndGlobalSection
+EndGlobal
