@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\JaggedArray\JaggedArray\bin\Debug\net5.0\JaggedArray.exe
+E:\Annnew Studio\C#study\github\Gitqiab\JaggedArray\JaggedArray\bin\Debug\net5.0\JaggedArray.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\JaggedArray\JaggedArray\bin\Debug\net5.0\JaggedArray.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\JaggedArray\JaggedArray\bin\Debug\net5.0\JaggedArray.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\JaggedArray\JaggedArray\bin\Debug\net5.0\JaggedArray.dll
+E:\Annnew Studio\C#study\github\Gitqiab\JaggedArray\JaggedArray\bin\Debug\net5.0\ref\JaggedArray.dll
+E:\Annnew Studio\C#study\github\Gitqiab\JaggedArray\JaggedArray\bin\Debug\net5.0\JaggedArray.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\JaggedArray\JaggedArray\obj\Debug\net5.0\JaggedArray.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\JaggedArray\JaggedArray\obj\Debug\net5.0\JaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\JaggedArray\JaggedArray\obj\Debug\net5.0\JaggedArray.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\JaggedArray\JaggedArray\obj\Debug\net5.0\JaggedArray.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\JaggedArray\JaggedArray\obj\Debug\net5.0\JaggedArray.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\JaggedArray\JaggedArray\obj\Debug\net5.0\JaggedArray.dll
+E:\Annnew Studio\C#study\github\Gitqiab\JaggedArray\JaggedArray\obj\Debug\net5.0\ref\JaggedArray.dll
+E:\Annnew Studio\C#study\github\Gitqiab\JaggedArray\JaggedArray\obj\Debug\net5.0\JaggedArray.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\JaggedArray\JaggedArray\obj\Debug\net5.0\JaggedArray.genruntimeconfig.cache
