@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\QueueEnqueueDequeue\QueueEnqueueDequeue\bin\Debug\net5.0\QueueEnqueueDequeue.exe
+E:\Annnew Studio\C#study\github\Gitqiab\QueueEnqueueDequeue\QueueEnqueueDequeue\bin\Debug\net5.0\QueueEnqueueDequeue.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\QueueEnqueueDequeue\QueueEnqueueDequeue\bin\Debug\net5.0\QueueEnqueueDequeue.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\QueueEnqueueDequeue\QueueEnqueueDequeue\bin\Debug\net5.0\QueueEnqueueDequeue.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\QueueEnqueueDequeue\QueueEnqueueDequeue\bin\Debug\net5.0\QueueEnqueueDequeue.dll
+E:\Annnew Studio\C#study\github\Gitqiab\QueueEnqueueDequeue\QueueEnqueueDequeue\bin\Debug\net5.0\ref\QueueEnqueueDequeue.dll
+E:\Annnew Studio\C#study\github\Gitqiab\QueueEnqueueDequeue\QueueEnqueueDequeue\bin\Debug\net5.0\QueueEnqueueDequeue.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\QueueEnqueueDequeue\QueueEnqueueDequeue\obj\Debug\net5.0\QueueEnqueueDequeue.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\QueueEnqueueDequeue\QueueEnqueueDequeue\obj\Debug\net5.0\QueueEnqueueDequeue.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\QueueEnqueueDequeue\QueueEnqueueDequeue\obj\Debug\net5.0\QueueEnqueueDequeue.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\QueueEnqueueDequeue\QueueEnqueueDequeue\obj\Debug\net5.0\QueueEnqueueDequeue.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\QueueEnqueueDequeue\QueueEnqueueDequeue\obj\Debug\net5.0\QueueEnqueueDequeue.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\QueueEnqueueDequeue\QueueEnqueueDequeue\obj\Debug\net5.0\QueueEnqueueDequeue.dll
+E:\Annnew Studio\C#study\github\Gitqiab\QueueEnqueueDequeue\QueueEnqueueDequeue\obj\Debug\net5.0\ref\QueueEnqueueDequeue.dll
+E:\Annnew Studio\C#study\github\Gitqiab\QueueEnqueueDequeue\QueueEnqueueDequeue\obj\Debug\net5.0\QueueEnqueueDequeue.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\QueueEnqueueDequeue\QueueEnqueueDequeue\obj\Debug\net5.0\QueueEnqueueDequeue.genruntimeconfig.cache

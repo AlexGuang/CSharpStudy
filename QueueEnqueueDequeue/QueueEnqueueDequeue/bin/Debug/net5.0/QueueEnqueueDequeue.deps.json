@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "QueueEnqueueDequeue/1.0.0": {
+        "runtime": {
+          "QueueEnqueueDequeue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QueueEnqueueDequeue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
