@@ -26,6 +26,29 @@ namespace DictionaryKeyVlauePair
             {
                 employeeDictionary.Add(employee.Position, employee);
             }
+            //Update
+            string DicKey = "Analyst";
+            if (employeeDictionary.ContainsKey(DicKey))
+            {
+                employeeDictionary[DicKey] = new Employee("Analyst", "Laura", 22, 18);
+                Console.WriteLine("Employee with Role/Key {0} was updated!",DicKey);
+            }
+            else
+            {
+                Console.WriteLine("No employee found with this Key {0}", DicKey);
+            }
+            //Remove
+            string removeKey = "Logeistics";
+            if (employeeDictionary.Remove(removeKey))
+            {
+                Console.WriteLine("Employee with position/Key {0} was removed!",removeKey);
+            }
+            else
+            {
+                Console.WriteLine("No employee found with this Key {0}", removeKey);
+            }
+
+
             string key = "CEO";
             if (employeeDictionary.ContainsKey(key))
             {
