@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\ListPractice\ListPractice\bin\Debug\net5.0\ListPractice.exe
+E:\Annnew Studio\C#study\github\Gitqiab\ListPractice\ListPractice\bin\Debug\net5.0\ListPractice.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\ListPractice\ListPractice\bin\Debug\net5.0\ListPractice.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\ListPractice\ListPractice\bin\Debug\net5.0\ListPractice.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\ListPractice\ListPractice\bin\Debug\net5.0\ListPractice.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ListPractice\ListPractice\bin\Debug\net5.0\ref\ListPractice.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ListPractice\ListPractice\bin\Debug\net5.0\ListPractice.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\ListPractice\ListPractice\obj\Debug\net5.0\ListPractice.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ListPractice\ListPractice\obj\Debug\net5.0\ListPractice.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\ListPractice\ListPractice\obj\Debug\net5.0\ListPractice.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ListPractice\ListPractice\obj\Debug\net5.0\ListPractice.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\ListPractice\ListPractice\obj\Debug\net5.0\ListPractice.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ListPractice\ListPractice\obj\Debug\net5.0\ListPractice.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ListPractice\ListPractice\obj\Debug\net5.0\ref\ListPractice.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ListPractice\ListPractice\obj\Debug\net5.0\ListPractice.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\ListPractice\ListPractice\obj\Debug\net5.0\ListPractice.genruntimeconfig.cache
