@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\StackDemo\StackDemo\bin\Debug\net5.0\StackDemo.exe
+E:\Annnew Studio\C#study\github\Gitqiab\StackDemo\StackDemo\bin\Debug\net5.0\StackDemo.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\StackDemo\StackDemo\bin\Debug\net5.0\StackDemo.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\StackDemo\StackDemo\bin\Debug\net5.0\StackDemo.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\StackDemo\StackDemo\bin\Debug\net5.0\StackDemo.dll
+E:\Annnew Studio\C#study\github\Gitqiab\StackDemo\StackDemo\bin\Debug\net5.0\ref\StackDemo.dll
+E:\Annnew Studio\C#study\github\Gitqiab\StackDemo\StackDemo\bin\Debug\net5.0\StackDemo.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\StackDemo\StackDemo\obj\Debug\net5.0\StackDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\StackDemo\StackDemo\obj\Debug\net5.0\StackDemo.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\StackDemo\StackDemo\obj\Debug\net5.0\StackDemo.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\StackDemo\StackDemo\obj\Debug\net5.0\StackDemo.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\StackDemo\StackDemo\obj\Debug\net5.0\StackDemo.dll
+E:\Annnew Studio\C#study\github\Gitqiab\StackDemo\StackDemo\obj\Debug\net5.0\ref\StackDemo.dll
+E:\Annnew Studio\C#study\github\Gitqiab\StackDemo\StackDemo\obj\Debug\net5.0\StackDemo.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\StackDemo\StackDemo\obj\Debug\net5.0\StackDemo.genruntimeconfig.cache
+E:\Annnew Studio\C#study\github\Gitqiab\StackDemo\StackDemo\obj\Debug\net5.0\StackDemo.csproj.AssemblyReference.cache
