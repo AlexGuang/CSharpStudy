@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\DictionaryKeyVlauePair\DictionaryKeyVlauePair\obj\Debug\net5.0\DictionaryKeyVlauePair.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\DictionaryKeyVlauePair\DictionaryKeyVlauePair\obj\Debug\net5.0\DictionaryKeyVlauePair.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\DictionaryKeyVlauePair\DictionaryKeyVlauePair\obj\Debug\net5.0\DictionaryKeyVlauePair.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\DictionaryKeyVlauePair\DictionaryKeyVlauePair\obj\Debug\net5.0\DictionaryKeyVlauePair.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\DictionaryKeyVlauePair\DictionaryKeyVlauePair\obj\Debug\net5.0\DictionaryKeyVlauePair.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\DictionaryKeyVlauePair\DictionaryKeyVlauePair\bin\Debug\net5.0\DictionaryKeyVlauePair.exe
+E:\Annnew Studio\C#study\github\Gitqiab\DictionaryKeyVlauePair\DictionaryKeyVlauePair\bin\Debug\net5.0\DictionaryKeyVlauePair.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\DictionaryKeyVlauePair\DictionaryKeyVlauePair\bin\Debug\net5.0\DictionaryKeyVlauePair.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\DictionaryKeyVlauePair\DictionaryKeyVlauePair\bin\Debug\net5.0\DictionaryKeyVlauePair.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\DictionaryKeyVlauePair\DictionaryKeyVlauePair\bin\Debug\net5.0\DictionaryKeyVlauePair.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DictionaryKeyVlauePair\DictionaryKeyVlauePair\bin\Debug\net5.0\ref\DictionaryKeyVlauePair.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DictionaryKeyVlauePair\DictionaryKeyVlauePair\bin\Debug\net5.0\DictionaryKeyVlauePair.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\DictionaryKeyVlauePair\DictionaryKeyVlauePair\obj\Debug\net5.0\DictionaryKeyVlauePair.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DictionaryKeyVlauePair\DictionaryKeyVlauePair\obj\Debug\net5.0\ref\DictionaryKeyVlauePair.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DictionaryKeyVlauePair\DictionaryKeyVlauePair\obj\Debug\net5.0\DictionaryKeyVlauePair.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\DictionaryKeyVlauePair\DictionaryKeyVlauePair\obj\Debug\net5.0\DictionaryKeyVlauePair.genruntimeconfig.cache
