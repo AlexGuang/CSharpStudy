@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceLearning\InheritanceLearning\bin\Debug\net5.0\InheritanceLearning.exe
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceLearning\InheritanceLearning\bin\Debug\net5.0\InheritanceLearning.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceLearning\InheritanceLearning\bin\Debug\net5.0\InheritanceLearning.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceLearning\InheritanceLearning\bin\Debug\net5.0\InheritanceLearning.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceLearning\InheritanceLearning\bin\Debug\net5.0\InheritanceLearning.dll
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceLearning\InheritanceLearning\bin\Debug\net5.0\ref\InheritanceLearning.dll
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceLearning\InheritanceLearning\bin\Debug\net5.0\InheritanceLearning.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceLearning\InheritanceLearning\obj\Debug\net5.0\InheritanceLearning.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceLearning\InheritanceLearning\obj\Debug\net5.0\InheritanceLearning.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceLearning\InheritanceLearning\obj\Debug\net5.0\InheritanceLearning.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceLearning\InheritanceLearning\obj\Debug\net5.0\InheritanceLearning.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceLearning\InheritanceLearning\obj\Debug\net5.0\InheritanceLearning.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceLearning\InheritanceLearning\obj\Debug\net5.0\InheritanceLearning.dll
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceLearning\InheritanceLearning\obj\Debug\net5.0\ref\InheritanceLearning.dll
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceLearning\InheritanceLearning\obj\Debug\net5.0\InheritanceLearning.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceLearning\InheritanceLearning\obj\Debug\net5.0\InheritanceLearning.genruntimeconfig.cache
