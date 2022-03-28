@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\VirtualOverrideKeywords\VirtualOverrideKeywords\bin\Debug\net5.0\VirtualOverrideKeywords.exe
+E:\Annnew Studio\C#study\github\Gitqiab\VirtualOverrideKeywords\VirtualOverrideKeywords\bin\Debug\net5.0\VirtualOverrideKeywords.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\VirtualOverrideKeywords\VirtualOverrideKeywords\bin\Debug\net5.0\VirtualOverrideKeywords.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\VirtualOverrideKeywords\VirtualOverrideKeywords\bin\Debug\net5.0\VirtualOverrideKeywords.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\VirtualOverrideKeywords\VirtualOverrideKeywords\bin\Debug\net5.0\VirtualOverrideKeywords.dll
+E:\Annnew Studio\C#study\github\Gitqiab\VirtualOverrideKeywords\VirtualOverrideKeywords\bin\Debug\net5.0\ref\VirtualOverrideKeywords.dll
+E:\Annnew Studio\C#study\github\Gitqiab\VirtualOverrideKeywords\VirtualOverrideKeywords\bin\Debug\net5.0\VirtualOverrideKeywords.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\VirtualOverrideKeywords\VirtualOverrideKeywords\obj\Debug\net5.0\VirtualOverrideKeywords.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\VirtualOverrideKeywords\VirtualOverrideKeywords\obj\Debug\net5.0\VirtualOverrideKeywords.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\VirtualOverrideKeywords\VirtualOverrideKeywords\obj\Debug\net5.0\VirtualOverrideKeywords.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\VirtualOverrideKeywords\VirtualOverrideKeywords\obj\Debug\net5.0\VirtualOverrideKeywords.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\VirtualOverrideKeywords\VirtualOverrideKeywords\obj\Debug\net5.0\VirtualOverrideKeywords.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\VirtualOverrideKeywords\VirtualOverrideKeywords\obj\Debug\net5.0\VirtualOverrideKeywords.dll
+E:\Annnew Studio\C#study\github\Gitqiab\VirtualOverrideKeywords\VirtualOverrideKeywords\obj\Debug\net5.0\ref\VirtualOverrideKeywords.dll
+E:\Annnew Studio\C#study\github\Gitqiab\VirtualOverrideKeywords\VirtualOverrideKeywords\obj\Debug\net5.0\VirtualOverrideKeywords.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\VirtualOverrideKeywords\VirtualOverrideKeywords\obj\Debug\net5.0\VirtualOverrideKeywords.genruntimeconfig.cache
