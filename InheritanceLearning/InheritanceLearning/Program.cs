@@ -10,10 +10,10 @@ namespace InheritanceLearning
             Radio radio1 = new Radio();
             ElectronicDevice device   = new ElectronicDevice();
 
-            tv1.brand = "TCL";
+            tv1.Brand = "TCL";
             radio1.IsOn = false;
-            device.brand = "Huawei";
-            Console.WriteLine("The TV is from {0}",tv1.brand);
+            device.Brand = "Huawei";
+            Console.WriteLine("The TV is from {0}",tv1.Brand);
         }
     }
 }
