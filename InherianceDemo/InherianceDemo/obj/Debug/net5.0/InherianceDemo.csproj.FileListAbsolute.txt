@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\InherianceDemo\InherianceDemo\obj\Debug\net5.0\InherianceDemo.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\InherianceDemo\InherianceDemo\obj\Debug\net5.0\InherianceDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\InherianceDemo\InherianceDemo\obj\Debug\net5.0\InherianceDemo.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\InherianceDemo\InherianceDemo\obj\Debug\net5.0\InherianceDemo.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\InherianceDemo\InherianceDemo\obj\Debug\net5.0\InherianceDemo.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\InherianceDemo\InherianceDemo\bin\Debug\net5.0\InherianceDemo.exe
+E:\Annnew Studio\C#study\github\Gitqiab\InherianceDemo\InherianceDemo\bin\Debug\net5.0\InherianceDemo.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\InherianceDemo\InherianceDemo\bin\Debug\net5.0\InherianceDemo.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\InherianceDemo\InherianceDemo\bin\Debug\net5.0\InherianceDemo.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\InherianceDemo\InherianceDemo\bin\Debug\net5.0\InherianceDemo.dll
+E:\Annnew Studio\C#study\github\Gitqiab\InherianceDemo\InherianceDemo\bin\Debug\net5.0\ref\InherianceDemo.dll
+E:\Annnew Studio\C#study\github\Gitqiab\InherianceDemo\InherianceDemo\bin\Debug\net5.0\InherianceDemo.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\InherianceDemo\InherianceDemo\obj\Debug\net5.0\InherianceDemo.dll
+E:\Annnew Studio\C#study\github\Gitqiab\InherianceDemo\InherianceDemo\obj\Debug\net5.0\ref\InherianceDemo.dll
+E:\Annnew Studio\C#study\github\Gitqiab\InherianceDemo\InherianceDemo\obj\Debug\net5.0\InherianceDemo.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\InherianceDemo\InherianceDemo\obj\Debug\net5.0\InherianceDemo.genruntimeconfig.cache
