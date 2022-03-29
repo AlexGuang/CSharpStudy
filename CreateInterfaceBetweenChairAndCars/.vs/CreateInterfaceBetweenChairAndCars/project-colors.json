@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8f123927-8f61-47a7-b75a-c381c708132c": {
+      "ProjectGuid": "8f123927-8f61-47a7-b75a-c381c708132c",
+      "DisplayName": "CreateInterfaceBetweenChairAndCars",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

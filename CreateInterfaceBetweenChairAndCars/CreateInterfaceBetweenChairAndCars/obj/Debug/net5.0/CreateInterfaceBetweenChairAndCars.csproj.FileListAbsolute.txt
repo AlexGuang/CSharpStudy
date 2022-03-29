@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\CreateInterfaceBetweenChairAndCars\CreateInterfaceBetweenChairAndCars\bin\Debug\net5.0\CreateInterfaceBetweenChairAndCars.exe
+E:\Annnew Studio\C#study\github\Gitqiab\CreateInterfaceBetweenChairAndCars\CreateInterfaceBetweenChairAndCars\bin\Debug\net5.0\CreateInterfaceBetweenChairAndCars.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\CreateInterfaceBetweenChairAndCars\CreateInterfaceBetweenChairAndCars\bin\Debug\net5.0\CreateInterfaceBetweenChairAndCars.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\CreateInterfaceBetweenChairAndCars\CreateInterfaceBetweenChairAndCars\bin\Debug\net5.0\CreateInterfaceBetweenChairAndCars.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\CreateInterfaceBetweenChairAndCars\CreateInterfaceBetweenChairAndCars\bin\Debug\net5.0\CreateInterfaceBetweenChairAndCars.dll
+E:\Annnew Studio\C#study\github\Gitqiab\CreateInterfaceBetweenChairAndCars\CreateInterfaceBetweenChairAndCars\bin\Debug\net5.0\ref\CreateInterfaceBetweenChairAndCars.dll
+E:\Annnew Studio\C#study\github\Gitqiab\CreateInterfaceBetweenChairAndCars\CreateInterfaceBetweenChairAndCars\bin\Debug\net5.0\CreateInterfaceBetweenChairAndCars.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\CreateInterfaceBetweenChairAndCars\CreateInterfaceBetweenChairAndCars\obj\Debug\net5.0\CreateInterfaceBetweenChairAndCars.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\CreateInterfaceBetweenChairAndCars\CreateInterfaceBetweenChairAndCars\obj\Debug\net5.0\CreateInterfaceBetweenChairAndCars.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\CreateInterfaceBetweenChairAndCars\CreateInterfaceBetweenChairAndCars\obj\Debug\net5.0\CreateInterfaceBetweenChairAndCars.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\CreateInterfaceBetweenChairAndCars\CreateInterfaceBetweenChairAndCars\obj\Debug\net5.0\CreateInterfaceBetweenChairAndCars.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\CreateInterfaceBetweenChairAndCars\CreateInterfaceBetweenChairAndCars\obj\Debug\net5.0\CreateInterfaceBetweenChairAndCars.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\CreateInterfaceBetweenChairAndCars\CreateInterfaceBetweenChairAndCars\obj\Debug\net5.0\CreateInterfaceBetweenChairAndCars.dll
+E:\Annnew Studio\C#study\github\Gitqiab\CreateInterfaceBetweenChairAndCars\CreateInterfaceBetweenChairAndCars\obj\Debug\net5.0\ref\CreateInterfaceBetweenChairAndCars.dll
+E:\Annnew Studio\C#study\github\Gitqiab\CreateInterfaceBetweenChairAndCars\CreateInterfaceBetweenChairAndCars\obj\Debug\net5.0\CreateInterfaceBetweenChairAndCars.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\CreateInterfaceBetweenChairAndCars\CreateInterfaceBetweenChairAndCars\obj\Debug\net5.0\CreateInterfaceBetweenChairAndCars.genruntimeconfig.cache
