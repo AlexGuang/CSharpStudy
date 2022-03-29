@@ -17,7 +17,7 @@ namespace InherianceDemo
 
         protected string SendByUsername { get; set; }   
 
-        protected bool IsPublic { get; set; }
+        protected bool IsPublished { get; set; }
 
 
         //Default constructor. If a derived class does not invoke a base class constructor explicity,
@@ -27,14 +27,14 @@ namespace InherianceDemo
         {
             ID = 0;
             Title = "My First Post";
-            IsPublic = true;
+            IsPublished = true;
             SendByUsername = "Xiao Guang";
         }
         //Instance constructor that has three parameters
         public Post(string title, bool isPublic, string sendByUsername)
         {
             this.Title = title;
-            this.IsPublic = isPublic;
+            this.IsPublished = isPublic;
             this.ID = GetNextID();
             this.SendByUsername = sendByUsername;
         }
@@ -47,7 +47,7 @@ namespace InherianceDemo
         public void Update(string title, bool isPublic)
         {
             this.Title = title;
-            this.IsPublic = isPublic;
+            this.IsPublished = isPublic;
         }
 
         //Virtual method override of the ToString method that is inerited
@@ -56,5 +56,8 @@ namespace InherianceDemo
         {
             return String.Format("{0} - {1} - by {2}", this.ID, this.Title, this.SendByUsername);
         }
+
+       
+     
     }
 }

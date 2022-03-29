@@ -21,7 +21,7 @@ namespace InherianceDemo
             this.ID = GetNextID();
             this.Title = title;
             this.SendByUsername = sendByUsername;
-            this.IsPublic = isPublic;
+            this.IsPublished = isPublic;
 
             this.ImageURL = imageURL;
         }
