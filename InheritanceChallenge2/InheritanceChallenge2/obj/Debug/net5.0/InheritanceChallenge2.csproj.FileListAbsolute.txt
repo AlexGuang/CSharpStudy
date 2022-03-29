@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceChallenge2\InheritanceChallenge2\bin\Debug\net5.0\InheritanceChallenge2.exe
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceChallenge2\InheritanceChallenge2\bin\Debug\net5.0\InheritanceChallenge2.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceChallenge2\InheritanceChallenge2\bin\Debug\net5.0\InheritanceChallenge2.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceChallenge2\InheritanceChallenge2\bin\Debug\net5.0\InheritanceChallenge2.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceChallenge2\InheritanceChallenge2\bin\Debug\net5.0\InheritanceChallenge2.dll
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceChallenge2\InheritanceChallenge2\bin\Debug\net5.0\ref\InheritanceChallenge2.dll
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceChallenge2\InheritanceChallenge2\bin\Debug\net5.0\InheritanceChallenge2.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net5.0\InheritanceChallenge2.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net5.0\InheritanceChallenge2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net5.0\InheritanceChallenge2.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net5.0\InheritanceChallenge2.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net5.0\InheritanceChallenge2.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net5.0\InheritanceChallenge2.dll
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net5.0\ref\InheritanceChallenge2.dll
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net5.0\InheritanceChallenge2.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\InheritanceChallenge2\InheritanceChallenge2\obj\Debug\net5.0\InheritanceChallenge2.genruntimeconfig.cache
