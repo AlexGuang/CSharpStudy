@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\InterfaceLearning\InterfaceLearning\bin\Debug\net5.0\InterfaceLearning.exe
+E:\Annnew Studio\C#study\github\Gitqiab\InterfaceLearning\InterfaceLearning\bin\Debug\net5.0\InterfaceLearning.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\InterfaceLearning\InterfaceLearning\bin\Debug\net5.0\InterfaceLearning.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\InterfaceLearning\InterfaceLearning\bin\Debug\net5.0\InterfaceLearning.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\InterfaceLearning\InterfaceLearning\bin\Debug\net5.0\InterfaceLearning.dll
+E:\Annnew Studio\C#study\github\Gitqiab\InterfaceLearning\InterfaceLearning\bin\Debug\net5.0\ref\InterfaceLearning.dll
+E:\Annnew Studio\C#study\github\Gitqiab\InterfaceLearning\InterfaceLearning\bin\Debug\net5.0\InterfaceLearning.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\InterfaceLearning\InterfaceLearning\obj\Debug\net5.0\InterfaceLearning.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\InterfaceLearning\InterfaceLearning\obj\Debug\net5.0\InterfaceLearning.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\InterfaceLearning\InterfaceLearning\obj\Debug\net5.0\InterfaceLearning.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\InterfaceLearning\InterfaceLearning\obj\Debug\net5.0\InterfaceLearning.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\InterfaceLearning\InterfaceLearning\obj\Debug\net5.0\InterfaceLearning.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\InterfaceLearning\InterfaceLearning\obj\Debug\net5.0\InterfaceLearning.dll
+E:\Annnew Studio\C#study\github\Gitqiab\InterfaceLearning\InterfaceLearning\obj\Debug\net5.0\ref\InterfaceLearning.dll
+E:\Annnew Studio\C#study\github\Gitqiab\InterfaceLearning\InterfaceLearning\obj\Debug\net5.0\InterfaceLearning.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\InterfaceLearning\InterfaceLearning\obj\Debug\net5.0\InterfaceLearning.genruntimeconfig.cache
