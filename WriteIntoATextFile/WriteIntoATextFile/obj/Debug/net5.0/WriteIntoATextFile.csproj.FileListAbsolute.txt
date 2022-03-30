@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\WriteIntoATextFile\WriteIntoATextFile\bin\Debug\net5.0\WriteIntoATextFile.exe
+E:\Annnew Studio\C#study\github\Gitqiab\WriteIntoATextFile\WriteIntoATextFile\bin\Debug\net5.0\WriteIntoATextFile.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\WriteIntoATextFile\WriteIntoATextFile\bin\Debug\net5.0\WriteIntoATextFile.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\WriteIntoATextFile\WriteIntoATextFile\bin\Debug\net5.0\WriteIntoATextFile.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\WriteIntoATextFile\WriteIntoATextFile\bin\Debug\net5.0\WriteIntoATextFile.dll
+E:\Annnew Studio\C#study\github\Gitqiab\WriteIntoATextFile\WriteIntoATextFile\bin\Debug\net5.0\ref\WriteIntoATextFile.dll
+E:\Annnew Studio\C#study\github\Gitqiab\WriteIntoATextFile\WriteIntoATextFile\bin\Debug\net5.0\WriteIntoATextFile.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\WriteIntoATextFile\WriteIntoATextFile\obj\Debug\net5.0\WriteIntoATextFile.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\WriteIntoATextFile\WriteIntoATextFile\obj\Debug\net5.0\WriteIntoATextFile.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\WriteIntoATextFile\WriteIntoATextFile\obj\Debug\net5.0\WriteIntoATextFile.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\WriteIntoATextFile\WriteIntoATextFile\obj\Debug\net5.0\WriteIntoATextFile.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\WriteIntoATextFile\WriteIntoATextFile\obj\Debug\net5.0\WriteIntoATextFile.dll
+E:\Annnew Studio\C#study\github\Gitqiab\WriteIntoATextFile\WriteIntoATextFile\obj\Debug\net5.0\ref\WriteIntoATextFile.dll
+E:\Annnew Studio\C#study\github\Gitqiab\WriteIntoATextFile\WriteIntoATextFile\obj\Debug\net5.0\WriteIntoATextFile.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\WriteIntoATextFile\WriteIntoATextFile\obj\Debug\net5.0\WriteIntoATextFile.genruntimeconfig.cache
+E:\Annnew Studio\C#study\github\Gitqiab\WriteIntoATextFile\WriteIntoATextFile\obj\Debug\net5.0\WriteIntoATextFile.csproj.AssemblyReference.cache
