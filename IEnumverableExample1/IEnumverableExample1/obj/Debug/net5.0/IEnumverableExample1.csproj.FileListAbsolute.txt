@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumverableExample1\IEnumverableExample1\bin\Debug\net5.0\IEnumverableExample1.exe
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumverableExample1\IEnumverableExample1\bin\Debug\net5.0\IEnumverableExample1.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumverableExample1\IEnumverableExample1\bin\Debug\net5.0\IEnumverableExample1.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumverableExample1\IEnumverableExample1\bin\Debug\net5.0\IEnumverableExample1.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumverableExample1\IEnumverableExample1\bin\Debug\net5.0\IEnumverableExample1.dll
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumverableExample1\IEnumverableExample1\bin\Debug\net5.0\ref\IEnumverableExample1.dll
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumverableExample1\IEnumverableExample1\bin\Debug\net5.0\IEnumverableExample1.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumverableExample1\IEnumverableExample1\obj\Debug\net5.0\IEnumverableExample1.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumverableExample1\IEnumverableExample1\obj\Debug\net5.0\IEnumverableExample1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumverableExample1\IEnumverableExample1\obj\Debug\net5.0\IEnumverableExample1.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumverableExample1\IEnumverableExample1\obj\Debug\net5.0\IEnumverableExample1.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumverableExample1\IEnumverableExample1\obj\Debug\net5.0\IEnumverableExample1.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumverableExample1\IEnumverableExample1\obj\Debug\net5.0\IEnumverableExample1.dll
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumverableExample1\IEnumverableExample1\obj\Debug\net5.0\ref\IEnumverableExample1.dll
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumverableExample1\IEnumverableExample1\obj\Debug\net5.0\IEnumverableExample1.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumverableExample1\IEnumverableExample1\obj\Debug\net5.0\IEnumverableExample1.genruntimeconfig.cache
