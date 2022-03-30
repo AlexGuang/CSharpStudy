@@ -1,0 +1,15 @@
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumerableAsParameter\IEnumerableAsParameter\bin\Debug\net5.0\IEnumerableAsParameter.exe
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumerableAsParameter\IEnumerableAsParameter\bin\Debug\net5.0\IEnumerableAsParameter.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumerableAsParameter\IEnumerableAsParameter\bin\Debug\net5.0\IEnumerableAsParameter.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumerableAsParameter\IEnumerableAsParameter\bin\Debug\net5.0\IEnumerableAsParameter.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumerableAsParameter\IEnumerableAsParameter\bin\Debug\net5.0\IEnumerableAsParameter.dll
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumerableAsParameter\IEnumerableAsParameter\bin\Debug\net5.0\ref\IEnumerableAsParameter.dll
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumerableAsParameter\IEnumerableAsParameter\bin\Debug\net5.0\IEnumerableAsParameter.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumerableAsParameter\IEnumerableAsParameter\obj\Debug\net5.0\IEnumerableAsParameter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumerableAsParameter\IEnumerableAsParameter\obj\Debug\net5.0\IEnumerableAsParameter.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumerableAsParameter\IEnumerableAsParameter\obj\Debug\net5.0\IEnumerableAsParameter.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumerableAsParameter\IEnumerableAsParameter\obj\Debug\net5.0\IEnumerableAsParameter.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumerableAsParameter\IEnumerableAsParameter\obj\Debug\net5.0\IEnumerableAsParameter.dll
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumerableAsParameter\IEnumerableAsParameter\obj\Debug\net5.0\ref\IEnumerableAsParameter.dll
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumerableAsParameter\IEnumerableAsParameter\obj\Debug\net5.0\IEnumerableAsParameter.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumerableAsParameter\IEnumerableAsParameter\obj\Debug\net5.0\IEnumerableAsParameter.genruntimeconfig.cache

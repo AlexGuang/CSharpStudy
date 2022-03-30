@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "32ce77f0-a0cc-4da7-aa1e-43b187983c56": {
+      "ProjectGuid": "32ce77f0-a0cc-4da7-aa1e-43b187983c56",
+      "DisplayName": "IEnumverableExample1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
