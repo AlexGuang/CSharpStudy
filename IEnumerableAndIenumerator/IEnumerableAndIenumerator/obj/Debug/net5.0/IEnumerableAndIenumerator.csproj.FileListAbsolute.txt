@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumerableAndIenumerator\IEnumerableAndIenumerator\bin\Debug\net5.0\IEnumerableAndIenumerator.exe
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumerableAndIenumerator\IEnumerableAndIenumerator\bin\Debug\net5.0\IEnumerableAndIenumerator.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumerableAndIenumerator\IEnumerableAndIenumerator\bin\Debug\net5.0\IEnumerableAndIenumerator.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumerableAndIenumerator\IEnumerableAndIenumerator\bin\Debug\net5.0\IEnumerableAndIenumerator.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumerableAndIenumerator\IEnumerableAndIenumerator\bin\Debug\net5.0\IEnumerableAndIenumerator.dll
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumerableAndIenumerator\IEnumerableAndIenumerator\bin\Debug\net5.0\ref\IEnumerableAndIenumerator.dll
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumerableAndIenumerator\IEnumerableAndIenumerator\bin\Debug\net5.0\IEnumerableAndIenumerator.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumerableAndIenumerator\IEnumerableAndIenumerator\obj\Debug\net5.0\IEnumerableAndIenumerator.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumerableAndIenumerator\IEnumerableAndIenumerator\obj\Debug\net5.0\IEnumerableAndIenumerator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumerableAndIenumerator\IEnumerableAndIenumerator\obj\Debug\net5.0\IEnumerableAndIenumerator.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumerableAndIenumerator\IEnumerableAndIenumerator\obj\Debug\net5.0\IEnumerableAndIenumerator.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumerableAndIenumerator\IEnumerableAndIenumerator\obj\Debug\net5.0\IEnumerableAndIenumerator.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumerableAndIenumerator\IEnumerableAndIenumerator\obj\Debug\net5.0\IEnumerableAndIenumerator.dll
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumerableAndIenumerator\IEnumerableAndIenumerator\obj\Debug\net5.0\ref\IEnumerableAndIenumerator.dll
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumerableAndIenumerator\IEnumerableAndIenumerator\obj\Debug\net5.0\IEnumerableAndIenumerator.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\IEnumerableAndIenumerator\IEnumerableAndIenumerator\obj\Debug\net5.0\IEnumerableAndIenumerator.genruntimeconfig.cache
