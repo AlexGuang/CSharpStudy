@@ -10,6 +10,18 @@ namespace ChallengeOfInheritance
     {
         public int HP { get; set; }
         public string Color { get; set; }
+
+        protected CarIDInfor carInfor  = new CarIDInfor();
+
+        public void SetCarInfor(int registeredNumber, string ownerName)
+        {
+            this.carInfor.RegisteredNumber = registeredNumber;
+            this.carInfor.OwnerName = ownerName;
+        }
+        public void ShowCarInfor()
+        {
+            Console.WriteLine("The register number of this car is {0}, and its owner is {1}",carInfor.RegisteredNumber,carInfor.OwnerName);
+        }
         public Car()
         {
 

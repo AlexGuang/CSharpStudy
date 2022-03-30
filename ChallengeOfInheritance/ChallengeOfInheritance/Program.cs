@@ -32,8 +32,13 @@ namespace ChallengeOfInheritance
             Car car1 = new Audi(140, "red", "Q4");
             Audi car2 = new Audi(130, "blue", "A6");//Key word "new" define the method "ShowDetails()" has a priority.
             car1.ShowDetails();
+            car1.SetCarInfor(1232421, "Olivia");
+            car1.ShowCarInfor();
             car2.ShowDetails();
-               
+            
+            car2.SetCarInfor(675657685, "Alex");
+         
+            car2.ShowCarInfor();
         }
     }
 }
