@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\AbstractClass\AbstractClass\bin\Debug\net5.0\AbstractClass.exe
+E:\Annnew Studio\C#study\github\Gitqiab\AbstractClass\AbstractClass\bin\Debug\net5.0\AbstractClass.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\AbstractClass\AbstractClass\bin\Debug\net5.0\AbstractClass.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\AbstractClass\AbstractClass\bin\Debug\net5.0\AbstractClass.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\AbstractClass\AbstractClass\bin\Debug\net5.0\AbstractClass.dll
+E:\Annnew Studio\C#study\github\Gitqiab\AbstractClass\AbstractClass\bin\Debug\net5.0\ref\AbstractClass.dll
+E:\Annnew Studio\C#study\github\Gitqiab\AbstractClass\AbstractClass\bin\Debug\net5.0\AbstractClass.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\AbstractClass\AbstractClass\obj\Debug\net5.0\AbstractClass.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\AbstractClass\AbstractClass\obj\Debug\net5.0\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\AbstractClass\AbstractClass\obj\Debug\net5.0\AbstractClass.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\AbstractClass\AbstractClass\obj\Debug\net5.0\AbstractClass.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\AbstractClass\AbstractClass\obj\Debug\net5.0\AbstractClass.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\AbstractClass\AbstractClass\obj\Debug\net5.0\AbstractClass.dll
+E:\Annnew Studio\C#study\github\Gitqiab\AbstractClass\AbstractClass\obj\Debug\net5.0\ref\AbstractClass.dll
+E:\Annnew Studio\C#study\github\Gitqiab\AbstractClass\AbstractClass\obj\Debug\net5.0\AbstractClass.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\AbstractClass\AbstractClass\obj\Debug\net5.0\AbstractClass.genruntimeconfig.cache

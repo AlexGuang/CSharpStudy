@@ -10,9 +10,6 @@ namespace ChallengeOfInheritance
     {
         public int RegisteredNumber { get; set; } = 0;
         public string OwnerName { get; set; } = "No owner";
-        public CarIDInfor()
-        {
-
-        }
+      
     }
 }
