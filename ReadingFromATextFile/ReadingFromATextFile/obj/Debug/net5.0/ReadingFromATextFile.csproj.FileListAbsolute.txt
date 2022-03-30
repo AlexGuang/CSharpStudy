@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\ReadingFromATextFile\ReadingFromATextFile\bin\Debug\net5.0\ReadingFromATextFile.exe
+E:\Annnew Studio\C#study\github\Gitqiab\ReadingFromATextFile\ReadingFromATextFile\bin\Debug\net5.0\ReadingFromATextFile.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\ReadingFromATextFile\ReadingFromATextFile\bin\Debug\net5.0\ReadingFromATextFile.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\ReadingFromATextFile\ReadingFromATextFile\bin\Debug\net5.0\ReadingFromATextFile.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\ReadingFromATextFile\ReadingFromATextFile\bin\Debug\net5.0\ReadingFromATextFile.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ReadingFromATextFile\ReadingFromATextFile\bin\Debug\net5.0\ref\ReadingFromATextFile.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ReadingFromATextFile\ReadingFromATextFile\bin\Debug\net5.0\ReadingFromATextFile.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\ReadingFromATextFile\ReadingFromATextFile\obj\Debug\net5.0\ReadingFromATextFile.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ReadingFromATextFile\ReadingFromATextFile\obj\Debug\net5.0\ReadingFromATextFile.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\ReadingFromATextFile\ReadingFromATextFile\obj\Debug\net5.0\ReadingFromATextFile.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ReadingFromATextFile\ReadingFromATextFile\obj\Debug\net5.0\ReadingFromATextFile.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\ReadingFromATextFile\ReadingFromATextFile\obj\Debug\net5.0\ReadingFromATextFile.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ReadingFromATextFile\ReadingFromATextFile\obj\Debug\net5.0\ReadingFromATextFile.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ReadingFromATextFile\ReadingFromATextFile\obj\Debug\net5.0\ref\ReadingFromATextFile.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ReadingFromATextFile\ReadingFromATextFile\obj\Debug\net5.0\ReadingFromATextFile.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\ReadingFromATextFile\ReadingFromATextFile\obj\Debug\net5.0\ReadingFromATextFile.genruntimeconfig.cache
