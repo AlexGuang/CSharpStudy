@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\RandomClass\RandomClass\bin\Debug\net5.0\RandomClass.exe
+E:\Annnew Studio\C#study\github\Gitqiab\RandomClass\RandomClass\bin\Debug\net5.0\RandomClass.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\RandomClass\RandomClass\bin\Debug\net5.0\RandomClass.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\RandomClass\RandomClass\bin\Debug\net5.0\RandomClass.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\RandomClass\RandomClass\bin\Debug\net5.0\RandomClass.dll
+E:\Annnew Studio\C#study\github\Gitqiab\RandomClass\RandomClass\bin\Debug\net5.0\ref\RandomClass.dll
+E:\Annnew Studio\C#study\github\Gitqiab\RandomClass\RandomClass\bin\Debug\net5.0\RandomClass.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\RandomClass\RandomClass\obj\Debug\net5.0\RandomClass.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\RandomClass\RandomClass\obj\Debug\net5.0\RandomClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\RandomClass\RandomClass\obj\Debug\net5.0\RandomClass.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\RandomClass\RandomClass\obj\Debug\net5.0\RandomClass.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\RandomClass\RandomClass\obj\Debug\net5.0\RandomClass.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\RandomClass\RandomClass\obj\Debug\net5.0\RandomClass.dll
+E:\Annnew Studio\C#study\github\Gitqiab\RandomClass\RandomClass\obj\Debug\net5.0\ref\RandomClass.dll
+E:\Annnew Studio\C#study\github\Gitqiab\RandomClass\RandomClass\obj\Debug\net5.0\RandomClass.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\RandomClass\RandomClass\obj\Debug\net5.0\RandomClass.genruntimeconfig.cache
