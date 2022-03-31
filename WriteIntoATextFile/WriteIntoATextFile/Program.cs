@@ -18,7 +18,7 @@ namespace WriteIntoATextFile
             File.WriteAllText(@"E:\Annnew Studio\C#study\"+fileName+".txt", text);
            */
 
-
+           
             using(StreamWriter writer = new StreamWriter(@"E:\Annnew Studio\C#study\liqin.txt"))
                 foreach (var item in lines)
                 {
