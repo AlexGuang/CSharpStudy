@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\MathClass\MathClass\bin\Debug\net5.0\MathClass.exe
+E:\Annnew Studio\C#study\github\Gitqiab\MathClass\MathClass\bin\Debug\net5.0\MathClass.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\MathClass\MathClass\bin\Debug\net5.0\MathClass.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\MathClass\MathClass\bin\Debug\net5.0\MathClass.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\MathClass\MathClass\bin\Debug\net5.0\MathClass.dll
+E:\Annnew Studio\C#study\github\Gitqiab\MathClass\MathClass\bin\Debug\net5.0\ref\MathClass.dll
+E:\Annnew Studio\C#study\github\Gitqiab\MathClass\MathClass\bin\Debug\net5.0\MathClass.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\MathClass\MathClass\obj\Debug\net5.0\MathClass.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\MathClass\MathClass\obj\Debug\net5.0\MathClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\MathClass\MathClass\obj\Debug\net5.0\MathClass.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\MathClass\MathClass\obj\Debug\net5.0\MathClass.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\MathClass\MathClass\obj\Debug\net5.0\MathClass.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\MathClass\MathClass\obj\Debug\net5.0\MathClass.dll
+E:\Annnew Studio\C#study\github\Gitqiab\MathClass\MathClass\obj\Debug\net5.0\ref\MathClass.dll
+E:\Annnew Studio\C#study\github\Gitqiab\MathClass\MathClass\obj\Debug\net5.0\MathClass.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\MathClass\MathClass\obj\Debug\net5.0\MathClass.genruntimeconfig.cache
