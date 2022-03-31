@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\ENUMLearning\ENUMLearning\bin\Debug\net5.0\ENUMLearning.exe
+E:\Annnew Studio\C#study\github\Gitqiab\ENUMLearning\ENUMLearning\bin\Debug\net5.0\ENUMLearning.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\ENUMLearning\ENUMLearning\bin\Debug\net5.0\ENUMLearning.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\ENUMLearning\ENUMLearning\bin\Debug\net5.0\ENUMLearning.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\ENUMLearning\ENUMLearning\bin\Debug\net5.0\ENUMLearning.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ENUMLearning\ENUMLearning\bin\Debug\net5.0\ref\ENUMLearning.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ENUMLearning\ENUMLearning\bin\Debug\net5.0\ENUMLearning.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\ENUMLearning\ENUMLearning\obj\Debug\net5.0\ENUMLearning.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ENUMLearning\ENUMLearning\obj\Debug\net5.0\ENUMLearning.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\ENUMLearning\ENUMLearning\obj\Debug\net5.0\ENUMLearning.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ENUMLearning\ENUMLearning\obj\Debug\net5.0\ENUMLearning.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\ENUMLearning\ENUMLearning\obj\Debug\net5.0\ENUMLearning.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ENUMLearning\ENUMLearning\obj\Debug\net5.0\ENUMLearning.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ENUMLearning\ENUMLearning\obj\Debug\net5.0\ref\ENUMLearning.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ENUMLearning\ENUMLearning\obj\Debug\net5.0\ENUMLearning.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\ENUMLearning\ENUMLearning\obj\Debug\net5.0\ENUMLearning.genruntimeconfig.cache
