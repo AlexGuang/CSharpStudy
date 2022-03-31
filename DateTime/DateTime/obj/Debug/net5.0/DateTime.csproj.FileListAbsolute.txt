@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\DateTime\DateTime\bin\Debug\net5.0\DateTime.exe
+E:\Annnew Studio\C#study\github\Gitqiab\DateTime\DateTime\bin\Debug\net5.0\DateTime.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\DateTime\DateTime\bin\Debug\net5.0\DateTime.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\DateTime\DateTime\bin\Debug\net5.0\DateTime.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\DateTime\DateTime\bin\Debug\net5.0\DateTime.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DateTime\DateTime\bin\Debug\net5.0\ref\DateTime.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DateTime\DateTime\bin\Debug\net5.0\DateTime.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\DateTime\DateTime\obj\Debug\net5.0\DateTime.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\DateTime\DateTime\obj\Debug\net5.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\DateTime\DateTime\obj\Debug\net5.0\DateTime.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\DateTime\DateTime\obj\Debug\net5.0\DateTime.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\DateTime\DateTime\obj\Debug\net5.0\DateTime.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\DateTime\DateTime\obj\Debug\net5.0\DateTime.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DateTime\DateTime\obj\Debug\net5.0\ref\DateTime.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DateTime\DateTime\obj\Debug\net5.0\DateTime.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\DateTime\DateTime\obj\Debug\net5.0\DateTime.genruntimeconfig.cache
