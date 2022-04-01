@@ -28,7 +28,7 @@ namespace DateTimeT
 
             Console.WriteLine(  "Today is {0}", DateTime.Today.DayOfWeek);*/
 
-            DateTime dateTime3 = DateTime.Now;
+            DateTime dateTime3 =  new DateTime(2019,2,19);
             //  Console.WriteLine("The current time is {0}:{1}:{2}",dateTime3.Hour,dateTime3.Minute,dateTime3.Second);
             Console.WriteLine("请输入您的名字:");
             string name = Console.ReadLine();
