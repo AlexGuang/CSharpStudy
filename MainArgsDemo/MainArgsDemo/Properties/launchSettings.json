@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MainArgsDemo": {
+      "commandName": "Project",
+      "commandLineArgs": "alex haha gogog olivia jack fiona denis"
+    }
+  }
+}
