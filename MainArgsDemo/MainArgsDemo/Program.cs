@@ -6,11 +6,7 @@ namespace MainArgsDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!"+ args[0]);
-            foreach (string item in args)
-            {
-                Console.WriteLine(item);
-            }
+           
             //The args array cannot be null. So, it's safe to access the length property without null checking.
             // So we check the length of the array if it's zero it means arguments were provided to the application 
             if (args.Length == 0)

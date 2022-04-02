@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateLearningWithVSDefault\DelegateLearningWithVSDefault\bin\Debug\net5.0\DelegateLearningWithVSDefault.exe
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateLearningWithVSDefault\DelegateLearningWithVSDefault\bin\Debug\net5.0\DelegateLearningWithVSDefault.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateLearningWithVSDefault\DelegateLearningWithVSDefault\bin\Debug\net5.0\DelegateLearningWithVSDefault.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateLearningWithVSDefault\DelegateLearningWithVSDefault\bin\Debug\net5.0\DelegateLearningWithVSDefault.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateLearningWithVSDefault\DelegateLearningWithVSDefault\bin\Debug\net5.0\DelegateLearningWithVSDefault.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateLearningWithVSDefault\DelegateLearningWithVSDefault\bin\Debug\net5.0\ref\DelegateLearningWithVSDefault.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateLearningWithVSDefault\DelegateLearningWithVSDefault\bin\Debug\net5.0\DelegateLearningWithVSDefault.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateLearningWithVSDefault\DelegateLearningWithVSDefault\obj\Debug\net5.0\DelegateLearningWithVSDefault.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateLearningWithVSDefault\DelegateLearningWithVSDefault\obj\Debug\net5.0\DelegateLearningWithVSDefault.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateLearningWithVSDefault\DelegateLearningWithVSDefault\obj\Debug\net5.0\DelegateLearningWithVSDefault.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateLearningWithVSDefault\DelegateLearningWithVSDefault\obj\Debug\net5.0\DelegateLearningWithVSDefault.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateLearningWithVSDefault\DelegateLearningWithVSDefault\obj\Debug\net5.0\DelegateLearningWithVSDefault.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateLearningWithVSDefault\DelegateLearningWithVSDefault\obj\Debug\net5.0\DelegateLearningWithVSDefault.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateLearningWithVSDefault\DelegateLearningWithVSDefault\obj\Debug\net5.0\ref\DelegateLearningWithVSDefault.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateLearningWithVSDefault\DelegateLearningWithVSDefault\obj\Debug\net5.0\DelegateLearningWithVSDefault.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateLearningWithVSDefault\DelegateLearningWithVSDefault\obj\Debug\net5.0\DelegateLearningWithVSDefault.genruntimeconfig.cache
