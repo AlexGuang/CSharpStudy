@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\DelegatesDemo\DelegatesDemo\bin\Debug\net5.0\DelegatesDemo.exe
+E:\Annnew Studio\C#study\github\Gitqiab\DelegatesDemo\DelegatesDemo\bin\Debug\net5.0\DelegatesDemo.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\DelegatesDemo\DelegatesDemo\bin\Debug\net5.0\DelegatesDemo.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\DelegatesDemo\DelegatesDemo\bin\Debug\net5.0\DelegatesDemo.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\DelegatesDemo\DelegatesDemo\bin\Debug\net5.0\DelegatesDemo.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DelegatesDemo\DelegatesDemo\bin\Debug\net5.0\ref\DelegatesDemo.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DelegatesDemo\DelegatesDemo\bin\Debug\net5.0\DelegatesDemo.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\DelegatesDemo\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\DelegatesDemo\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\DelegatesDemo\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\DelegatesDemo\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\DelegatesDemo\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\DelegatesDemo\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DelegatesDemo\DelegatesDemo\obj\Debug\net5.0\ref\DelegatesDemo.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DelegatesDemo\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\DelegatesDemo\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.genruntimeconfig.cache
