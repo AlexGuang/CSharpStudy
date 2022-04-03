@@ -12,7 +12,7 @@ namespace DelegateAndEvents
 
             MailService mailService = new MailService();
             MessageService messageService = new MessageService();
-            NuclearWeapentLaunch nuclearWeapentLaunch = new NuclearWeapentLaunch();
+            
             videoEncoder.VideoEncoded += mailService.OnVideoEncoded;
             videoEncoder.VideoEncoded += messageService.OnVideoEncoded;
             videoEncoder.VideoEncoded += nuclearWeapentLaunch.OnVideoEncoded;
