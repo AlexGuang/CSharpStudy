@@ -15,7 +15,7 @@ namespace DelegateAndEvents
             
             videoEncoder.VideoEncoded += mailService.OnVideoEncoded;
             videoEncoder.VideoEncoded += messageService.OnVideoEncoded;
-            videoEncoder.VideoEncoded += nuclearWeapentLaunch.OnVideoEncoded;
+           
 
 
             videoEncoder.VideoEndcoding(video);
