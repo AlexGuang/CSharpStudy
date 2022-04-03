@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateAndEvents\DelegateAndEvents\bin\Debug\net5.0\DelegateAndEvents.exe
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateAndEvents\DelegateAndEvents\bin\Debug\net5.0\DelegateAndEvents.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateAndEvents\DelegateAndEvents\bin\Debug\net5.0\DelegateAndEvents.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateAndEvents\DelegateAndEvents\bin\Debug\net5.0\DelegateAndEvents.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateAndEvents\DelegateAndEvents\bin\Debug\net5.0\DelegateAndEvents.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateAndEvents\DelegateAndEvents\bin\Debug\net5.0\ref\DelegateAndEvents.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateAndEvents\DelegateAndEvents\bin\Debug\net5.0\DelegateAndEvents.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateAndEvents\DelegateAndEvents\obj\Debug\net5.0\DelegateAndEvents.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateAndEvents\DelegateAndEvents\obj\Debug\net5.0\DelegateAndEvents.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateAndEvents\DelegateAndEvents\obj\Debug\net5.0\DelegateAndEvents.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateAndEvents\DelegateAndEvents\obj\Debug\net5.0\DelegateAndEvents.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateAndEvents\DelegateAndEvents\obj\Debug\net5.0\DelegateAndEvents.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateAndEvents\DelegateAndEvents\obj\Debug\net5.0\DelegateAndEvents.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateAndEvents\DelegateAndEvents\obj\Debug\net5.0\ref\DelegateAndEvents.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateAndEvents\DelegateAndEvents\obj\Debug\net5.0\DelegateAndEvents.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateAndEvents\DelegateAndEvents\obj\Debug\net5.0\DelegateAndEvents.genruntimeconfig.cache
