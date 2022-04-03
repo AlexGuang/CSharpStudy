@@ -15,6 +15,28 @@ namespace DelegatesDemo
            };
 
             DisplayPeople("adult", people, Ifadult);
+            FilterDelegate filter = delegate (Person person)//Anonymous Method
+            {
+               return person.Age >= 2 && person.Age <= 30;
+            };
+            Console.WriteLine("-----------------------------------------");
+            Console.WriteLine("Lambda expressions");
+            string searchKeyword = "y";
+            //Statement Lambda
+            DisplayPeople("The age of the person is  above 20 and his name contains  "+searchKeyword, people, p =>
+            {
+                if (p.Age >= 20 && p.Name.Contains(searchKeyword))
+                {
+                    return true;
+
+                }
+                else
+                {
+                    return false;
+                }
+            });
+            //Expression Lambda
+            DisplayPeople("Age is 22", people, p => p.Age == 22);
         }
 
 
