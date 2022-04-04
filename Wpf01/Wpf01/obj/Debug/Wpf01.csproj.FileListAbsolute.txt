@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\Wpf01\Wpf01\bin\Debug\Wpf01.exe.config
+E:\Annnew Studio\C#study\github\Gitqiab\Wpf01\Wpf01\bin\Debug\Wpf01.exe
+E:\Annnew Studio\C#study\github\Gitqiab\Wpf01\Wpf01\bin\Debug\Wpf01.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\Wpf01\Wpf01\obj\Debug\Wpf01.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\Wpf01\Wpf01\obj\Debug\Wpf01.csproj.SuggestedBindingRedirects.cache
+E:\Annnew Studio\C#study\github\Gitqiab\Wpf01\Wpf01\obj\Debug\MainWindow.g.cs
+E:\Annnew Studio\C#study\github\Gitqiab\Wpf01\Wpf01\obj\Debug\App.g.cs
+E:\Annnew Studio\C#study\github\Gitqiab\Wpf01\Wpf01\obj\Debug\Wpf01_MarkupCompile.cache
+E:\Annnew Studio\C#study\github\Gitqiab\Wpf01\Wpf01\obj\Debug\Wpf01_MarkupCompile.lref
+E:\Annnew Studio\C#study\github\Gitqiab\Wpf01\Wpf01\obj\Debug\MainWindow.baml
+E:\Annnew Studio\C#study\github\Gitqiab\Wpf01\Wpf01\obj\Debug\Wpf01.g.resources
+E:\Annnew Studio\C#study\github\Gitqiab\Wpf01\Wpf01\obj\Debug\Wpf01.Properties.Resources.resources
+E:\Annnew Studio\C#study\github\Gitqiab\Wpf01\Wpf01\obj\Debug\Wpf01.csproj.GenerateResource.cache
+E:\Annnew Studio\C#study\github\Gitqiab\Wpf01\Wpf01\obj\Debug\Wpf01.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\Wpf01\Wpf01\obj\Debug\Wpf01.exe
+E:\Annnew Studio\C#study\github\Gitqiab\Wpf01\Wpf01\obj\Debug\Wpf01.pdb

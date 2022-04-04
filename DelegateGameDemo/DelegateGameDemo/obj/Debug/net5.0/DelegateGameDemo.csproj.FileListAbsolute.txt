@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateGameDemo\DelegateGameDemo\bin\Debug\net5.0\DelegateGameDemo.exe
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateGameDemo\DelegateGameDemo\bin\Debug\net5.0\DelegateGameDemo.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateGameDemo\DelegateGameDemo\bin\Debug\net5.0\DelegateGameDemo.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateGameDemo\DelegateGameDemo\bin\Debug\net5.0\DelegateGameDemo.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateGameDemo\DelegateGameDemo\bin\Debug\net5.0\DelegateGameDemo.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateGameDemo\DelegateGameDemo\bin\Debug\net5.0\ref\DelegateGameDemo.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateGameDemo\DelegateGameDemo\bin\Debug\net5.0\DelegateGameDemo.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateGameDemo\DelegateGameDemo\obj\Debug\net5.0\DelegateGameDemo.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateGameDemo\DelegateGameDemo\obj\Debug\net5.0\DelegateGameDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateGameDemo\DelegateGameDemo\obj\Debug\net5.0\DelegateGameDemo.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateGameDemo\DelegateGameDemo\obj\Debug\net5.0\DelegateGameDemo.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateGameDemo\DelegateGameDemo\obj\Debug\net5.0\DelegateGameDemo.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateGameDemo\DelegateGameDemo\obj\Debug\net5.0\DelegateGameDemo.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateGameDemo\DelegateGameDemo\obj\Debug\net5.0\ref\DelegateGameDemo.dll
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateGameDemo\DelegateGameDemo\obj\Debug\net5.0\DelegateGameDemo.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\DelegateGameDemo\DelegateGameDemo\obj\Debug\net5.0\DelegateGameDemo.genruntimeconfig.cache
