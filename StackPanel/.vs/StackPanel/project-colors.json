@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d062501f-a2fe-4ef5-a463-1a5b8a945209": {
+      "ProjectGuid": "d062501f-a2fe-4ef5-a463-1a5b8a945209",
+      "DisplayName": "StackPanel",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
