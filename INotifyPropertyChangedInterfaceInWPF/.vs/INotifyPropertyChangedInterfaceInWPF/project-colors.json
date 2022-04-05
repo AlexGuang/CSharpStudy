@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e250d8fe-5dbf-4985-89cd-fdb2defa896f": {
+      "ProjectGuid": "e250d8fe-5dbf-4985-89cd-fdb2defa896f",
+      "DisplayName": "INotifyPropertyChangedInterfaceInWPF",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

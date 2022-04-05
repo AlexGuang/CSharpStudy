@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\ListBoxWPF\ListBoxWPF\bin\Debug\ListBoxWPF.exe.config
+E:\Annnew Studio\C#study\github\Gitqiab\ListBoxWPF\ListBoxWPF\bin\Debug\ListBoxWPF.exe
+E:\Annnew Studio\C#study\github\Gitqiab\ListBoxWPF\ListBoxWPF\bin\Debug\ListBoxWPF.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\ListBoxWPF\ListBoxWPF\obj\Debug\ListBoxWPF.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ListBoxWPF\ListBoxWPF\obj\Debug\ListBoxWPF.csproj.SuggestedBindingRedirects.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ListBoxWPF\ListBoxWPF\obj\Debug\MainWindow.g.cs
+E:\Annnew Studio\C#study\github\Gitqiab\ListBoxWPF\ListBoxWPF\obj\Debug\App.g.cs
+E:\Annnew Studio\C#study\github\Gitqiab\ListBoxWPF\ListBoxWPF\obj\Debug\ListBoxWPF_MarkupCompile.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ListBoxWPF\ListBoxWPF\obj\Debug\ListBoxWPF_MarkupCompile.lref
+E:\Annnew Studio\C#study\github\Gitqiab\ListBoxWPF\ListBoxWPF\obj\Debug\MainWindow.baml
+E:\Annnew Studio\C#study\github\Gitqiab\ListBoxWPF\ListBoxWPF\obj\Debug\ListBoxWPF.g.resources
+E:\Annnew Studio\C#study\github\Gitqiab\ListBoxWPF\ListBoxWPF\obj\Debug\ListBoxWPF.Properties.Resources.resources
+E:\Annnew Studio\C#study\github\Gitqiab\ListBoxWPF\ListBoxWPF\obj\Debug\ListBoxWPF.csproj.GenerateResource.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ListBoxWPF\ListBoxWPF\obj\Debug\ListBoxWPF.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ListBoxWPF\ListBoxWPF\obj\Debug\ListBoxWPF.exe
+E:\Annnew Studio\C#study\github\Gitqiab\ListBoxWPF\ListBoxWPF\obj\Debug\ListBoxWPF.pdb
