@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ed29f189-3cb4-481d-ac0e-9f3e2b88d034": {
+      "ProjectGuid": "ed29f189-3cb4-481d-ac0e-9f3e2b88d034",
+      "DisplayName": "WpfEventsInXAML",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
