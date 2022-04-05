@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\DataBinding\DataBinding\obj\Debug\DataBinding.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\DataBinding\DataBinding\obj\Debug\DataBinding.csproj.SuggestedBindingRedirects.cache
+E:\Annnew Studio\C#study\github\Gitqiab\DataBinding\DataBinding\obj\Debug\App.g.cs
+E:\Annnew Studio\C#study\github\Gitqiab\DataBinding\DataBinding\obj\Debug\DataBinding_MarkupCompile.cache
+E:\Annnew Studio\C#study\github\Gitqiab\DataBinding\DataBinding\bin\Debug\DataBinding.exe.config
+E:\Annnew Studio\C#study\github\Gitqiab\DataBinding\DataBinding\bin\Debug\DataBinding.exe
+E:\Annnew Studio\C#study\github\Gitqiab\DataBinding\DataBinding\bin\Debug\DataBinding.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\DataBinding\DataBinding\obj\Debug\MainWindow.g.cs
+E:\Annnew Studio\C#study\github\Gitqiab\DataBinding\DataBinding\obj\Debug\DataBinding_MarkupCompile.lref
+E:\Annnew Studio\C#study\github\Gitqiab\DataBinding\DataBinding\obj\Debug\MainWindow.baml
+E:\Annnew Studio\C#study\github\Gitqiab\DataBinding\DataBinding\obj\Debug\DataBinding.g.resources
+E:\Annnew Studio\C#study\github\Gitqiab\DataBinding\DataBinding\obj\Debug\DataBinding.Properties.Resources.resources
+E:\Annnew Studio\C#study\github\Gitqiab\DataBinding\DataBinding\obj\Debug\DataBinding.csproj.GenerateResource.cache
+E:\Annnew Studio\C#study\github\Gitqiab\DataBinding\DataBinding\obj\Debug\DataBinding.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\DataBinding\DataBinding\obj\Debug\DataBinding.exe
+E:\Annnew Studio\C#study\github\Gitqiab\DataBinding\DataBinding\obj\Debug\DataBinding.pdb
