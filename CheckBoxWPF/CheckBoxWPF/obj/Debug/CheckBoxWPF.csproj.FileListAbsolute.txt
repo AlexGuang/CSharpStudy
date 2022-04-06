@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\CheckBoxWPF\CheckBoxWPF\bin\Debug\CheckBoxWPF.exe.config
+E:\Annnew Studio\C#study\github\Gitqiab\CheckBoxWPF\CheckBoxWPF\bin\Debug\CheckBoxWPF.exe
+E:\Annnew Studio\C#study\github\Gitqiab\CheckBoxWPF\CheckBoxWPF\bin\Debug\CheckBoxWPF.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\CheckBoxWPF\CheckBoxWPF\obj\Debug\CheckBoxWPF.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\CheckBoxWPF\CheckBoxWPF\obj\Debug\CheckBoxWPF.csproj.SuggestedBindingRedirects.cache
+E:\Annnew Studio\C#study\github\Gitqiab\CheckBoxWPF\CheckBoxWPF\obj\Debug\MainWindow.g.cs
+E:\Annnew Studio\C#study\github\Gitqiab\CheckBoxWPF\CheckBoxWPF\obj\Debug\App.g.cs
+E:\Annnew Studio\C#study\github\Gitqiab\CheckBoxWPF\CheckBoxWPF\obj\Debug\CheckBoxWPF_MarkupCompile.cache
+E:\Annnew Studio\C#study\github\Gitqiab\CheckBoxWPF\CheckBoxWPF\obj\Debug\CheckBoxWPF_MarkupCompile.lref
+E:\Annnew Studio\C#study\github\Gitqiab\CheckBoxWPF\CheckBoxWPF\obj\Debug\MainWindow.baml
+E:\Annnew Studio\C#study\github\Gitqiab\CheckBoxWPF\CheckBoxWPF\obj\Debug\CheckBoxWPF.g.resources
+E:\Annnew Studio\C#study\github\Gitqiab\CheckBoxWPF\CheckBoxWPF\obj\Debug\CheckBoxWPF.Properties.Resources.resources
+E:\Annnew Studio\C#study\github\Gitqiab\CheckBoxWPF\CheckBoxWPF\obj\Debug\CheckBoxWPF.csproj.GenerateResource.cache
+E:\Annnew Studio\C#study\github\Gitqiab\CheckBoxWPF\CheckBoxWPF\obj\Debug\CheckBoxWPF.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\CheckBoxWPF\CheckBoxWPF\obj\Debug\CheckBoxWPF.exe
+E:\Annnew Studio\C#study\github\Gitqiab\CheckBoxWPF\CheckBoxWPF\obj\Debug\CheckBoxWPF.pdb
