@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\ComboBoxWPF\ComboBoxWPF\bin\Debug\ComboBoxWPF.exe.config
+E:\Annnew Studio\C#study\github\Gitqiab\ComboBoxWPF\ComboBoxWPF\bin\Debug\ComboBoxWPF.exe
+E:\Annnew Studio\C#study\github\Gitqiab\ComboBoxWPF\ComboBoxWPF\bin\Debug\ComboBoxWPF.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\ComboBoxWPF\ComboBoxWPF\obj\Debug\ComboBoxWPF.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ComboBoxWPF\ComboBoxWPF\obj\Debug\ComboBoxWPF.csproj.SuggestedBindingRedirects.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ComboBoxWPF\ComboBoxWPF\obj\Debug\MainWindow.g.cs
+E:\Annnew Studio\C#study\github\Gitqiab\ComboBoxWPF\ComboBoxWPF\obj\Debug\App.g.cs
+E:\Annnew Studio\C#study\github\Gitqiab\ComboBoxWPF\ComboBoxWPF\obj\Debug\ComboBoxWPF_MarkupCompile.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ComboBoxWPF\ComboBoxWPF\obj\Debug\ComboBoxWPF_MarkupCompile.lref
+E:\Annnew Studio\C#study\github\Gitqiab\ComboBoxWPF\ComboBoxWPF\obj\Debug\MainWindow.baml
+E:\Annnew Studio\C#study\github\Gitqiab\ComboBoxWPF\ComboBoxWPF\obj\Debug\ComboBoxWPF.g.resources
+E:\Annnew Studio\C#study\github\Gitqiab\ComboBoxWPF\ComboBoxWPF\obj\Debug\ComboBoxWPF.Properties.Resources.resources
+E:\Annnew Studio\C#study\github\Gitqiab\ComboBoxWPF\ComboBoxWPF\obj\Debug\ComboBoxWPF.csproj.GenerateResource.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ComboBoxWPF\ComboBoxWPF\obj\Debug\ComboBoxWPF.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ComboBoxWPF\ComboBoxWPF\obj\Debug\ComboBoxWPF.exe
+E:\Annnew Studio\C#study\github\Gitqiab\ComboBoxWPF\ComboBoxWPF\obj\Debug\ComboBoxWPF.pdb
