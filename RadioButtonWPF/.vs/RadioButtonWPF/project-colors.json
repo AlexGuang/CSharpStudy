@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "11c2145d-ddad-44a9-97f4-54bb79a9afbc": {
+      "ProjectGuid": "11c2145d-ddad-44a9-97f4-54bb79a9afbc",
+      "DisplayName": "RadioButtonWPF",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

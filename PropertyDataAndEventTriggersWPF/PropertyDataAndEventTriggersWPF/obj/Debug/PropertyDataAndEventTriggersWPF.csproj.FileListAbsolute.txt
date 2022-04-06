@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\PropertyDataAndEventTriggersWPF\PropertyDataAndEventTriggersWPF\bin\Debug\PropertyDataAndEventTriggersWPF.exe.config
+E:\Annnew Studio\C#study\github\Gitqiab\PropertyDataAndEventTriggersWPF\PropertyDataAndEventTriggersWPF\bin\Debug\PropertyDataAndEventTriggersWPF.exe
+E:\Annnew Studio\C#study\github\Gitqiab\PropertyDataAndEventTriggersWPF\PropertyDataAndEventTriggersWPF\bin\Debug\PropertyDataAndEventTriggersWPF.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\PropertyDataAndEventTriggersWPF\PropertyDataAndEventTriggersWPF\obj\Debug\PropertyDataAndEventTriggersWPF.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\PropertyDataAndEventTriggersWPF\PropertyDataAndEventTriggersWPF\obj\Debug\PropertyDataAndEventTriggersWPF.csproj.SuggestedBindingRedirects.cache
+E:\Annnew Studio\C#study\github\Gitqiab\PropertyDataAndEventTriggersWPF\PropertyDataAndEventTriggersWPF\obj\Debug\MainWindow.g.cs
+E:\Annnew Studio\C#study\github\Gitqiab\PropertyDataAndEventTriggersWPF\PropertyDataAndEventTriggersWPF\obj\Debug\App.g.cs
+E:\Annnew Studio\C#study\github\Gitqiab\PropertyDataAndEventTriggersWPF\PropertyDataAndEventTriggersWPF\obj\Debug\PropertyDataAndEventTriggersWPF_MarkupCompile.cache
+E:\Annnew Studio\C#study\github\Gitqiab\PropertyDataAndEventTriggersWPF\PropertyDataAndEventTriggersWPF\obj\Debug\PropertyDataAndEventTriggersWPF_MarkupCompile.lref
+E:\Annnew Studio\C#study\github\Gitqiab\PropertyDataAndEventTriggersWPF\PropertyDataAndEventTriggersWPF\obj\Debug\MainWindow.baml
+E:\Annnew Studio\C#study\github\Gitqiab\PropertyDataAndEventTriggersWPF\PropertyDataAndEventTriggersWPF\obj\Debug\PropertyDataAndEventTriggersWPF.g.resources
+E:\Annnew Studio\C#study\github\Gitqiab\PropertyDataAndEventTriggersWPF\PropertyDataAndEventTriggersWPF\obj\Debug\PropertyDataAndEventTriggersWPF.Properties.Resources.resources
+E:\Annnew Studio\C#study\github\Gitqiab\PropertyDataAndEventTriggersWPF\PropertyDataAndEventTriggersWPF\obj\Debug\PropertyDataAndEventTriggersWPF.csproj.GenerateResource.cache
+E:\Annnew Studio\C#study\github\Gitqiab\PropertyDataAndEventTriggersWPF\PropertyDataAndEventTriggersWPF\obj\Debug\PropertyDataAndEventTriggersWPF.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\PropertyDataAndEventTriggersWPF\PropertyDataAndEventTriggersWPF\obj\Debug\PropertyDataAndEventTriggersWPF.exe
+E:\Annnew Studio\C#study\github\Gitqiab\PropertyDataAndEventTriggersWPF\PropertyDataAndEventTriggersWPF\obj\Debug\PropertyDataAndEventTriggersWPF.pdb

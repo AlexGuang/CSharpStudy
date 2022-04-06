@@ -1,0 +1,75 @@
+﻿<Window x:Class="PropertyDataAndEventTriggersWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PropertyDataAndEventTriggersWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <StackPanel>
+        <Grid>
+            <TextBlock Text="Hello, beloved World!"  FontSize="36" FontWeight="Bold" HorizontalAlignment="Center" Margin="20">
+                <TextBlock.Style>
+                    <Style TargetType="TextBlock">
+                        <Setter Property="Foreground" Value="Green"></Setter>
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Foreground" Value="Red"></Setter>
+                                <Setter Property="TextDecorations" Value="Underline"></Setter>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </TextBlock.Style>
+            </TextBlock>
+        </Grid>
+        <Grid>
+            <TextBlock Text="Hello, Buddy" FontSize="36" FontWeight="Bold" HorizontalAlignment="Center" Margin="20">
+                <TextBlock.Style>
+                    <Style TargetType="TextBlock">
+                        <Style.Triggers>
+                            <EventTrigger RoutedEvent="MouseEnter">
+                                <EventTrigger.Actions>
+                                    <BeginStoryboard>
+                                        <Storyboard>
+                                            <DoubleAnimation Duration="0:0:0.500" Storyboard.TargetProperty="FontSize" To="108"></DoubleAnimation>
+                                        </Storyboard>
+                                    </BeginStoryboard>
+                                </EventTrigger.Actions>
+                            </EventTrigger>
+                            <EventTrigger RoutedEvent="MouseLeave">
+                                <EventTrigger.Actions>
+                                    <BeginStoryboard>
+                                        <Storyboard>
+                                             <DoubleAnimation Duration="0:0:0.300" Storyboard.TargetProperty="FontSize" To="36"></DoubleAnimation>
+                                         </Storyboard>
+                                    </BeginStoryboard>
+                                </EventTrigger.Actions>
+                            </EventTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </TextBlock.Style>
+            </TextBlock>
+        </Grid>
+        <StackPanel Margin="20">
+            <CheckBox  Name="cbShanghai" Content=" Are people in Shanghai stupid?" FontSize="20" HorizontalAlignment="Center"></CheckBox>
+            <TextBlock>
+                <TextBlock.Style>
+                    <Style TargetType="TextBlock">
+                        <Setter Property="Text" Value="No"></Setter>
+                        <Setter Property="Foreground" Value="Red"></Setter>
+                        <Setter Property="FontSize" Value="32"></Setter>
+                        <Setter Property="FontWeight" Value="Bold"></Setter>
+                        <Setter Property="HorizontalAlignment" Value="Center"></Setter>
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding ElementName=cbShanghai, Path=IsChecked}" Value="True">
+                                <Setter Property="Text" Value="Of Course"></Setter>
+                                <Setter Property="Foreground" Value="Green"></Setter>
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </TextBlock.Style>
+            </TextBlock>
+        </StackPanel>
+    </StackPanel>
+</Window>
