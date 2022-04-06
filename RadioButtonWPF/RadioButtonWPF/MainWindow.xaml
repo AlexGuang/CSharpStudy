@@ -1,0 +1,30 @@
+﻿<Window x:Class="RadioButtonWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RadioButtonWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel Margin="10">
+        <Label FontSize=" 36" FontWeight="Bold">Do you love me ?</Label>
+        <RadioButton Margin="10" Checked="OnYesChecked">
+            <WrapPanel>
+                <Rectangle Fill="Green" Width="36" Height="36" ></Rectangle>
+                <TextBlock Foreground="Green" FontSize="32" FontWeight="Bold" Margin="5,0,0,0">Yes</TextBlock>
+            </WrapPanel>
+        </RadioButton>
+        <RadioButton Margin="10" Checked="OnNoCheacked" >
+            <WrapPanel>
+                <Rectangle Fill="Red" Width="36" Height="36" ></Rectangle>
+                <TextBlock Foreground="Red" FontSize="32" FontWeight="Bold" Margin="5,0,0,0">No</TextBlock>
+            </WrapPanel>
+        </RadioButton>
+        <RadioButton Name="rbMaybe" Margin="10" Checked="OnMaybeChecked">
+            <WrapPanel>
+                <Image Source="E:\Annnew Studio\C#study\maybe.png" Width="36" Height="36"></Image>
+                <TextBlock Foreground="Blue" FontSize="32" FontWeight="Bold" Margin="5,0,0,0">Maybe</TextBlock>
+            </WrapPanel>
+        </RadioButton>
+    </StackPanel>
+</Window>

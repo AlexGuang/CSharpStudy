@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\RadioButtonWPF\RadioButtonWPF\bin\Debug\RadioButtonWPF.exe.config
+E:\Annnew Studio\C#study\github\Gitqiab\RadioButtonWPF\RadioButtonWPF\bin\Debug\RadioButtonWPF.exe
+E:\Annnew Studio\C#study\github\Gitqiab\RadioButtonWPF\RadioButtonWPF\bin\Debug\RadioButtonWPF.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\RadioButtonWPF\RadioButtonWPF\obj\Debug\RadioButtonWPF.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\RadioButtonWPF\RadioButtonWPF\obj\Debug\RadioButtonWPF.csproj.SuggestedBindingRedirects.cache
+E:\Annnew Studio\C#study\github\Gitqiab\RadioButtonWPF\RadioButtonWPF\obj\Debug\MainWindow.g.cs
+E:\Annnew Studio\C#study\github\Gitqiab\RadioButtonWPF\RadioButtonWPF\obj\Debug\App.g.cs
+E:\Annnew Studio\C#study\github\Gitqiab\RadioButtonWPF\RadioButtonWPF\obj\Debug\RadioButtonWPF_MarkupCompile.cache
+E:\Annnew Studio\C#study\github\Gitqiab\RadioButtonWPF\RadioButtonWPF\obj\Debug\RadioButtonWPF_MarkupCompile.lref
+E:\Annnew Studio\C#study\github\Gitqiab\RadioButtonWPF\RadioButtonWPF\obj\Debug\MainWindow.baml
+E:\Annnew Studio\C#study\github\Gitqiab\RadioButtonWPF\RadioButtonWPF\obj\Debug\RadioButtonWPF.g.resources
+E:\Annnew Studio\C#study\github\Gitqiab\RadioButtonWPF\RadioButtonWPF\obj\Debug\RadioButtonWPF.Properties.Resources.resources
+E:\Annnew Studio\C#study\github\Gitqiab\RadioButtonWPF\RadioButtonWPF\obj\Debug\RadioButtonWPF.csproj.GenerateResource.cache
+E:\Annnew Studio\C#study\github\Gitqiab\RadioButtonWPF\RadioButtonWPF\obj\Debug\RadioButtonWPF.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\RadioButtonWPF\RadioButtonWPF\obj\Debug\RadioButtonWPF.exe
+E:\Annnew Studio\C#study\github\Gitqiab\RadioButtonWPF\RadioButtonWPF\obj\Debug\RadioButtonWPF.pdb
