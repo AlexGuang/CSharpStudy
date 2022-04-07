@@ -13,6 +13,8 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Configuration;
+using System.Data.SqlClient;
+using System.Data;
 
 namespace WPF_ZooManager
 {
@@ -21,12 +23,48 @@ namespace WPF_ZooManager
     /// </summary>
     public partial class MainWindow : Window
     {
+        SqlConnection sqlConnection;
         public MainWindow()
         {
             InitializeComponent();
 
             
             string connectionString = ConfigurationManager.ConnectionStrings["WPF_ZooManager.Properties.Settings.XiaoguangDBConnectionString"].ConnectionString;
+            sqlConnection = new SqlConnection(connectionString);
+
+
+            ShowZoos();
+        }
+        private void ShowZoos()
+        {
+            try
+            {
+                string query = "select * from Zoo";
+                // The SqlDataAdapter can be imagined like an Interface to make Tables usable by c#- objects
+                SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(query, sqlConnection);//方法： 1、光标在括号中间，Ctrl+Shift+空格键。 上下键查看即可。 2、写有重载的函数名后，直接打上shift+(，上下键查看即可。
+
+                using (sqlDataAdapter)
+                {
+                    DataTable zooTable = new DataTable();
+
+
+                    sqlDataAdapter.Fill(zooTable);
+
+                    //Which Information of the Table in DataTable should be shown in our ListBox?
+                    listZoos.DisplayMemberPath = "Location";
+
+                    //Which Value should be delivered, when an Item from our ListBox is selected?
+                    listZoos.SelectedValuePath = "Id";
+
+                    //The Reference to the Data the ListBox should populate
+                    listZoos.ItemsSource = zooTable.DefaultView;
+                }
+            }
+            catch (Exception e)
+            {
+
+                MessageBox.Show(e.ToString());
+            }
         }
     }
 }
