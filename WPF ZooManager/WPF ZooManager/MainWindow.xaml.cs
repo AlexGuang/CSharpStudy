@@ -34,6 +34,7 @@ namespace WPF_ZooManager
 
 
             ShowZoos();
+          
         }
         private void ShowZoos()
         {
@@ -65,6 +66,47 @@ namespace WPF_ZooManager
 
                 MessageBox.Show(e.ToString());
             }
+        }
+        private void ShowAssociatedAnimals()
+        {
+            try
+            {
+                string query = "select * from Animal a join ZooAnimal za on a.Id = za.AnimalId where za.ZooId = @zd ";
+
+                SqlCommand sqlCommand = new SqlCommand(query, sqlConnection);
+                // The SqlDataAdapter can be imagined like an Interface to make Tables usable by c#- objects
+                SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(sqlCommand);//方法： 1、光标在括号中间，Ctrl+Shift+空格键。 上下键查看即可。 2、写有重载的函数名后，直接打上shift+(，上下键查看即可。
+
+                using (sqlDataAdapter)
+                {
+
+                    sqlCommand.Parameters.AddWithValue("@zd", listZoos.SelectedValue);
+
+                    DataTable animalTable = new DataTable();
+
+
+                    sqlDataAdapter.Fill(animalTable);
+
+                    //Which Information of the Table in DataTable should be shown in our ListBox?
+                   listAssociatedAnimals.DisplayMemberPath = "Name";
+
+                    //Which Value should be delivered, when an Item from our ListBox is selected?
+                    listAssociatedAnimals.SelectedValuePath = "Id";
+
+                    //The Reference to the Data the ListBox should populate
+                    listAssociatedAnimals.ItemsSource = animalTable.DefaultView;
+                }
+            }
+            catch (Exception e)
+            {
+
+                MessageBox.Show(e.ToString());
+            }
+        }
+
+        private void listZoos_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+          ShowAssociatedAnimals();
         }
     }
 }
