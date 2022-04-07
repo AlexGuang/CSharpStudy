@@ -34,6 +34,7 @@ namespace WPF_ZooManager
 
 
             ShowZoos();
+            ShowAllAnimals();
           
         }
         private void ShowZoos()
@@ -67,11 +68,42 @@ namespace WPF_ZooManager
                 MessageBox.Show(e.ToString());
             }
         }
+        private void ShowAllAnimals()
+        {
+            try
+            {
+                string query = "select * from Animal";
+                // The SqlDataAdapter can be imagined like an Interface to make Tables usable by c#- objects
+                SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(query, sqlConnection);//方法： 1、光标在括号中间，Ctrl+Shift+空格键。 上下键查看即可。 2、写有重载的函数名后，直接打上shift+(，上下键查看即可。
+
+                using (sqlDataAdapter)
+                {
+                    DataTable animalTable = new DataTable();
+
+
+                    sqlDataAdapter.Fill(animalTable);
+
+                    //Which Information of the Table in DataTable should be shown in our ListBox?
+                listAllAnimal.DisplayMemberPath = "Name";
+
+                    //Which Value should be delivered, when an Item from our ListBox is selected?
+                   listAllAnimal.SelectedValuePath = "Id";
+
+                    //The Reference to the Data the ListBox should populate
+                  listAllAnimal.ItemsSource = animalTable.DefaultView;
+                }
+            }
+            catch (Exception e)
+            {
+
+                MessageBox.Show(e.ToString());
+            }
+        }
         private void ShowAssociatedAnimals()
         {
             try
             {
-                string query = "select * from Animal a join ZooAnimal za on a.Id = za.AnimalId where za.ZooId = @zd ";
+                string query = "select * from Animal \"A\" join ZooAnimal \"ZA\" on \"A\".Id = \"ZA\".AnimalId where \"ZA\".ZooId = @zd ";
 
                 SqlCommand sqlCommand = new SqlCommand(query, sqlConnection);
                 // The SqlDataAdapter can be imagined like an Interface to make Tables usable by c#- objects
@@ -100,13 +132,36 @@ namespace WPF_ZooManager
             catch (Exception e)
             {
 
-                MessageBox.Show(e.ToString());
+                //MessageBox.Show(e.ToString());
             }
         }
 
         private void listZoos_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
           ShowAssociatedAnimals();
+        }
+
+        private void OnDeleteZoo(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                string deleteZooCommand = "delete from Zoo  where Id = @Id";
+                SqlCommand sqlCommand = new SqlCommand(deleteZooCommand, sqlConnection);
+                sqlConnection.Open();
+                sqlCommand.Parameters.AddWithValue("@Id", listZoos.SelectedValue);
+                sqlCommand.ExecuteScalar();
+               
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+                
+            }
+            finally
+            {
+                sqlConnection.Close();
+                ShowZoos();
+            }
         }
     }
 }
