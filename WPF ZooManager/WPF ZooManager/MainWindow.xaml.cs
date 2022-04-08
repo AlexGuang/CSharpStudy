@@ -163,5 +163,54 @@ namespace WPF_ZooManager
                 ShowZoos();
             }
         }
+
+        private void OnAddZoo_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                string query = "insert into Zoo (Location) values (@name)";
+                SqlCommand cmd = new SqlCommand(query, sqlConnection);
+
+                sqlConnection.Open();
+                cmd.Parameters.AddWithValue("@name", textboxInput.Text);
+                cmd.ExecuteScalar();
+
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+            finally
+            {
+                ShowZoos();
+
+                sqlConnection.Close(); 
+            }
+
+        }
+
+        private void OnAddAnimalToZoo_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                string query = "insert into ZooAnimal (ZooID,AnimalId) values(@zid,@animalid) ";
+                SqlCommand cmd = new SqlCommand(query, sqlConnection);
+                sqlConnection.Open();
+                cmd.Parameters.AddWithValue("@zid", listZoos.SelectedValue);
+                cmd.Parameters.AddWithValue("@animalid", listAllAnimal.SelectedValue);
+                cmd.ExecuteScalar();
+            }
+            catch (Exception ex)
+            {
+
+                MessageBox.Show(ex.ToString());
+            }
+            finally
+            {
+                ShowAssociatedAnimals();
+                sqlConnection.Close();
+            }
+        }
     }
 }
