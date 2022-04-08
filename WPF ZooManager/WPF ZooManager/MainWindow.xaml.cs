@@ -138,7 +138,8 @@ namespace WPF_ZooManager
 
         private void listZoos_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-          ShowAssociatedAnimals();
+            ShowAssociatedAnimals();
+            OnShowSelectedZooInTextBox();
         }
 
         private void OnDeleteZoo(object sender, RoutedEventArgs e)
@@ -211,6 +212,142 @@ namespace WPF_ZooManager
                 ShowAssociatedAnimals();
                 sqlConnection.Close();
             }
+        }
+
+        private void OnAddAnimal_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                string query = "insert into Animal (Name) values (@animal) ";
+                SqlCommand command = new SqlCommand(query, sqlConnection);
+                sqlConnection.Open();
+                command.Parameters.AddWithValue("@animal", textboxInput.Text);
+                command.ExecuteScalar();
+            }
+            catch (Exception ex)
+            {
+
+                MessageBox.Show(ex.ToString());
+
+            }
+            finally
+            {
+                ShowAllAnimals();
+
+                sqlConnection.Close();
+
+
+
+            }
+        }
+
+        private void OnDeleteAnimalFromZoo_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                string query = "delete from ZooAnimal where ZooID = @zooid and AnimalId = @aniId ";
+                SqlCommand c = new SqlCommand(query,sqlConnection);
+                sqlConnection.Open();
+                c.Parameters.AddWithValue("@zooid",listZoos.SelectedValue);
+                c.Parameters.AddWithValue("@aniId",listAssociatedAnimals.SelectedValue);
+                c.ExecuteScalar();
+
+
+
+            }
+            catch (Exception ex)
+            {
+
+                MessageBox.Show(ex.ToString());
+
+            }
+            finally
+            {
+                ShowAssociatedAnimals();
+                sqlConnection.Close ();
+            }
+        }
+
+        private void OnRemoveAnimal_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                string query = "delete from Animal where Id = @aid ";
+                SqlCommand sqlCommand = new SqlCommand(query, sqlConnection);
+                sqlConnection.Open();
+                sqlCommand.Parameters.AddWithValue("@aid", listAllAnimal.SelectedValue);
+                sqlCommand.ExecuteScalar();
+            }
+            catch (Exception ex)
+            {
+
+                MessageBox.Show (ex.ToString());
+            }
+            finally
+            {
+                ShowAllAnimals ();
+                sqlConnection.Close ();
+            
+            }
+        }
+        private void OnShowSelectedZooInTextBox()
+        {
+
+            string query = "select Location from Zoo where Id = @zid";
+            SqlCommand sqlCommand = new SqlCommand(query, sqlConnection);
+            //The sqlDataAdapter can be imageined like an Interface to make Tables usable by c# -objects
+            SqlDataAdapter adapter = new SqlDataAdapter(sqlCommand);
+            
+            using (adapter)
+            {
+                sqlCommand.Parameters.AddWithValue("@zid",listZoos.SelectedValue);
+                DataTable  dataTable = new DataTable();
+                adapter.Fill(dataTable);
+                textboxInput.Text = dataTable.Rows[0]["Location"].ToString();
+            }
+        }
+        private void OnShowSelectedAnimalInTextBox()
+        {
+            string query = "select Name from Animal where Id = @aid";
+            SqlCommand cmd = new SqlCommand(query,sqlConnection);
+            SqlDataAdapter adapter = new SqlDataAdapter(cmd);
+
+
+            using (adapter)
+            {
+                cmd.Parameters.AddWithValue("@aid",listAllAnimal.SelectedValue);
+
+                DataTable dataTable = new DataTable();
+                adapter.Fill (dataTable);
+                textboxInput.Text = dataTable.Rows[0]["Name"].ToString();
+            }
+        }
+        private void OnListAllAnimals_SelectedChanged(object sender,SelectionChangedEventArgs e)
+        {
+            OnShowSelectedAnimalInTextBox();
+        }
+        private void OnShowSelectedAssociatedAnimalInTextBox()
+        {
+            string query = "select Name from Animal a join ZooAnimal za on a.Id = za.AnimalId and za.AnimalId = @zaid";
+
+            SqlCommand command = new SqlCommand(query,sqlConnection);
+
+            SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(command);
+
+            using (sqlDataAdapter)
+            {
+                command.Parameters.AddWithValue("@zaid",listAssociatedAnimals.SelectedValue);
+
+                DataTable sqlDataTable = new DataTable();
+
+                sqlDataAdapter.Fill (sqlDataTable);
+
+                textboxInput.Text = sqlDataTable.Rows[0]["Name"].ToString();
+            }
+        }
+        private void OnListAssoatedAnimal_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            OnShowSelectedAssociatedAnimalInTextBox();
         }
     }
 }
