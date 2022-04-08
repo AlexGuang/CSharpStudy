@@ -65,7 +65,7 @@ namespace WPF_ZooManager
             catch (Exception e)
             {
 
-                MessageBox.Show(e.ToString());
+               // MessageBox.Show(e.ToString());
             }
         }
         private void ShowAllAnimals()
@@ -348,6 +348,59 @@ namespace WPF_ZooManager
         private void OnListAssoatedAnimal_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             OnShowSelectedAssociatedAnimalInTextBox();
+        }
+
+        private void OnUpdateZoo_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                string query = "update Zoo set Location = @location where Id = @zid";
+
+                SqlCommand sqlCommand = new SqlCommand(query, sqlConnection);
+
+                sqlCommand.Parameters.AddWithValue("@location", textboxInput.Text);
+                sqlCommand.Parameters.AddWithValue("@zid", listZoos.SelectedValue);
+                sqlConnection.Open();
+                sqlCommand.ExecuteScalar();
+            }
+            catch (Exception ex)
+            {
+
+                MessageBox.Show(ex.ToString());
+
+            }
+            finally
+            {
+               
+                sqlConnection.Close();
+                ShowZoos();
+            }
+        }
+
+        private void OnUpdateAnimal_Click(object sender, RoutedEventArgs e)
+        {
+            try
+            {
+                string query = "update Animal set Name = @name where Id = @id ";
+                SqlCommand cmd = new SqlCommand(query, sqlConnection);
+                sqlConnection.Open();
+                cmd.Parameters.AddWithValue("@name", textboxInput.Text);
+                cmd.Parameters.AddWithValue("@id", listAllAnimal.SelectedValue);
+                cmd.ExecuteScalar();
+            }
+            catch (Exception ex)
+            {
+
+                MessageBox.Show(ex.ToString());
+            }
+            finally
+            {
+                sqlConnection.Close();
+                ShowAllAnimals();
+            }
+
+
+
         }
     }
 }
