@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\Linq with XML\Linq with XML\bin\Debug\net5.0\Linq with XML.exe
+E:\Annnew Studio\C#study\github\Gitqiab\Linq with XML\Linq with XML\bin\Debug\net5.0\Linq with XML.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\Linq with XML\Linq with XML\bin\Debug\net5.0\Linq with XML.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\Linq with XML\Linq with XML\bin\Debug\net5.0\Linq with XML.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\Linq with XML\Linq with XML\bin\Debug\net5.0\Linq with XML.dll
+E:\Annnew Studio\C#study\github\Gitqiab\Linq with XML\Linq with XML\bin\Debug\net5.0\ref\Linq with XML.dll
+E:\Annnew Studio\C#study\github\Gitqiab\Linq with XML\Linq with XML\bin\Debug\net5.0\Linq with XML.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\Linq with XML\Linq with XML\obj\Debug\net5.0\Linq with XML.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\Linq with XML\Linq with XML\obj\Debug\net5.0\Linq with XML.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\Linq with XML\Linq with XML\obj\Debug\net5.0\Linq with XML.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\Linq with XML\Linq with XML\obj\Debug\net5.0\Linq with XML.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\Linq with XML\Linq with XML\obj\Debug\net5.0\Linq with XML.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\Linq with XML\Linq with XML\obj\Debug\net5.0\Linq with XML.dll
+E:\Annnew Studio\C#study\github\Gitqiab\Linq with XML\Linq with XML\obj\Debug\net5.0\ref\Linq with XML.dll
+E:\Annnew Studio\C#study\github\Gitqiab\Linq with XML\Linq with XML\obj\Debug\net5.0\Linq with XML.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\Linq with XML\Linq with XML\obj\Debug\net5.0\Linq with XML.genruntimeconfig.cache
