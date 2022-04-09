@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\UniversityManagerUseLinq\UniversityManagerUseLinq\bin\Debug\net5.0\UniversityManagerUseLinq.exe
+E:\Annnew Studio\C#study\github\Gitqiab\UniversityManagerUseLinq\UniversityManagerUseLinq\bin\Debug\net5.0\UniversityManagerUseLinq.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\UniversityManagerUseLinq\UniversityManagerUseLinq\bin\Debug\net5.0\UniversityManagerUseLinq.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\UniversityManagerUseLinq\UniversityManagerUseLinq\bin\Debug\net5.0\UniversityManagerUseLinq.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\UniversityManagerUseLinq\UniversityManagerUseLinq\bin\Debug\net5.0\UniversityManagerUseLinq.dll
+E:\Annnew Studio\C#study\github\Gitqiab\UniversityManagerUseLinq\UniversityManagerUseLinq\bin\Debug\net5.0\ref\UniversityManagerUseLinq.dll
+E:\Annnew Studio\C#study\github\Gitqiab\UniversityManagerUseLinq\UniversityManagerUseLinq\bin\Debug\net5.0\UniversityManagerUseLinq.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\UniversityManagerUseLinq\UniversityManagerUseLinq\obj\Debug\net5.0\UniversityManagerUseLinq.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\UniversityManagerUseLinq\UniversityManagerUseLinq\obj\Debug\net5.0\UniversityManagerUseLinq.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\UniversityManagerUseLinq\UniversityManagerUseLinq\obj\Debug\net5.0\UniversityManagerUseLinq.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\UniversityManagerUseLinq\UniversityManagerUseLinq\obj\Debug\net5.0\UniversityManagerUseLinq.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\UniversityManagerUseLinq\UniversityManagerUseLinq\obj\Debug\net5.0\UniversityManagerUseLinq.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\UniversityManagerUseLinq\UniversityManagerUseLinq\obj\Debug\net5.0\UniversityManagerUseLinq.dll
+E:\Annnew Studio\C#study\github\Gitqiab\UniversityManagerUseLinq\UniversityManagerUseLinq\obj\Debug\net5.0\ref\UniversityManagerUseLinq.dll
+E:\Annnew Studio\C#study\github\Gitqiab\UniversityManagerUseLinq\UniversityManagerUseLinq\obj\Debug\net5.0\UniversityManagerUseLinq.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\UniversityManagerUseLinq\UniversityManagerUseLinq\obj\Debug\net5.0\UniversityManagerUseLinq.genruntimeconfig.cache
