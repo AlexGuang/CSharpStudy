@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\LinqSimpleDemo\LinqSimpleDemo\bin\Debug\net5.0\LinqSimpleDemo.exe
+E:\Annnew Studio\C#study\github\Gitqiab\LinqSimpleDemo\LinqSimpleDemo\bin\Debug\net5.0\LinqSimpleDemo.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\LinqSimpleDemo\LinqSimpleDemo\bin\Debug\net5.0\LinqSimpleDemo.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\LinqSimpleDemo\LinqSimpleDemo\bin\Debug\net5.0\LinqSimpleDemo.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\LinqSimpleDemo\LinqSimpleDemo\bin\Debug\net5.0\LinqSimpleDemo.dll
+E:\Annnew Studio\C#study\github\Gitqiab\LinqSimpleDemo\LinqSimpleDemo\bin\Debug\net5.0\ref\LinqSimpleDemo.dll
+E:\Annnew Studio\C#study\github\Gitqiab\LinqSimpleDemo\LinqSimpleDemo\bin\Debug\net5.0\LinqSimpleDemo.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\LinqSimpleDemo\LinqSimpleDemo\obj\Debug\net5.0\LinqSimpleDemo.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\LinqSimpleDemo\LinqSimpleDemo\obj\Debug\net5.0\LinqSimpleDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\LinqSimpleDemo\LinqSimpleDemo\obj\Debug\net5.0\LinqSimpleDemo.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\LinqSimpleDemo\LinqSimpleDemo\obj\Debug\net5.0\LinqSimpleDemo.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\LinqSimpleDemo\LinqSimpleDemo\obj\Debug\net5.0\LinqSimpleDemo.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\LinqSimpleDemo\LinqSimpleDemo\obj\Debug\net5.0\LinqSimpleDemo.dll
+E:\Annnew Studio\C#study\github\Gitqiab\LinqSimpleDemo\LinqSimpleDemo\obj\Debug\net5.0\ref\LinqSimpleDemo.dll
+E:\Annnew Studio\C#study\github\Gitqiab\LinqSimpleDemo\LinqSimpleDemo\obj\Debug\net5.0\LinqSimpleDemo.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\LinqSimpleDemo\LinqSimpleDemo\obj\Debug\net5.0\LinqSimpleDemo.genruntimeconfig.cache

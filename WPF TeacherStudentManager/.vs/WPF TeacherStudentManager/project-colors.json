@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0952ee67-2020-4a50-aad9-b5aed2b520d3": {
+      "ProjectGuid": "0952ee67-2020-4a50-aad9-b5aed2b520d3",
+      "DisplayName": "WPF TeacherStudentManager",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
