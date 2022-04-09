@@ -79,6 +79,19 @@ namespace UniversityManagerUseLinq
         {
             IEnumerable<Student> sortedStudentbyAge = from student in students orderby student.Age ascending select student;
             return sortedStudentbyAge;
+        } 
+        public void StudentAndUniversityNameCollection()
+        {
+            var studentUniversityCollection = from student in students
+                                              join university in universities
+                                              on student.UniversityID equals university.Id
+                                              orderby student.Name ascending
+                                              select new { StudentName = student.Name, UniversityName = university.Name };
+
+            foreach (var item in studentUniversityCollection)
+            {
+                Console.WriteLine("Student {0} is studying in {1} university",item.StudentName,item.UniversityName);
+            }
         }
     }
 }

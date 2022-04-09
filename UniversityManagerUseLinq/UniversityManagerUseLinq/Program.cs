@@ -43,6 +43,10 @@ namespace UniversityManagerUseLinq
             {
                 Console.WriteLine(i);
             }
+            Console.WriteLine("--------------------------------");
+            Console.WriteLine("New Collection:");
+            universityManager.StudentAndUniversityNameCollection();
+            
 
         }
     }
