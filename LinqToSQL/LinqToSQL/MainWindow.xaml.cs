@@ -29,6 +29,38 @@ namespace LinqToSQL
 
             string connectString = ConfigurationManager.ConnectionStrings["LinqToSQL.Properties.Settings.XiaoguangDBConnectionString"].ConnectionString;
             linqToSQLDaterSeterDataContext = new LinqToSQLDaterSeterDataContext(connectString);
+            InsertUniversities();
+         //  InsertStudents();
+
         }
+        public void InsertUniversities()
+        {
+             //linqToSQLDaterSeterDataContext.ExecuteCommand("delete from University");
+            //linqToSQLDaterSeterDataContext.ExecuteCommand("SET IDENTITY_INSERT University ON");
+            University yale = new University();
+            
+            yale.Name = "Yale";
+           yale.RankedNum = 20;
+            yale.Country = "USA";
+            yale.Location = "Decosasos";
+
+            linqToSQLDaterSeterDataContext.Universities.InsertOnSubmit(yale);
+            linqToSQLDaterSeterDataContext.SubmitChanges();
+           // linqToSQLDaterSeterDataContext.ExecuteCommand("SET IDENTITY_INSERT University OFF");
+            MainDataGrid.ItemsSource = linqToSQLDaterSeterDataContext.Universities;
+        }
+        //public void InsertStudents()
+        //{
+        //    Student xiaoming = new Student();
+        //    xiaoming.Name = "小明";
+        //    xiaoming.Age = 20;
+        //    xiaoming.Gender = "Male";
+        //    xiaoming.UniversityId = 0;
+
+        //    linqToSQLDaterSeterDataContext.Students.InsertOnSubmit(xiaoming);
+        //    linqToSQLDaterSeterDataContext.SubmitChanges();
+
+        //    MainDataGrid.ItemsSource = linqToSQLDaterSeterDataContext.Students;
+        //}
     }
 }

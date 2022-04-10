@@ -6,7 +6,8 @@
         xmlns:local="clr-namespace:LinqToSQL"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <DataGrid Height="400" Width="750">
-        
-    </DataGrid>
+    <Grid>
+        <DataGrid   x:Name="MainDataGrid" HorizontalAlignment="Left" Height="400" Width="700" Margin="10" VerticalAlignment="Top"></DataGrid>
+    </Grid>
+    
 </Window>
