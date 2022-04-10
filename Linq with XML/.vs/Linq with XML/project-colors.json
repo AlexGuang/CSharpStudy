@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3f241e13-7422-486e-868f-7e32800b43b4": {
+      "ProjectGuid": "3f241e13-7422-486e-868f-7e32800b43b4",
+      "DisplayName": "Linq with XML",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
