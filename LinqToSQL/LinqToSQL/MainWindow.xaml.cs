@@ -29,8 +29,14 @@ namespace LinqToSQL
 
             string connectString = ConfigurationManager.ConnectionStrings["LinqToSQL.Properties.Settings.XiaoguangDBConnectionString"].ConnectionString;
             linqToSQLDaterSeterDataContext = new LinqToSQLDaterSeterDataContext(connectString);
-         //   InsertUniversities();
-           InsertStudents();
+            //   InsertUniversities();
+            //InsertStudents();
+            //  InsertLectures();
+            //InsertStudentLectureAssociations();
+            //GetLectrureOfStudent("Candy");
+            GetUniversityOfStudent("Jeams");
+
+
 
         }
 
@@ -115,6 +121,116 @@ namespace LinqToSQL
             linqToSQLDaterSeterDataContext.SubmitChanges();// Upload the datacontext to database
 
             MainDataGrid.ItemsSource = linqToSQLDaterSeterDataContext.Students;// Show the updated database on the application
+        }
+
+
+        public void InsertLectures()
+        {
+            Lecture lecture =  new Lecture();
+            lecture.Name = "Big Data and Algorithm";
+            lecture.LecturerName = "Tom";
+            lecture.ClassRoom = "Room 3, Build 5";
+
+
+            linqToSQLDaterSeterDataContext.Lectures.InsertOnSubmit(lecture);
+           
+
+
+            linqToSQLDaterSeterDataContext.Lectures.InsertOnSubmit(new Lecture
+            { Name = "Object Oriented Programming", LecturerName = "Luke", ClassRoom = "Room 5,Bulid 2" });
+            linqToSQLDaterSeterDataContext.Lectures.InsertOnSubmit(new Lecture
+            { Name = "Block Chain", LecturerName = "Andison", ClassRoom = "Room 12,Bulid 1" });
+            linqToSQLDaterSeterDataContext.Lectures.InsertOnSubmit(new Lecture
+            { Name = "Artificial Intelligence", LecturerName = "Taylor", ClassRoom = "Room 9,Bulid 3" });
+
+            linqToSQLDaterSeterDataContext.SubmitChanges(); 
+
+            MainDataGrid.ItemsSource = linqToSQLDaterSeterDataContext.Lectures;
+
+        }
+        public void InsertStudentLectureAssociations()
+        {
+            Student candy = linqToSQLDaterSeterDataContext.Students.First(st => st.Name == "Candy");
+            Student frank = linqToSQLDaterSeterDataContext.Students.First(st => st.Name == "Frank");
+            Student joe = linqToSQLDaterSeterDataContext.Students.First(st => st.Name == "Joe");
+            Student micheal = linqToSQLDaterSeterDataContext.Students.First(st => st.Name == "Micheal");
+            Student marry = linqToSQLDaterSeterDataContext.Students.First(st => st.Name == "Marry");
+            Student lydia = linqToSQLDaterSeterDataContext.Students.First(st => st.Name == "Lydia");
+            Student jeams = linqToSQLDaterSeterDataContext.Students.First(st => st.Name == "Jeams");
+            Student lorua = linqToSQLDaterSeterDataContext.Students.First(st => st.Name == "Lorua");
+            Student mick = linqToSQLDaterSeterDataContext.Students.First(st => st.Name == "Mick");
+
+            Lecture bigData = linqToSQLDaterSeterDataContext.Lectures.First(lec => lec.Name == "Big Data and Algorithm");
+            Lecture objectoriented = linqToSQLDaterSeterDataContext.Lectures.First(lec => lec.Name == "Object Oriented Programming");
+            Lecture blockChain = linqToSQLDaterSeterDataContext.Lectures.First(lec => lec.Name == "Block Chain");
+            Lecture artificialIntelligence = linqToSQLDaterSeterDataContext.Lectures.First(lec => lec.Name == "Artificial Intelligence");
+
+            linqToSQLDaterSeterDataContext.StudentLectures.InsertOnSubmit(new StudentLecture { StudentId = candy.Id, LectureId = bigData.Id });
+            linqToSQLDaterSeterDataContext.StudentLectures.InsertOnSubmit(new StudentLecture { StudentId = jeams.Id, Lecture = objectoriented });
+            linqToSQLDaterSeterDataContext.StudentLectures.InsertOnSubmit(new StudentLecture {Student = lydia, Lecture = objectoriented});
+            linqToSQLDaterSeterDataContext.StudentLectures.InsertOnSubmit(new StudentLecture { StudentId = frank.Id, LectureId = bigData.Id });
+            linqToSQLDaterSeterDataContext.StudentLectures.InsertOnSubmit(new StudentLecture { StudentId = candy.Id, Lecture = blockChain });
+            linqToSQLDaterSeterDataContext.StudentLectures.InsertOnSubmit(new StudentLecture { StudentId = mick.Id, LectureId = artificialIntelligence.Id });
+            linqToSQLDaterSeterDataContext.StudentLectures.InsertOnSubmit(new StudentLecture { StudentId = lorua.Id, Lecture = objectoriented });
+            linqToSQLDaterSeterDataContext.StudentLectures.InsertOnSubmit(new StudentLecture { StudentId = joe.Id, LectureId = artificialIntelligence.Id });
+            linqToSQLDaterSeterDataContext.StudentLectures.InsertOnSubmit(new StudentLecture { StudentId = candy.Id, Lecture = blockChain });
+            linqToSQLDaterSeterDataContext.StudentLectures.InsertOnSubmit(new StudentLecture { StudentId = mick.Id, LectureId = bigData.Id });
+            linqToSQLDaterSeterDataContext.StudentLectures.InsertOnSubmit(new StudentLecture { StudentId = frank.Id, Lecture = objectoriented });
+            linqToSQLDaterSeterDataContext.StudentLectures.InsertOnSubmit(new StudentLecture { StudentId = lorua.Id, LectureId = bigData.Id });
+            linqToSQLDaterSeterDataContext.StudentLectures.InsertOnSubmit(new StudentLecture { StudentId = candy.Id, Lecture = blockChain });
+            linqToSQLDaterSeterDataContext.StudentLectures.InsertOnSubmit(new StudentLecture { StudentId = marry.Id, LectureId = artificialIntelligence.Id });
+            linqToSQLDaterSeterDataContext.StudentLectures.InsertOnSubmit(new StudentLecture { StudentId = joe.Id, Lecture = objectoriented });
+            linqToSQLDaterSeterDataContext.StudentLectures.InsertOnSubmit(new StudentLecture { StudentId = mick.Id, LectureId = bigData.Id });
+            linqToSQLDaterSeterDataContext.StudentLectures.InsertOnSubmit(new StudentLecture { StudentId = candy.Id, LectureId = bigData.Id });
+            linqToSQLDaterSeterDataContext.StudentLectures.InsertOnSubmit(new StudentLecture { StudentId = lorua.Id, Lecture = blockChain });
+            linqToSQLDaterSeterDataContext.StudentLectures.InsertOnSubmit(new StudentLecture { StudentId = candy.Id, LectureId = bigData.Id });
+            linqToSQLDaterSeterDataContext.StudentLectures.InsertOnSubmit(new StudentLecture { StudentId = mick.Id, Lecture = objectoriented });
+            linqToSQLDaterSeterDataContext.StudentLectures.InsertOnSubmit(new StudentLecture { StudentId = lorua.Id, LectureId = artificialIntelligence.Id });
+            linqToSQLDaterSeterDataContext.StudentLectures.InsertOnSubmit(new StudentLecture { StudentId = candy.Id, LectureId = bigData.Id });
+            linqToSQLDaterSeterDataContext.StudentLectures.InsertOnSubmit(new StudentLecture { StudentId = frank.Id, Lecture = objectoriented });
+            linqToSQLDaterSeterDataContext.StudentLectures.InsertOnSubmit(new StudentLecture { StudentId = candy.Id, LectureId = bigData.Id });
+            linqToSQLDaterSeterDataContext.StudentLectures.InsertOnSubmit(new StudentLecture { StudentId = micheal.Id, Lecture = blockChain });
+            linqToSQLDaterSeterDataContext.StudentLectures.InsertOnSubmit(new StudentLecture { StudentId = lorua.Id, Lecture = objectoriented });
+            linqToSQLDaterSeterDataContext.StudentLectures.InsertOnSubmit(new StudentLecture { StudentId = candy.Id, LectureId = artificialIntelligence.Id });
+            linqToSQLDaterSeterDataContext.StudentLectures.InsertOnSubmit(new StudentLecture { StudentId = frank.Id, Lecture = blockChain });
+
+
+            linqToSQLDaterSeterDataContext.SubmitChanges();
+            MainDataGrid.ItemsSource = linqToSQLDaterSeterDataContext.StudentLectures;
+
+        }
+        public void GetUniversityOfStudent(string name )
+        {
+            try
+            {
+                Student student = linqToSQLDaterSeterDataContext.Students.First(st => st.Name == name);
+                University university = student.University;
+                List<University> universities = new List<University>();
+                universities.Add(university);
+
+                MainDataGrid.ItemsSource = universities;
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+            
+        }
+        public void GetLectrureOfStudent(string name)
+        {
+            try
+            {
+                Student student = linqToSQLDaterSeterDataContext.Students.First(st => st.Name == name);
+                var lecturesOfStudent = from ls in student.StudentLectures select ls.Lecture;
+
+                MainDataGrid.ItemsSource = lecturesOfStudent;
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
         }
     }
 }
