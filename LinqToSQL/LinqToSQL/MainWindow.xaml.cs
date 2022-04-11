@@ -39,7 +39,11 @@ namespace LinqToSQL
             //GetAllStudentFromUniversity1("Tasmania University");
             //GetAllUniversitiesWithTransgenders1();
             // GetAllLecturesBeijingTechTaught();
-            GetAllLecturesBeijingTechTaught1();
+            //  GetAllLecturesBeijingTechTaught1();
+            // UpdateStudent("Mick");
+            DeleteStudent("Bigbird");
+
+
 
 
 
@@ -299,6 +303,25 @@ namespace LinqToSQL
                                      select sl.Lecture;
             MainDataGrid.ItemsSource = lectureBeijingTech;
         }
+        public void UpdateStudent(string studentName)
+        {
+            Student student = linqToSQLDaterSeterDataContext.Students.First(st => st.Name == studentName);
 
+            student.Name = "Bigbird";
+
+            linqToSQLDaterSeterDataContext.SubmitChanges();
+
+            MainDataGrid.ItemsSource = linqToSQLDaterSeterDataContext.Students;
+        }
+        public void DeleteStudent(string studentName)
+        {
+            Student student = linqToSQLDaterSeterDataContext.Students.FirstOrDefault(st => st.Name == studentName);
+
+            linqToSQLDaterSeterDataContext.Students.DeleteOnSubmit(student);
+
+            linqToSQLDaterSeterDataContext.SubmitChanges();
+
+            MainDataGrid.ItemsSource = linqToSQLDaterSeterDataContext.Students;
+        }
     }
 }
