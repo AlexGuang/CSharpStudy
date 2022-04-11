@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "17d5f7fd-5cb2-43b5-85bd-224f26756a3c": {
+      "ProjectGuid": "17d5f7fd-5cb2-43b5-85bd-224f26756a3c",
+      "DisplayName": "LinqToSQLDemo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

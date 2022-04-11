@@ -2,11 +2,22 @@
   <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-QCPIITR\ANNNEWSTUDIOSQL;Initial Catalog=XiaoguangDB;Integrated Security=True" SettingsObjectName="LinqToSQL.Properties.Settings" SettingsPropertyName="XiaoguangDBConnectionString" Provider="System.Data.SqlClient" />
   <Table Name="dbo.University" Member="Universities">
     <Type Name="University">
-      <Column Name="Id" AutoSync="Never" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" UpdateCheck="WhenChanged" />
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" UpdateCheck="WhenChanged" />
       <Column Name="Name" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
       <Column Name="Location" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
       <Column Name="Country" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
       <Column Name="RankedNum" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="University_Student" Member="Students" ThisKey="Id" OtherKey="UniversityId" Type="Student" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Student" Member="Students">
+    <Type Name="Student">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Age" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Gender" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="UniversityId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="University_Student" Member="University" ThisKey="UniversityId" OtherKey="Id" Type="University" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
     </Type>
   </Table>
 </Database>
