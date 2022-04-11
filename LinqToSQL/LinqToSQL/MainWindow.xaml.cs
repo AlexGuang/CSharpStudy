@@ -34,7 +34,15 @@ namespace LinqToSQL
             //  InsertLectures();
             //InsertStudentLectureAssociations();
             //GetLectrureOfStudent("Candy");
-            GetUniversityOfStudent("Jeams");
+            // GetUniversityOfStudent("Jeams");
+            //GetAllStudentFromUniversity("Beijing Tech");
+            //GetAllStudentFromUniversity1("Tasmania University");
+            //GetAllUniversitiesWithTransgenders1();
+            // GetAllLecturesBeijingTechTaught();
+            GetAllLecturesBeijingTechTaught1();
+
+
+
 
 
 
@@ -112,7 +120,7 @@ namespace LinqToSQL
             students.Add(new Student { Name = "Marry", Age = 20, Gender = "female", UniversityId = 5 });
             students.Add(new Student { Name = "Lydia", Age = 21, Gender = "female", University = tasmania });
             students.Add(new Student { Name = "Jeams", Age = 19, Gender = "male", UniversityId = 9 });
-            students.Add(new Student { Name = "Mick", Age = 22, Gender = "male", UniversityId = 6 });
+            students.Add(new Student { Name = "Mick", Age = 22, Gender = "transGender", UniversityId = 6 });
             students.Add(new Student { Name = "Lorua", Age = 17, Gender = "female", University = beijingTech});
 
 
@@ -231,6 +239,66 @@ namespace LinqToSQL
 
                 throw;
             }
+
         }
+        public void GetAllStudentFromUniversity(string uniName)
+        {
+            University university = linqToSQLDaterSeterDataContext.Universities.First(un => un.Name == uniName);
+
+            var allStudentsFromUniversity = from asfu in university.Students select asfu;
+
+            MainDataGrid.ItemsSource = allStudentsFromUniversity;
+        }
+        public void GetAllStudentFromUniversity1(string uniName)// Has same function with the above method
+        {
+            var studentFromUniversity= from student in linqToSQLDaterSeterDataContext.Students
+                                       where student.University.Name == uniName//university can be a property of student
+                                       select student;
+            MainDataGrid.ItemsSource = studentFromUniversity;
+        }
+        public void GetAllUniversitiesWithTransgenders()
+        {
+            var universitiesWithTransgenders = from student in linqToSQLDaterSeterDataContext.Students
+                                               join university in linqToSQLDaterSeterDataContext.Universities
+                                               on student.University equals university
+                                               where student.Gender == "transGender"
+                                               select university;
+
+            MainDataGrid.ItemsSource = universitiesWithTransgenders;
+        }
+        public void GetAllUniversitiesWithTransgenders1() //Has the same function with the above method.
+        {
+            var universitiesWithTransgenders = from university in linqToSQLDaterSeterDataContext.Universities
+                                               join student in linqToSQLDaterSeterDataContext.Students
+                                               on university equals student.University
+                                               where student.Gender == "transGender"
+                                               select university;
+
+            MainDataGrid.ItemsSource = universitiesWithTransgenders;
+        }
+
+        public void GetAllLecturesBeijingTechTaught()
+        {
+            var lectureBeijingTech = from university in linqToSQLDaterSeterDataContext.Universities
+                                     join student in linqToSQLDaterSeterDataContext.Students
+                                     on university equals student.University
+                                     join studentLecture in linqToSQLDaterSeterDataContext.StudentLectures
+                                     on student.Id equals studentLecture.StudentId
+                                     join lecture in linqToSQLDaterSeterDataContext.Lectures
+                                     on studentLecture.Lecture equals lecture
+                                     where university.Name == "Beijing Tech"
+                                     select lecture;
+            MainDataGrid.ItemsSource = lectureBeijingTech;
+        }
+        public void GetAllLecturesBeijingTechTaught1()// has same function with above method
+        {
+            var lectureBeijingTech = from sl in linqToSQLDaterSeterDataContext.StudentLectures
+                                     join student in linqToSQLDaterSeterDataContext.Students
+                                     on sl.Student equals student                                     
+                                     where student.University.Name == "Beijing Tech"
+                                     select sl.Lecture;
+            MainDataGrid.ItemsSource = lectureBeijingTech;
+        }
+
     }
 }
