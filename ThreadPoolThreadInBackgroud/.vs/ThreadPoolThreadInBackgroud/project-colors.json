@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "09969bfa-8e44-4215-b4b9-d7f7ff4e525a": {
+      "ProjectGuid": "09969bfa-8e44-4215-b4b9-d7f7ff4e525a",
+      "DisplayName": "ThreadPoolThreadInBackgroud",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

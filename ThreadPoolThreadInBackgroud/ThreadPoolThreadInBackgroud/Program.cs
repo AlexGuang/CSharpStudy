@@ -8,13 +8,14 @@ namespace ThreadPoolThreadInBackgroud
     {
         static void Main(string[] args)
         {
-            new Thread(() =>
-            {
-                Console.WriteLine($"Thread {Thread.CurrentThread.ManagedThreadId} starts.");
-                Thread.Sleep(1000);
-                Console.WriteLine($"Thread {Thread.CurrentThread.ManagedThreadId} ends.");
-            })
-            { IsBackground = true }.Start();
+            //Console.WriteLine("sdfsdfsd");
+            //new Thread(() =>
+            //{
+            //    Console.WriteLine($"Thread {Thread.CurrentThread.ManagedThreadId} starts.");
+            //    Thread.Sleep(1000);
+            //    Console.WriteLine($"Thread {Thread.CurrentThread.ManagedThreadId} ends.");
+            //})
+            //{ IsBackground = true }.Start();
             Enumerable.Range(0, 1000).ToList().ForEach(f =>
 
             {

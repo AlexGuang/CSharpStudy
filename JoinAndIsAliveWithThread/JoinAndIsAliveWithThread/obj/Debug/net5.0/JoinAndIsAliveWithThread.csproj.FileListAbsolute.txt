@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\JoinAndIsAliveWithThread\JoinAndIsAliveWithThread\bin\Debug\net5.0\JoinAndIsAliveWithThread.exe
+E:\Annnew Studio\C#study\github\Gitqiab\JoinAndIsAliveWithThread\JoinAndIsAliveWithThread\bin\Debug\net5.0\JoinAndIsAliveWithThread.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\JoinAndIsAliveWithThread\JoinAndIsAliveWithThread\bin\Debug\net5.0\JoinAndIsAliveWithThread.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\JoinAndIsAliveWithThread\JoinAndIsAliveWithThread\bin\Debug\net5.0\JoinAndIsAliveWithThread.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\JoinAndIsAliveWithThread\JoinAndIsAliveWithThread\bin\Debug\net5.0\JoinAndIsAliveWithThread.dll
+E:\Annnew Studio\C#study\github\Gitqiab\JoinAndIsAliveWithThread\JoinAndIsAliveWithThread\bin\Debug\net5.0\ref\JoinAndIsAliveWithThread.dll
+E:\Annnew Studio\C#study\github\Gitqiab\JoinAndIsAliveWithThread\JoinAndIsAliveWithThread\bin\Debug\net5.0\JoinAndIsAliveWithThread.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\JoinAndIsAliveWithThread\JoinAndIsAliveWithThread\obj\Debug\net5.0\JoinAndIsAliveWithThread.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\JoinAndIsAliveWithThread\JoinAndIsAliveWithThread\obj\Debug\net5.0\JoinAndIsAliveWithThread.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\JoinAndIsAliveWithThread\JoinAndIsAliveWithThread\obj\Debug\net5.0\JoinAndIsAliveWithThread.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\JoinAndIsAliveWithThread\JoinAndIsAliveWithThread\obj\Debug\net5.0\JoinAndIsAliveWithThread.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\JoinAndIsAliveWithThread\JoinAndIsAliveWithThread\obj\Debug\net5.0\JoinAndIsAliveWithThread.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\JoinAndIsAliveWithThread\JoinAndIsAliveWithThread\obj\Debug\net5.0\JoinAndIsAliveWithThread.dll
+E:\Annnew Studio\C#study\github\Gitqiab\JoinAndIsAliveWithThread\JoinAndIsAliveWithThread\obj\Debug\net5.0\ref\JoinAndIsAliveWithThread.dll
+E:\Annnew Studio\C#study\github\Gitqiab\JoinAndIsAliveWithThread\JoinAndIsAliveWithThread\obj\Debug\net5.0\JoinAndIsAliveWithThread.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\JoinAndIsAliveWithThread\JoinAndIsAliveWithThread\obj\Debug\net5.0\JoinAndIsAliveWithThread.genruntimeconfig.cache
