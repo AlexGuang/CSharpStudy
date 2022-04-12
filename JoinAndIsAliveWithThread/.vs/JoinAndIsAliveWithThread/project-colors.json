@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7ef12c0e-d0af-4d88-bcaa-572167459a2d": {
+      "ProjectGuid": "7ef12c0e-d0af-4d88-bcaa-572167459a2d",
+      "DisplayName": "JoinAndIsAliveWithThread",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
