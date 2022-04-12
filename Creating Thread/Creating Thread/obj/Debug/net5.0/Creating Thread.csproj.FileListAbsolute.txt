@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\Creating Thread\Creating Thread\bin\Debug\net5.0\Creating Thread.exe
+E:\Annnew Studio\C#study\github\Gitqiab\Creating Thread\Creating Thread\bin\Debug\net5.0\Creating Thread.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\Creating Thread\Creating Thread\bin\Debug\net5.0\Creating Thread.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\Creating Thread\Creating Thread\bin\Debug\net5.0\Creating Thread.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\Creating Thread\Creating Thread\bin\Debug\net5.0\Creating Thread.dll
+E:\Annnew Studio\C#study\github\Gitqiab\Creating Thread\Creating Thread\bin\Debug\net5.0\ref\Creating Thread.dll
+E:\Annnew Studio\C#study\github\Gitqiab\Creating Thread\Creating Thread\bin\Debug\net5.0\Creating Thread.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\Creating Thread\Creating Thread\obj\Debug\net5.0\Creating Thread.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\Creating Thread\Creating Thread\obj\Debug\net5.0\Creating Thread.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\Creating Thread\Creating Thread\obj\Debug\net5.0\Creating Thread.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\Creating Thread\Creating Thread\obj\Debug\net5.0\Creating Thread.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\Creating Thread\Creating Thread\obj\Debug\net5.0\Creating Thread.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\Creating Thread\Creating Thread\obj\Debug\net5.0\Creating Thread.dll
+E:\Annnew Studio\C#study\github\Gitqiab\Creating Thread\Creating Thread\obj\Debug\net5.0\ref\Creating Thread.dll
+E:\Annnew Studio\C#study\github\Gitqiab\Creating Thread\Creating Thread\obj\Debug\net5.0\Creating Thread.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\Creating Thread\Creating Thread\obj\Debug\net5.0\Creating Thread.genruntimeconfig.cache
