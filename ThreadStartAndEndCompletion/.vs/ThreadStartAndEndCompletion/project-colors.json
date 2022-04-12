@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f6670e54-a84c-4ed5-ada2-205a5f902d52": {
+      "ProjectGuid": "f6670e54-a84c-4ed5-ada2-205a5f902d52",
+      "DisplayName": "ThreadStartAndEndCompletion",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

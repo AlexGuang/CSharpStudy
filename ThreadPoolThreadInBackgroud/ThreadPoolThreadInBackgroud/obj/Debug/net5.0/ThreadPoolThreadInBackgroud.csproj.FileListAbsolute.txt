@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadPoolThreadInBackgroud\ThreadPoolThreadInBackgroud\bin\Debug\net5.0\ThreadPoolThreadInBackgroud.exe
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadPoolThreadInBackgroud\ThreadPoolThreadInBackgroud\bin\Debug\net5.0\ThreadPoolThreadInBackgroud.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadPoolThreadInBackgroud\ThreadPoolThreadInBackgroud\bin\Debug\net5.0\ThreadPoolThreadInBackgroud.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadPoolThreadInBackgroud\ThreadPoolThreadInBackgroud\bin\Debug\net5.0\ThreadPoolThreadInBackgroud.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadPoolThreadInBackgroud\ThreadPoolThreadInBackgroud\bin\Debug\net5.0\ThreadPoolThreadInBackgroud.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadPoolThreadInBackgroud\ThreadPoolThreadInBackgroud\bin\Debug\net5.0\ref\ThreadPoolThreadInBackgroud.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadPoolThreadInBackgroud\ThreadPoolThreadInBackgroud\bin\Debug\net5.0\ThreadPoolThreadInBackgroud.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadPoolThreadInBackgroud\ThreadPoolThreadInBackgroud\obj\Debug\net5.0\ThreadPoolThreadInBackgroud.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadPoolThreadInBackgroud\ThreadPoolThreadInBackgroud\obj\Debug\net5.0\ThreadPoolThreadInBackgroud.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadPoolThreadInBackgroud\ThreadPoolThreadInBackgroud\obj\Debug\net5.0\ThreadPoolThreadInBackgroud.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadPoolThreadInBackgroud\ThreadPoolThreadInBackgroud\obj\Debug\net5.0\ThreadPoolThreadInBackgroud.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadPoolThreadInBackgroud\ThreadPoolThreadInBackgroud\obj\Debug\net5.0\ThreadPoolThreadInBackgroud.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadPoolThreadInBackgroud\ThreadPoolThreadInBackgroud\obj\Debug\net5.0\ThreadPoolThreadInBackgroud.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadPoolThreadInBackgroud\ThreadPoolThreadInBackgroud\obj\Debug\net5.0\ref\ThreadPoolThreadInBackgroud.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadPoolThreadInBackgroud\ThreadPoolThreadInBackgroud\obj\Debug\net5.0\ThreadPoolThreadInBackgroud.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadPoolThreadInBackgroud\ThreadPoolThreadInBackgroud\obj\Debug\net5.0\ThreadPoolThreadInBackgroud.genruntimeconfig.cache
