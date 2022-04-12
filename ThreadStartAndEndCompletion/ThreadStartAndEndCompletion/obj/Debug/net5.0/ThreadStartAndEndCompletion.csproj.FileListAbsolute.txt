@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadStartAndEndCompletion\ThreadStartAndEndCompletion\bin\Debug\net5.0\ThreadStartAndEndCompletion.exe
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadStartAndEndCompletion\ThreadStartAndEndCompletion\bin\Debug\net5.0\ThreadStartAndEndCompletion.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadStartAndEndCompletion\ThreadStartAndEndCompletion\bin\Debug\net5.0\ThreadStartAndEndCompletion.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadStartAndEndCompletion\ThreadStartAndEndCompletion\bin\Debug\net5.0\ThreadStartAndEndCompletion.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadStartAndEndCompletion\ThreadStartAndEndCompletion\bin\Debug\net5.0\ThreadStartAndEndCompletion.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadStartAndEndCompletion\ThreadStartAndEndCompletion\bin\Debug\net5.0\ref\ThreadStartAndEndCompletion.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadStartAndEndCompletion\ThreadStartAndEndCompletion\bin\Debug\net5.0\ThreadStartAndEndCompletion.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadStartAndEndCompletion\ThreadStartAndEndCompletion\obj\Debug\net5.0\ThreadStartAndEndCompletion.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadStartAndEndCompletion\ThreadStartAndEndCompletion\obj\Debug\net5.0\ThreadStartAndEndCompletion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadStartAndEndCompletion\ThreadStartAndEndCompletion\obj\Debug\net5.0\ThreadStartAndEndCompletion.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadStartAndEndCompletion\ThreadStartAndEndCompletion\obj\Debug\net5.0\ThreadStartAndEndCompletion.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadStartAndEndCompletion\ThreadStartAndEndCompletion\obj\Debug\net5.0\ThreadStartAndEndCompletion.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadStartAndEndCompletion\ThreadStartAndEndCompletion\obj\Debug\net5.0\ThreadStartAndEndCompletion.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadStartAndEndCompletion\ThreadStartAndEndCompletion\obj\Debug\net5.0\ref\ThreadStartAndEndCompletion.dll
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadStartAndEndCompletion\ThreadStartAndEndCompletion\obj\Debug\net5.0\ThreadStartAndEndCompletion.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\ThreadStartAndEndCompletion\ThreadStartAndEndCompletion\obj\Debug\net5.0\ThreadStartAndEndCompletion.genruntimeconfig.cache
