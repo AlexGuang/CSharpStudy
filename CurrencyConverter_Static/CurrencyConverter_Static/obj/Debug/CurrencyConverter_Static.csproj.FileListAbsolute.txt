@@ -4,3 +4,17 @@ E:\Annnew Studio\C#study\github\Gitqiab\CurrencyConverter_Static\CurrencyConvert
 E:\Annnew Studio\C#study\github\Gitqiab\CurrencyConverter_Static\CurrencyConverter_Static\obj\Debug\App.g.cs
 E:\Annnew Studio\C#study\github\Gitqiab\CurrencyConverter_Static\CurrencyConverter_Static\obj\Debug\CurrencyConverter_Static_MarkupCompile.cache
 E:\Annnew Studio\C#study\github\Gitqiab\CurrencyConverter_Static\CurrencyConverter_Static\obj\Debug\CurrencyConverter_Static_MarkupCompile.lref
+E:\Annnew Studio\C#study\github\Gitqiab\CurrencyConverter_Static\CurrencyConverter_Static\bin\Debug\CurrencyConverter_Static.exe.config
+E:\Annnew Studio\C#study\github\Gitqiab\CurrencyConverter_Static\CurrencyConverter_Static\bin\Debug\CurrencyConverter_Static.exe
+E:\Annnew Studio\C#study\github\Gitqiab\CurrencyConverter_Static\CurrencyConverter_Static\bin\Debug\CurrencyConverter_Static.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\CurrencyConverter_Static\CurrencyConverter_Static\bin\Debug\FontAwesome.WPF.dll
+E:\Annnew Studio\C#study\github\Gitqiab\CurrencyConverter_Static\CurrencyConverter_Static\bin\Debug\FontAwesome.WPF.xml
+E:\Annnew Studio\C#study\github\Gitqiab\CurrencyConverter_Static\CurrencyConverter_Static\obj\Debug\App.baml
+E:\Annnew Studio\C#study\github\Gitqiab\CurrencyConverter_Static\CurrencyConverter_Static\obj\Debug\MainWindow.baml
+E:\Annnew Studio\C#study\github\Gitqiab\CurrencyConverter_Static\CurrencyConverter_Static\obj\Debug\CurrencyConverter_Static.g.resources
+E:\Annnew Studio\C#study\github\Gitqiab\CurrencyConverter_Static\CurrencyConverter_Static\obj\Debug\CurrencyConverter_Static.Properties.Resources.resources
+E:\Annnew Studio\C#study\github\Gitqiab\CurrencyConverter_Static\CurrencyConverter_Static\obj\Debug\CurrencyConverter_Static.csproj.GenerateResource.cache
+E:\Annnew Studio\C#study\github\Gitqiab\CurrencyConverter_Static\CurrencyConverter_Static\obj\Debug\CurrencyConverter_Static.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\CurrencyConverter_Static\CurrencyConverter_Static\obj\Debug\CurrencyConverter_Static.csproj.CopyComplete
+E:\Annnew Studio\C#study\github\Gitqiab\CurrencyConverter_Static\CurrencyConverter_Static\obj\Debug\CurrencyConverter_Static.exe
+E:\Annnew Studio\C#study\github\Gitqiab\CurrencyConverter_Static\CurrencyConverter_Static\obj\Debug\CurrencyConverter_Static.pdb
