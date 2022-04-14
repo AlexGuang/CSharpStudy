@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d8d6947b-c1fa-4ca2-af4b-ffe771932df4": {
+      "ProjectGuid": "d8d6947b-c1fa-4ca2-af4b-ffe771932df4",
+      "DisplayName": "WPFCurrencyConvertThroughWebAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
