@@ -14,6 +14,7 @@
             <RowDefinition Height="150"></RowDefinition>
             <RowDefinition Height="100"></RowDefinition>
             <RowDefinition Height="150"></RowDefinition>
+            <RowDefinition Height="20"></RowDefinition>
         </Grid.RowDefinitions>
         <StackPanel Grid.Row="0" Width="1000" HorizontalAlignment="Center"  VerticalAlignment="Center" Height="60">
             <Label Content="Currency Converter" Width="1000" HorizontalAlignment="Center" HorizontalContentAlignment="Center" VerticalAlignment="Center" Height="50" Foreground="#ec2075" FontSize="25" FontWeight="Bold"></Label>
@@ -45,13 +46,13 @@
             <Label Height="40" Width="150" Content="To" Foreground="White" Margin="130,0, 0,0" FontSize="20" VerticalAlignment="Bottom"/>
         </StackPanel>
         <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom" Height="90" Width="800">
-            <TextBox  Name ="txtCurrency" Margin="40,0,0,20" Width="200" Height="30" FontSize="18" VerticalAlignment="Top" VerticalContentAlignment="Center"></TextBox>
-            <ComboBox Name ="cmbFromCurrency" Width="170" Height="30" Margin="60,0,40,0" FontSize="18" VerticalContentAlignment="Center" VerticalAlignment="Top" MaxDropDownHeight="150" SelectionChanged="ComboBox_SelectionChanged"></ComboBox>
+            <TextBox  Name ="txtCurrency" Margin="40,0,0,20" Width="200" Height="30" FontSize="18" VerticalAlignment="Top" PreviewTextInput="InputInspecktion" VerticalContentAlignment="Center"></TextBox>
+            <ComboBox Name ="cmbFromCurrency" Width="170" Height="30" Margin="60,0,40,0" FontSize="18" VerticalContentAlignment="Center" VerticalAlignment="Top" MaxDropDownHeight="150" ></ComboBox>
             <fa:ImageAwesome Icon="Exchange" Height="30" Width="30" Foreground="White" VerticalAlignment="Top"></fa:ImageAwesome>          
-            <ComboBox Name ="cmbToCurrency" Width="170" Height="30" Margin="40,0,0,0" FontSize="18" VerticalContentAlignment="Center" VerticalAlignment="Top" MaxDropDownHeight="150" SelectionChanged="ComboBox_SelectionChanged"></ComboBox>
+            <ComboBox Name ="cmbToCurrency" Width="170" Height="30" Margin="40,0,0,0" FontSize="18" VerticalContentAlignment="Center" VerticalAlignment="Top" MaxDropDownHeight="150" ></ComboBox>
         </StackPanel>
         <StackPanel Grid.Row="3" Orientation="Horizontal" Width="1000" Height="100" HorizontalAlignment="Center" VerticalAlignment="Center">
-            <Button Name ="btnConvert" Content="Convert" Width="150" Height="40" Margin="350,0,20,0" Foreground="White" FontSize="20" Style="{StaticResource ButtonRound}">
+            <Button Name ="btnConvert" Content="Convert" Width="150" Height="40" Margin="350,0,20,0" Foreground="White" FontSize="20" Style="{StaticResource ButtonRound}" Click="btnConvert_Click">
                 <Button.Background>
                     <LinearGradientBrush StartPoint="0,0" EndPoint="1,0">
                         <GradientStop Color="#ec2075" Offset="0.0"></GradientStop>
@@ -59,7 +60,7 @@
                     </LinearGradientBrush>
                 </Button.Background>
             </Button>
-            <Button Name="btnClear" Content="Clear" Width="150" Height="40" Foreground="White" FontSize="20" Style="{StaticResource ButtonRound}">
+            <Button Name="btnClear" Content="Clear" Width="150" Height="40" Foreground="White" FontSize="20" Style="{StaticResource ButtonRound}" Click="btnClear_Click">
                 <Button.Background>
                     <LinearGradientBrush StartPoint="0,0" EndPoint="1,0">
                         <GradientStop Color="#ec2075" Offset="0.0"></GradientStop>
@@ -69,8 +70,10 @@
             </Button>            
         </StackPanel>
         <StackPanel Grid.Row="4" Height="150" Width="800" HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Horizontal">
-            <Image Height="150" Width="150" Source="Images\ANNNEWLogo2.png" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="325 0"></Image>
+            <Image Height="150" Width="150" Source="Images\ANNNEWLogo3.png" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="325 0"></Image>
         </StackPanel>
-        
+        <StackPanel Grid.Row="5" Height="150" Width="800" HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Horizontal"/>
+
+
     </Grid>
 </Window>
