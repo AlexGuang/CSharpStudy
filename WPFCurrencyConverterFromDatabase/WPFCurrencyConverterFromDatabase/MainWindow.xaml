@@ -82,7 +82,97 @@
 
             </Grid>
         </TabItem>
-        <TabItem Name="tbMaster" Header="Currency Master"></TabItem>
+        <TabItem Name="tbMaster" Header="Currency Master">
+            <Grid>                
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="60"></RowDefinition>
+                    <RowDefinition Height="150"></RowDefinition>
+                    <RowDefinition Height="70"></RowDefinition>
+                    <RowDefinition Height="180"></RowDefinition>
+                    <RowDefinition Height="150"></RowDefinition>
+                    <RowDefinition Height="40"></RowDefinition>
+                </Grid.RowDefinitions>
+                <Border BorderThickness="5" Grid.Row="1" CornerRadius="15" Width="900" Height="150">
+                    <Border.BorderBrush>
+                        <LinearGradientBrush StartPoint="1,0" EndPoint="0,0">
+                            <GradientStop Color="#ec2075" Offset="0.0"></GradientStop>
+                            <GradientStop Color="#f33944" Offset="0.50"></GradientStop>
+                        </LinearGradientBrush>
+                    </Border.BorderBrush>
+                    <Rectangle>
+                        <Rectangle.Fill>
+                            <LinearGradientBrush StartPoint="1,0" EndPoint="0,0">
+                                <GradientStop Color="#ec2075" Offset="0.0"></GradientStop>
+                                <GradientStop Color="#f33944" Offset="0.50"></GradientStop>
+                            </LinearGradientBrush>
+                        </Rectangle.Fill>
+                    </Rectangle>
+                </Border>
+                <StackPanel Grid.Row="0" Width="1200" Height="60" HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <Label Width="1200" Height="60" Content="Currency Master" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="#ec2075" FontSize="35" HorizontalContentAlignment="Center" FontWeight="Bold"></Label>
+                </StackPanel>
+                <StackPanel Grid.Row="1" Orientation="Horizontal" Width="900" VerticalAlignment="Top" Height=" 75">
+                    <Label Content="Enter Amount:" FontSize="25" Foreground="White" Margin="200 20 0 0" VerticalAlignment="Bottom"></Label>
+                    <Label Content="Currency Name:" FontSize="25" Foreground="White" Margin="90 20 0 0" VerticalAlignment="Bottom"></Label>
+                </StackPanel>
+                <StackPanel Grid.Row="1" Orientation="Horizontal" Width="900" Height="75" VerticalAlignment="Bottom">
+                    <TextBox Name="textBoxAmount" Height="40" Width="230" Margin="200 0 0 20"></TextBox>
+                    <TextBox Name="textBoxCurrency" Height="40" Width="230" Margin="40 0 0 20"></TextBox>
+                </StackPanel>
+                <StackPanel Grid.Row="2" Orientation="Horizontal" Width="1200" Height="70" HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <Button Name="btnUpdate" Content="Update" Width=" 230" Height="40" FontSize="25" Foreground="White" Margin="350 0 0 0" Style="{StaticResource ButtonRound}">
+                        <Button.Background>
+                            <LinearGradientBrush StartPoint="1,0" EndPoint="0,0">
+                                <GradientStop Color="#ec2075" Offset="0.0"></GradientStop>
+                                <GradientStop Color="#f33944" Offset="0.50"></GradientStop>
+                            </LinearGradientBrush>
+                        </Button.Background>
+                    </Button>
+                    <Button Name="btnCancel" Content="Cancle" Width=" 230" Height="40" FontSize="25" Foreground="White" Margin="40 0 0 0" Style="{StaticResource ButtonRound}">
+                        <Button.Background>
+                            <LinearGradientBrush StartPoint="1,0" EndPoint="0,0">
+                                <GradientStop Color="#ec2075" Offset="0.0"></GradientStop>
+                                <GradientStop Color="#f33944" Offset="0.50"></GradientStop>
+                            </LinearGradientBrush>
+                        </Button.Background>
+                    </Button>
+                </StackPanel>
+                <!--<DataGrid Grid.Row="3" Width="600">
+                    <DataGrid.Columns>
+                        <DataGridTemplateColumn Width="100" Header="Slect" ></DataGridTemplateColumn>
+                        <DataGridTemplateColumn Width="100" Header="Delete"></DataGridTemplateColumn>
+                        <DataGridTextColumn Width="200" Header="Amont"></DataGridTextColumn>
+                        <DataGridTextColumn Width="200" Header=" Currency Name"></DataGridTextColumn>
+                    </DataGrid.Columns>
+                </DataGrid>-->
+                <StackPanel Height="180" Width="1200" Grid.Row="3"  VerticalAlignment="Top">
+                    <DataGrid Name="dgvCurrency" AutoGenerateColumns="False" Height="180" Width="480" Background="Transparent" CanUserAddRows="False"  SelectionUnit="Cell" VerticalScrollBarVisibility="Auto">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn x:Name="Id" Header=" Id" Width="100" CanUserResize="False" Visibility="Hidden" Binding="{Binding Path=Id}"/>
+                            <DataGridTemplateColumn Header="" Width="70" IsReadOnly="True" DisplayIndex="0">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <fa:ImageAwesome Icon="Exchange" Foreground="Black" Width="20" ToolTip="Edit" x:Name="Revise"></fa:ImageAwesome>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+                            <DataGridTemplateColumn Header="" Width="70" IsReadOnly="True" DisplayIndex="1">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <fa:ImageAwesome Icon="Pencil" Foreground="Black" Width="20" ToolTip="Edit" x:Name="Revise"></fa:ImageAwesome>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+                            <DataGridTextColumn x:Name="Amount" Width="150" Header="Amount" CanUserResize="False" CanUserReorder="False" Binding="{Binding Path=Amount}" IsReadOnly="True"/>
+                            <DataGridTextColumn x:Name="CurrencyName" Header="Currency Name" Width="*"  MinWidth="20" CanUserResize="False" CanUserReorder="False" Binding="{Binding Path=CurrencyName}" IsReadOnly="True"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </StackPanel>
+                <StackPanel Grid.Row="4">
+                    <Image Source="Images/ANNNEWLogo3.png" Height="150" HorizontalAlignment="Center" VerticalAlignment="Center"></Image>
+                </StackPanel>
+            </Grid>
+        </TabItem>
     </TabControl>
 
 </Window>
