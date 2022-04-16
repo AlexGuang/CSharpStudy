@@ -8,6 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/annnewlogo3.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("database/currentcyconverter.mdf")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("database/currentcyconverter_log.ldf")]
 
 

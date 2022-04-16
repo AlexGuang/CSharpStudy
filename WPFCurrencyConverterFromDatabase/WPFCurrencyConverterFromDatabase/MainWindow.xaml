@@ -49,13 +49,13 @@
 
                 </StackPanel>
                 <StackPanel Grid.Row="2" Width="900" Height="100" Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom">
-                    <TextBox Name="textBoxConverter" Width=" 230" Height="40" VerticalAlignment="Top" Margin="60 10 0 0" FontSize="25"></TextBox>
+                    <TextBox Name="textBoxConverter" Width=" 230" Height="40" VerticalAlignment="Top" Margin="60 10 0 0" FontSize="25" ></TextBox>
                     <ComboBox Name="cmbFromCurrency" Width=" 180" Height="40" VerticalAlignment="Top" Margin="60 10 30 0" FontSize="25"></ComboBox>
                     <fa:ImageAwesome Icon ="Exchange" Foreground ="White" Width="50" VerticalAlignment="Top" Margin="0 10 0 0"></fa:ImageAwesome>
                     <ComboBox Name="cmbToCurrency" Width=" 200" Height="40" VerticalAlignment="Top" Margin="30 10 0 0" FontSize="25"></ComboBox>
                 </StackPanel>
                 <StackPanel Grid.Row="3" Width="1200" Height="100" VerticalAlignment="Center" HorizontalAlignment="Center" Orientation="Horizontal">
-                    <Button Name="btnConvert" Content="Convert" Width="200" Height="40"  Margin="380 0 0 0"  Style="{StaticResource ButtonRound}" FontSize="25" Foreground="White">
+                    <Button Name="btnConvert" Content="Convert" Width="200" Height="40"  Margin="380 0 0 0"  Style="{StaticResource ButtonRound}" FontSize="25" Foreground="White" Click="btnConvert_Click">
                         <Button.Background>
                             <LinearGradientBrush StartPoint="0,0" EndPoint="1,0" >
                                 <GradientStop Color="#ec2075" Offset="0.0"></GradientStop>
@@ -64,7 +64,7 @@
                             </LinearGradientBrush>
                         </Button.Background>
                     </Button>
-                    <Button Name="btnClear" Content="Clear" Width="200" Height="40"  Margin="30 0 0 0" Style="{StaticResource ButtonRound}" FontSize="25" Foreground="White" >
+                    <Button Name="btnClear" Content="Clear" Width="200" Height="40"  Margin="30 0 0 0" Style="{StaticResource ButtonRound}" FontSize="25" Foreground="White" Click="btnClear_Click" >
                         <Button.Background>
                             <LinearGradientBrush StartPoint="0,0" EndPoint="1,0">
                                 <GradientStop Color="#ec2075" Offset="0.0"></GradientStop>
@@ -152,14 +152,14 @@
                             <DataGridTemplateColumn Header="" Width="70" IsReadOnly="True" DisplayIndex="0">
                                 <DataGridTemplateColumn.CellTemplate>
                                     <DataTemplate>
-                                        <fa:ImageAwesome Icon="Exchange" Foreground="Black" Width="20" ToolTip="Edit" x:Name="Revise"></fa:ImageAwesome>
+                                        <fa:ImageAwesome Icon="Pencil" Foreground="Black" Width="20" ToolTip="Edit" x:Name="Revise"></fa:ImageAwesome>
                                     </DataTemplate>
                                 </DataGridTemplateColumn.CellTemplate>
                             </DataGridTemplateColumn>
                             <DataGridTemplateColumn Header="" Width="70" IsReadOnly="True" DisplayIndex="1">
                                 <DataGridTemplateColumn.CellTemplate>
                                     <DataTemplate>
-                                        <fa:ImageAwesome Icon="Pencil" Foreground="Black" Width="20" ToolTip="Edit" x:Name="Revise"></fa:ImageAwesome>
+                                        <fa:ImageAwesome Icon="Trash" Foreground="Black" Width="20" ToolTip="Edit" x:Name="Revise"></fa:ImageAwesome>
                                     </DataTemplate>
                                 </DataGridTemplateColumn.CellTemplate>
                             </DataGridTemplateColumn>

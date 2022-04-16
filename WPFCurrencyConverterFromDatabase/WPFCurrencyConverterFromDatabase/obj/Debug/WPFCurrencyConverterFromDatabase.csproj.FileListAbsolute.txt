@@ -18,3 +18,6 @@ E:\Annnew Studio\C#study\github\Gitqiab\WPFCurrencyConverterFromDatabase\WPFCurr
 E:\Annnew Studio\C#study\github\Gitqiab\WPFCurrencyConverterFromDatabase\WPFCurrencyConverterFromDatabase\bin\Debug\FontAwesome.WPF.xml
 E:\Annnew Studio\C#study\github\Gitqiab\WPFCurrencyConverterFromDatabase\WPFCurrencyConverterFromDatabase\obj\Debug\WPFCurrencyConverterFromDatabase.csproj.CopyComplete
 E:\Annnew Studio\C#study\github\Gitqiab\WPFCurrencyConverterFromDatabase\WPFCurrencyConverterFromDatabase\obj\Debug\App.baml
+E:\Annnew Studio\C#study\github\Gitqiab\WPFCurrencyConverterFromDatabase\WPFCurrencyConverterFromDatabase\bin\Debug\Database\CurrentcyConverter.mdf
+E:\Annnew Studio\C#study\github\Gitqiab\WPFCurrencyConverterFromDatabase\WPFCurrencyConverterFromDatabase\bin\Debug\Database\CurrentcyConverter_log.ldf
+E:\Annnew Studio\C#study\github\Gitqiab\WPFCurrencyConverterFromDatabase\WPFCurrencyConverterFromDatabase\obj\Debug\WPFCurrencyConverterFromDatabase_Content.g.cs
