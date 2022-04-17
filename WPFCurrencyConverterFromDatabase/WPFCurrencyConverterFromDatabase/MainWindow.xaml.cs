@@ -117,7 +117,7 @@ namespace WPFCurrencyConverterFromDatabase
             }
             else
             {
-                convertedMount = double.Parse(cmbFromCurrency.SelectedIndex.ToString())/ double.Parse(cmbToCurrency.SelectedIndex.ToString())* double.Parse(textBoxConverter.Text.ToString());
+                convertedMount = double.Parse(textBoxConverter.Text.ToString())* amountFrom/amountTo;
                 labelCurrency.Content = convertedMount.ToString("N3");
                 return;
             }
@@ -346,6 +346,41 @@ namespace WPFCurrencyConverterFromDatabase
             {
 
                 MessageBox.Show(ex.ToString(), "Error",MessageBoxButton.OK,MessageBoxImage.Error);
+            }
+
+        }
+
+        private void cmbToCurrency_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            try
+            {
+                
+                if (cmbToCurrency.SelectedValue != null && int.Parse(cmbToCurrency.SelectedValue.ToString()) != 0 && cmbToCurrency.SelectedIndex != 0)
+                {
+                   int cmbToCurrencyf = int.Parse(cmbToCurrency.SelectedValue.ToString());
+                    ConnectDatabase();
+                    sqlCommand = new SqlCommand("select Amount from Currency_Master where Id = @id",sqlConnection);
+                    sqlCommand.CommandType = CommandType.Text;
+                    if (cmbToCurrencyf != 0 && cmbToCurrencyf != null)
+                    {
+                        sqlCommand.Parameters.AddWithValue("@id", cmbToCurrencyf);
+                    }
+                    DataTable dt = new DataTable();
+                    
+                    sqlAdapter = new SqlDataAdapter(sqlCommand);
+                    sqlAdapter.Fill(dt);
+                    if (dt != null && dt.Rows.Count > 0)
+                    {
+                        amountTo = double.Parse(dt.Rows[0]["Amount"].ToString());
+                    }
+                    sqlConnection.Close();
+                }
+
+            }
+            catch (Exception ex)
+            {
+
+               MessageBox.Show(ex.ToString(),"Error",MessageBoxButton.OK,MessageBoxImage.Error);
             }
 
         }

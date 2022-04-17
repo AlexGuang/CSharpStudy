@@ -52,7 +52,7 @@
                     <TextBox Name="textBoxConverter" Width=" 230" Height="40" VerticalAlignment="Top" Margin="60 10 0 0" FontSize="25" ></TextBox>
                     <ComboBox Name="cmbFromCurrency" Width=" 180" Height="40" VerticalAlignment="Top" Margin="60 10 30 0" FontSize="25" SelectionChanged="cmbFromCurrency_SelectionChanged"></ComboBox>
                     <fa:ImageAwesome Icon ="Exchange" Foreground ="White" Width="50" VerticalAlignment="Top" Margin="0 10 0 0"></fa:ImageAwesome>
-                    <ComboBox Name="cmbToCurrency" Width=" 200" Height="40" VerticalAlignment="Top" Margin="30 10 0 0" FontSize="25"></ComboBox>
+                    <ComboBox Name="cmbToCurrency" Width=" 200" Height="40" VerticalAlignment="Top" Margin="30 10 0 0" FontSize="25" SelectionChanged="cmbToCurrency_SelectionChanged"></ComboBox>
                 </StackPanel>
                 <StackPanel Grid.Row="3" Width="1200" Height="100" VerticalAlignment="Center" HorizontalAlignment="Center" Orientation="Horizontal">
                     <Button Name="btnConvert" Content="Convert" Width="200" Height="40"  Margin="380 0 0 0"  Style="{StaticResource ButtonRound}" FontSize="25" Foreground="White" Click="btnConvert_Click">
