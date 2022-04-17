@@ -384,5 +384,27 @@ namespace WPFCurrencyConverterFromDatabase
             }
 
         }
+
+        #region Preview Key Down Events
+        //cmbFromCurrency preview key down event
+        private void cmbFromCurrency_PreviewKeyDown(object sender, KeyEventArgs e)
+        {
+            //If the user press Tab or Enter key then cmbFromCurrency_SelectionChanged event is executed
+            if (e.Key == Key.Tab || e.SystemKey == Key.Enter)
+            {
+                cmbFromCurrency_SelectionChanged(sender, null);
+            }
+        }
+
+        //cmbToCurrency preview key down event
+        private void cmbToCurrency_PreviewKeyDown(object sender, KeyEventArgs e)
+        {
+            //If the user press Tab or Enter key then cmbToCurrency_SelectionChanged event is executed
+            if (e.Key == Key.Tab || e.SystemKey == Key.Enter)
+            {
+                cmbToCurrency_SelectionChanged(sender, null);
+            }
+        }
+        #endregion
     }
 }
