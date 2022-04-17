@@ -28,6 +28,8 @@ namespace WPFCurrencyConverterFromDatabase
         SqlDataAdapter sqlAdapter = new SqlDataAdapter();
 
         private int currentId = 0;
+        private double amountFrom;
+        private double amountTo;
         public MainWindow()
         {
             InitializeComponent();
@@ -303,6 +305,49 @@ namespace WPFCurrencyConverterFromDatabase
 
         }
 
+        private void cmbFromCurrency_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            //ConnectDatabase();
+            //int index = cmbFromCurrency.SelectedIndex;
+            //DataTable da = new DataTable();
+            //string cmd = "select Amount from Currency_Master where Id = @id";
+            //sqlCommand = new SqlCommand(cmd, sqlConnection);
+            //sqlCommand.Parameters.AddWithValue("@id", index);
 
+            //sqlAdapter = new SqlDataAdapter(sqlCommand);
+            //sqlAdapter.Fill(da);
+            //amountFrom = int.Parse(da.Rows[0].ToString());
+            try
+            {
+                if (cmbFromCurrency.SelectedValue!=null && int.Parse(cmbFromCurrency.SelectedValue.ToString())!=0 && cmbFromCurrency.SelectedIndex!=0)
+                {
+                    int CurrencyFromId = int.Parse(cmbFromCurrency.SelectedValue.ToString());
+                    ConnectDatabase();
+                    DataTable dt = new DataTable();
+                    sqlCommand = new SqlCommand("Select Amount from Currency_Master where Id = @id", sqlConnection);
+                    sqlCommand.CommandType = CommandType.Text;
+
+                    if (CurrencyFromId != null && CurrencyFromId!= 0)
+                    {
+                        sqlCommand.Parameters.AddWithValue("@id", CurrencyFromId);
+
+                    }
+                    sqlAdapter = new SqlDataAdapter(sqlCommand);
+                    sqlAdapter.Fill(dt);
+
+                    if (dt!= null&& dt.Rows.Count>0)
+                    {
+                        amountFrom = double.Parse(dt.Rows[0]["Amount"].ToString());
+                    }
+                    sqlConnection.Close();
+                }
+            }
+            catch (Exception ex)
+            {
+
+                MessageBox.Show(ex.ToString(), "Error",MessageBoxButton.OK,MessageBoxImage.Error);
+            }
+
+        }
     }
 }
