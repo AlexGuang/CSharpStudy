@@ -88,8 +88,8 @@
                     <RowDefinition Height="60"></RowDefinition>
                     <RowDefinition Height="150"></RowDefinition>
                     <RowDefinition Height="70"></RowDefinition>
-                    <RowDefinition Height="180"></RowDefinition>
-                    <RowDefinition Height="150"></RowDefinition>
+                    <RowDefinition Height="173"></RowDefinition>
+                    <RowDefinition Height="158"></RowDefinition>
                     <RowDefinition Height="40"></RowDefinition>
                 </Grid.RowDefinitions>
                 <Border BorderThickness="5" Grid.Row="1" CornerRadius="15" Width="900" Height="150">
@@ -116,11 +116,11 @@
                     <Label Content="Currency Name:" FontSize="25" Foreground="White" Margin="90 20 0 0" VerticalAlignment="Bottom"></Label>
                 </StackPanel>
                 <StackPanel Grid.Row="1" Orientation="Horizontal" Width="900" Height="75" VerticalAlignment="Bottom">
-                    <TextBox Name="textBoxAmount" Height="40" Width="230" Margin="200 0 0 20"></TextBox>
-                    <TextBox Name="textBoxCurrency" Height="40" Width="230" Margin="40 0 0 20"></TextBox>
+                    <TextBox Name="textBoxAmount" Height="40" Width="230" Margin="200 0 0 20" FontSize="25" VerticalContentAlignment="Center" HorizontalContentAlignment="Left"></TextBox>
+                    <TextBox Name="textBoxCurrency" Height="40" Width="230" Margin="40 0 0 20" FontSize="25" VerticalContentAlignment="Center" HorizontalContentAlignment="Left"></TextBox>
                 </StackPanel>
                 <StackPanel Grid.Row="2" Orientation="Horizontal" Width="1200" Height="70" HorizontalAlignment="Center" VerticalAlignment="Center">
-                    <Button Name="btnUpdate" Content="Update" Width=" 230" Height="40" FontSize="25" Foreground="White" Margin="350 0 0 0" Style="{StaticResource ButtonRound}">
+                    <Button Name="btnUpdate" Content="Save" Width=" 230" Height="40" FontSize="25" Foreground="White" Margin="350 0 0 0" Style="{StaticResource ButtonRound}" Click="btnUpdate_Click">
                         <Button.Background>
                             <LinearGradientBrush StartPoint="1,0" EndPoint="0,0">
                                 <GradientStop Color="#ec2075" Offset="0.0"></GradientStop>
@@ -128,7 +128,7 @@
                             </LinearGradientBrush>
                         </Button.Background>
                     </Button>
-                    <Button Name="btnCancel" Content="Cancle" Width=" 230" Height="40" FontSize="25" Foreground="White" Margin="40 0 0 0" Style="{StaticResource ButtonRound}">
+                    <Button Name="btnCancel" Content="Cancle" Width=" 230" Height="40" FontSize="25" Foreground="White" Margin="40 0 0 0" Style="{StaticResource ButtonRound}" Click="btnCancel_Click">
                         <Button.Background>
                             <LinearGradientBrush StartPoint="1,0" EndPoint="0,0">
                                 <GradientStop Color="#ec2075" Offset="0.0"></GradientStop>
@@ -146,7 +146,7 @@
                     </DataGrid.Columns>
                 </DataGrid>-->
                 <StackPanel Height="180" Width="1200" Grid.Row="3"  VerticalAlignment="Top">
-                    <DataGrid Name="dgvCurrency" AutoGenerateColumns="False" Height="180" Width="480" Background="Transparent" CanUserAddRows="False"  SelectionUnit="Cell" VerticalScrollBarVisibility="Auto">
+                    <DataGrid Name="dgvCurrency" AutoGenerateColumns="False" Height="180" Width="480" Background="Transparent" CanUserAddRows="False"  SelectionUnit="Cell" VerticalScrollBarVisibility="Auto" SelectedCellsChanged="dgvCurrency_SelectionChanged1">
                         <DataGrid.Columns>
                             <DataGridTextColumn x:Name="Id" Header=" Id" Width="100" CanUserResize="False" Visibility="Hidden" Binding="{Binding Path=Id}"/>
                             <DataGridTemplateColumn Header="" Width="70" IsReadOnly="True" DisplayIndex="0">
@@ -169,7 +169,7 @@
                     </DataGrid>
                 </StackPanel>
                 <StackPanel Grid.Row="4">
-                    <Image Source="Images/ANNNEWLogo3.png" Height="150" HorizontalAlignment="Center" VerticalAlignment="Center"></Image>
+                    <Image Source="Images/ANNNEWLogo3.png" Height="150" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0 7 0 0"></Image>
                 </StackPanel>
             </Grid>
         </TabItem>
