@@ -1,8 +1,10 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 //This is for create DataTable
 using System.Data;
 using System.Linq;
+using System.Net.Http;
 using System.Text;
 //This library is used for Regular Expression
 using System.Text.RegularExpressions;
@@ -24,20 +26,56 @@ namespace WPFCurrencyConvertThroughWebAPI
     /// </summary>
     public partial class MainWindow : Window
     {
-        
-        
+        static Root val;
+
+
         public MainWindow()
         {
-            InitializeComponent();
             
+            InitializeComponent();
+        
+
             //ResetControl method  is used to clear all control values
             ResetControl();
 
             //BindCurrency is used to bind Currency name with the rates in the combobox
+            GetValue();
+
+
+
+
+        }
+        private static  async Task<Root> GetData<T>(string url)
+        {
+            var myRoot = new Root();
+            try
+            {
+                using(var client = new HttpClient())
+                {
+                    client.Timeout = TimeSpan.FromMinutes(1);
+                    HttpResponseMessage response = await client.GetAsync(url);
+                    if (response.StatusCode == System.Net.HttpStatusCode.OK)
+                    {
+                        var ResponceString = await response.Content.ReadAsStringAsync();
+                        var ResponceObject = JsonConvert.DeserializeObject<Root>(ResponceString);
+
+                        return ResponceObject;
+                    }
+                    return myRoot;
+                }
+                
+            }
+            catch (Exception ex)
+            {
+
+                MessageBox.Show(ex.Message);
+                return myRoot;
+            }
+        }
+        private async void GetValue()
+        {
+           val = await GetData<Root>("https://openexchangerates.org/api/latest.json?app_id=7374b7d844da4633a965ce669f5cc97e");
             BindCurrency();
-
-
-
         }
         #region Bind Currency from and to combobox
         private void BindCurrency()
@@ -52,14 +90,16 @@ namespace WPFCurrencyConvertThroughWebAPI
             dataTable.Columns.Add("Rates");// the base rate of the currency
 
             //Add rows in the DataTable with text and value
-            dataTable.Rows.Add("--Select--", 0);
-            dataTable.Rows.Add("INL", 1);
-            dataTable.Rows.Add("USD", 75);
-            dataTable.Rows.Add("RSL", 88);
-            dataTable.Rows.Add("RMB", 100);
-            dataTable.Rows.Add("Bound", 90);
-            dataTable.Rows.Add("EUR", 85);
-            dataTable.Rows.Add("RSA", 5); // Add many currency names and rates into the data table
+            dataTable.Rows.Add("--SELECT--", 0);
+            dataTable.Rows.Add("CNY", val.rates.CNY);
+            dataTable.Rows.Add("USD", val.rates.USD);
+            dataTable.Rows.Add("JPY", val.rates.JPY);
+            dataTable.Rows.Add("AUD", val.rates.AUD);
+            dataTable.Rows.Add("CAD", val.rates.CAD);
+            dataTable.Rows.Add("EUR", val.rates.EUR);
+            dataTable.Rows.Add("GBP", val.rates.GBP);
+            dataTable.Rows.Add("RUB", val.rates.RUB);
+            dataTable.Rows.Add("INR", val.rates.INR);// Add many currency names and rates into the data table
 
             //DataTable data assigned to the  From currency combobox
             cmbFromCurrency.ItemsSource = dataTable.DefaultView;
@@ -130,7 +170,7 @@ namespace WPFCurrencyConvertThroughWebAPI
             else
             {
                 //Calculation for currency converter is From Currency value mutiply(*) with the textbox value and then that total divided(/) with To currency combobox value
-                currencyValue = Double.Parse(cmbFromCurrency.SelectedValue.ToString())/Double.Parse(cmbToCurrency.SelectedValue.ToString()) * Double.Parse(txtCurrency.Text.ToString());
+                currencyValue = Double.Parse(cmbToCurrency.SelectedValue.ToString())/Double.Parse(cmbFromCurrency.SelectedValue.ToString()) * Double.Parse(txtCurrency.Text.ToString());
                 
                 //Show the label converted currency and converted currency name.
                 lblCurrency.Content = cmbToCurrency.Text.ToString() +": "+ currencyValue.ToString("N3");

@@ -18,3 +18,5 @@ E:\Annnew Studio\C#study\github\Gitqiab\WPFCurrencyConvertThroughWebAPI\WPFCurre
 E:\Annnew Studio\C#study\github\Gitqiab\WPFCurrencyConvertThroughWebAPI\WPFCurrencyConvertThroughWebAPI\bin\Debug\FontAwesome.WPF.xml
 E:\Annnew Studio\C#study\github\Gitqiab\WPFCurrencyConvertThroughWebAPI\WPFCurrencyConvertThroughWebAPI\obj\Debug\WPFCurrencyConvertThroughWebAPI.csproj.CopyComplete
 E:\Annnew Studio\C#study\github\Gitqiab\WPFCurrencyConvertThroughWebAPI\WPFCurrencyConvertThroughWebAPI\obj\Debug\App.baml
+E:\Annnew Studio\C#study\github\Gitqiab\WPFCurrencyConvertThroughWebAPI\WPFCurrencyConvertThroughWebAPI\bin\Debug\Newtonsoft.Json.dll
+E:\Annnew Studio\C#study\github\Gitqiab\WPFCurrencyConvertThroughWebAPI\WPFCurrencyConvertThroughWebAPI\bin\Debug\Newtonsoft.Json.xml
