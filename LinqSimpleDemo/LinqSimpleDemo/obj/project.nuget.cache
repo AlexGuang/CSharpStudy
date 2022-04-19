@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BY6u56xqH/Zs4bwQBlEhA61B0C0q//VJDcmJs/GuoCAyburoyRp8Ow8ijs6GmUC3EWuyj4QIGbc4fn3X6/zarw==",
+  "dgSpecHash": "zjU388YK4gmNK73rW+7YcZ0MxZGuJlceO2rRVrrtBcYGSg2fnmKa4vYUq8OEtkeo1KcNKbsBIN56OfvWt6Ry4A==",
   "success": true,
   "projectFilePath": "E:\\Annnew Studio\\C#study\\github\\Gitqiab\\LinqSimpleDemo\\LinqSimpleDemo\\LinqSimpleDemo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Ricky\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
   "logs": []
 }
