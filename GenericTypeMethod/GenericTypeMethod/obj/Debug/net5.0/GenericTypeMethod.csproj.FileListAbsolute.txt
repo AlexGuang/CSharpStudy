@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\GenericTypeMethod\GenericTypeMethod\bin\Debug\net5.0\GenericTypeMethod.exe
+E:\Annnew Studio\C#study\github\Gitqiab\GenericTypeMethod\GenericTypeMethod\bin\Debug\net5.0\GenericTypeMethod.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\GenericTypeMethod\GenericTypeMethod\bin\Debug\net5.0\GenericTypeMethod.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\GenericTypeMethod\GenericTypeMethod\bin\Debug\net5.0\GenericTypeMethod.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\GenericTypeMethod\GenericTypeMethod\bin\Debug\net5.0\GenericTypeMethod.dll
+E:\Annnew Studio\C#study\github\Gitqiab\GenericTypeMethod\GenericTypeMethod\bin\Debug\net5.0\ref\GenericTypeMethod.dll
+E:\Annnew Studio\C#study\github\Gitqiab\GenericTypeMethod\GenericTypeMethod\bin\Debug\net5.0\GenericTypeMethod.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\GenericTypeMethod\GenericTypeMethod\obj\Debug\net5.0\GenericTypeMethod.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\GenericTypeMethod\GenericTypeMethod\obj\Debug\net5.0\GenericTypeMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\GenericTypeMethod\GenericTypeMethod\obj\Debug\net5.0\GenericTypeMethod.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\GenericTypeMethod\GenericTypeMethod\obj\Debug\net5.0\GenericTypeMethod.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\GenericTypeMethod\GenericTypeMethod\obj\Debug\net5.0\GenericTypeMethod.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\GenericTypeMethod\GenericTypeMethod\obj\Debug\net5.0\GenericTypeMethod.dll
+E:\Annnew Studio\C#study\github\Gitqiab\GenericTypeMethod\GenericTypeMethod\obj\Debug\net5.0\ref\GenericTypeMethod.dll
+E:\Annnew Studio\C#study\github\Gitqiab\GenericTypeMethod\GenericTypeMethod\obj\Debug\net5.0\GenericTypeMethod.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\GenericTypeMethod\GenericTypeMethod\obj\Debug\net5.0\GenericTypeMethod.genruntimeconfig.cache

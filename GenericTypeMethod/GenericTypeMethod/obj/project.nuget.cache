@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cVXeH5Gmb3gPYV+FGNqxfbjJZx12XDBWl7eRXW8vcR4eYGXpHGmiqqwFRDWES9ZbxPptPfTyFBfN9YIbT9PPoQ==",
+  "success": true,
+  "projectFilePath": "E:\\Annnew Studio\\C#study\\github\\Gitqiab\\GenericTypeMethod\\GenericTypeMethod\\GenericTypeMethod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ricky\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
