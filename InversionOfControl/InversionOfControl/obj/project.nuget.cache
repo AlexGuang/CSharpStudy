@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vKBMpLhDjvNi5h/42AcPgn1CxmvFes0pfo6dBdUjJHup8Tu20FAqi2litp8MOazYsopj9CAqI6v9r7+09I9/bg==",
+  "success": true,
+  "projectFilePath": "E:\\Annnew Studio\\C#study\\github\\Gitqiab\\InversionOfControl\\InversionOfControl\\InversionOfControl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ricky\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

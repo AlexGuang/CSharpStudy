@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\InversionOfControl\InversionOfControl\bin\Debug\net5.0\InversionOfControl.exe
+E:\Annnew Studio\C#study\github\Gitqiab\InversionOfControl\InversionOfControl\bin\Debug\net5.0\InversionOfControl.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\InversionOfControl\InversionOfControl\bin\Debug\net5.0\InversionOfControl.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\InversionOfControl\InversionOfControl\bin\Debug\net5.0\InversionOfControl.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\InversionOfControl\InversionOfControl\bin\Debug\net5.0\InversionOfControl.dll
+E:\Annnew Studio\C#study\github\Gitqiab\InversionOfControl\InversionOfControl\bin\Debug\net5.0\ref\InversionOfControl.dll
+E:\Annnew Studio\C#study\github\Gitqiab\InversionOfControl\InversionOfControl\bin\Debug\net5.0\InversionOfControl.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\InversionOfControl\InversionOfControl\obj\Debug\net5.0\InversionOfControl.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\InversionOfControl\InversionOfControl\obj\Debug\net5.0\InversionOfControl.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\InversionOfControl\InversionOfControl\obj\Debug\net5.0\InversionOfControl.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\InversionOfControl\InversionOfControl\obj\Debug\net5.0\InversionOfControl.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\InversionOfControl\InversionOfControl\obj\Debug\net5.0\InversionOfControl.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\InversionOfControl\InversionOfControl\obj\Debug\net5.0\InversionOfControl.dll
+E:\Annnew Studio\C#study\github\Gitqiab\InversionOfControl\InversionOfControl\obj\Debug\net5.0\ref\InversionOfControl.dll
+E:\Annnew Studio\C#study\github\Gitqiab\InversionOfControl\InversionOfControl\obj\Debug\net5.0\InversionOfControl.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\InversionOfControl\InversionOfControl\obj\Debug\net5.0\InversionOfControl.genruntimeconfig.cache
