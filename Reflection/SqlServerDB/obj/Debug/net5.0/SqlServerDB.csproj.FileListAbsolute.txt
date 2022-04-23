@@ -1,0 +1,12 @@
+E:\Annnew Studio\C#study\github\Gitqiab\Reflection\SqlServerDB\bin\Debug\net5.0\SqlServerDB.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\Reflection\SqlServerDB\bin\Debug\net5.0\SqlServerDB.dll
+E:\Annnew Studio\C#study\github\Gitqiab\Reflection\SqlServerDB\bin\Debug\net5.0\ref\SqlServerDB.dll
+E:\Annnew Studio\C#study\github\Gitqiab\Reflection\SqlServerDB\bin\Debug\net5.0\SqlServerDB.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\Reflection\SqlServerDB\obj\Debug\net5.0\SqlServerDB.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\Reflection\SqlServerDB\obj\Debug\net5.0\SqlServerDB.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\Reflection\SqlServerDB\obj\Debug\net5.0\SqlServerDB.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\Reflection\SqlServerDB\obj\Debug\net5.0\SqlServerDB.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\Reflection\SqlServerDB\obj\Debug\net5.0\SqlServerDB.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\Reflection\SqlServerDB\obj\Debug\net5.0\SqlServerDB.dll
+E:\Annnew Studio\C#study\github\Gitqiab\Reflection\SqlServerDB\obj\Debug\net5.0\ref\SqlServerDB.dll
+E:\Annnew Studio\C#study\github\Gitqiab\Reflection\SqlServerDB\obj\Debug\net5.0\SqlServerDB.pdb

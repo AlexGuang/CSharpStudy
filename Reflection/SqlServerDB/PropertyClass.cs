@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SqlServerDB
 {
-    internal class PropertyClass
+   public class PropertyClass
     {
         public int Id { get; set; }
         public string Name { get; set; }

@@ -1,0 +1,16 @@
+E:\Annnew Studio\C#study\github\Gitqiab\Reflection\Reflection\bin\Debug\net5.0\Reflection.exe
+E:\Annnew Studio\C#study\github\Gitqiab\Reflection\Reflection\bin\Debug\net5.0\Reflection.deps.json
+E:\Annnew Studio\C#study\github\Gitqiab\Reflection\Reflection\bin\Debug\net5.0\Reflection.runtimeconfig.json
+E:\Annnew Studio\C#study\github\Gitqiab\Reflection\Reflection\bin\Debug\net5.0\Reflection.runtimeconfig.dev.json
+E:\Annnew Studio\C#study\github\Gitqiab\Reflection\Reflection\bin\Debug\net5.0\Reflection.dll
+E:\Annnew Studio\C#study\github\Gitqiab\Reflection\Reflection\bin\Debug\net5.0\ref\Reflection.dll
+E:\Annnew Studio\C#study\github\Gitqiab\Reflection\Reflection\bin\Debug\net5.0\Reflection.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\Reflection\Reflection\obj\Debug\net5.0\Reflection.csproj.AssemblyReference.cache
+E:\Annnew Studio\C#study\github\Gitqiab\Reflection\Reflection\obj\Debug\net5.0\Reflection.GeneratedMSBuildEditorConfig.editorconfig
+E:\Annnew Studio\C#study\github\Gitqiab\Reflection\Reflection\obj\Debug\net5.0\Reflection.AssemblyInfoInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\Reflection\Reflection\obj\Debug\net5.0\Reflection.AssemblyInfo.cs
+E:\Annnew Studio\C#study\github\Gitqiab\Reflection\Reflection\obj\Debug\net5.0\Reflection.csproj.CoreCompileInputs.cache
+E:\Annnew Studio\C#study\github\Gitqiab\Reflection\Reflection\obj\Debug\net5.0\Reflection.dll
+E:\Annnew Studio\C#study\github\Gitqiab\Reflection\Reflection\obj\Debug\net5.0\ref\Reflection.dll
+E:\Annnew Studio\C#study\github\Gitqiab\Reflection\Reflection\obj\Debug\net5.0\Reflection.pdb
+E:\Annnew Studio\C#study\github\Gitqiab\Reflection\Reflection\obj\Debug\net5.0\Reflection.genruntimeconfig.cache
